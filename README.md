@@ -12,7 +12,7 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### [Survey Papers](#content)
 
-1. **Temporal Knowledge Graph Completion: A Survey** ArXiv, 2022. [journal](https://arxiv.org/abs/2201.08236)
+1. **Temporal Knowledge Graph Completion: A Survey** ArXiv, 2022. [paper](https://arxiv.org/abs/2201.08236)
 
     *Borui Cai, Yong Xiang, Longxiang Gao, He Zhang, Yunfeng Li, Jianxin Li.*
 
