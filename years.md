@@ -1,3 +1,47 @@
+2023
+====
+[1] Liu, W., Wang, P., Zhang, Z., & Liu, Q. (2023). Multi-Scale Convolutional Neural Network for Temporal Knowledge Graph Completion. Cognitive Computation, 1-7.
+
+[2] Zhang, S., Liang, X., Tang, H., Zheng, X., Zhang, A. X., & Ma, Y. DuCape: Dual Quaternion and Capsule Network Based Temporal Knowledge Graph Embedding. ACM Transactions on Knowledge Discovery from Data.
+
+[3] Nie, H., Zhao, X., Yao, X., Jiang, Q., Bi, X., Ma, Y., & Sun, Y. (2023). Temporal-structural importance weighted graph convolutional network for temporal knowledge graph completion. Future Generation Computer Systems.
+
+[4] Wang, X., Lyu, S., Wang, X., Wu, X., & Chen, H. (2023). Temporal knowledge graph embedding via sparse transfer matrix. Information Sciences, 623, 56-69.
+
+[5] Bai, L., Yu, W., Chai, D., Zhao, W., & Chen, M. (2023). Temporal knowledge graphs reasoning with iterative guidance by temporal logical rules. Information Sciences, 621, 22-35.
+
+[6] Nolting, S., Han, Z., & Tresp, V. (2023). Modeling the evolution of temporal knowledge graphs with uncertainty. arXiv preprint arXiv:2301.04977.
+
+[7] Gottschalk, S., Kacupaj, E., Abdollahi, S., Alves, D., Amaral, G., Koutsiana, E., ... & Thakkar, G. (2023). Oekg: The open event knowledge graph. arXiv preprint arXiv:2302.14688.
+
+[8] Hou, X., Ma, R., Yan, L., & Ma, Z. (2023). DAuCNet: deep autoregressive framework for temporal link prediction combining copy mechanism network. Knowledge and Information Systems, 1-25.
+
+[9] Shao, P., Liu, T., Che, F., Zhang, D., & Tao, J. (2023). Adaptive pseudo-Siamese policy network for temporal knowledge prediction. Neural Networks.
+
+[10] Gao, Q., Wang, W., Huang, L., Yang, X., Li, T., & Fujita, H. (2023). Dual-grained human mobility learning for location-aware trip recommendation with spatial–temporal graph knowledge fusion. Information Fusion, 92, 46-63.
+
+[11] Zhong, Y., & Huang, C. (2023). A dynamic graph representation learning based on temporal graph transformer. Alexandria Engineering Journal, 63, 359-369.
+
+[12] Zhao, N., Long, Z., Wang, J., & Zhao, Z. D. (2023). AGRE: A knowledge graph recommendation algorithm based on multiple paths embeddings RNN encoder. Knowledge-Based Systems, 259, 110078.
+
+[13] Li, Z., Yu, J., Zhang, G., & Xu, L. (2023). Dynamic spatio-temporal graph network with adaptive propagation mechanism for multivariate time series forecasting. Expert Systems with Applications, 216, 119374.
+
+[14] Wang, H., Cai, S., Liu, P., Zhang, J., Shen, Z., & Liu, K. (2023). DP-STGAT: Traffic statistics publishing with differential privacy and a spatial-temporal graph attention network. Information Sciences, 623, 258-274.
+
+[15] Wen, H., Lin, Y., Xia, Y., Wan, H., Zimmermann, R., & Liang, Y. (2023). DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models. arXiv preprint arXiv:2301.13629.
+
+[16] Mo, X., Tang, R., & Liu, H. (2023). A relation-aware heterogeneous graph convolutional network for relationship prediction. Information Sciences, 623, 311-323.
+
+[17] Lou, Y., Wang, C., Gu, T., Feng, H., Chen, J., & Yu, J. X. (2023). Time-topology analysis on temporal graphs. The VLDB Journal, 1-29.
+
+[18] Wang, J., Shi, Y., Yu, H., Zhang, K., Wang, X., Yan, Z., & Li, H. (2023). Temporal Density-aware Sequential Recommendation Networks with Contrastive Learning. Expert Systems with Applications, 211, 118563.
+
+[19] Huan, C., Song, S. L., Pandey, S., Liu, H., Liu, Y., Lepers, B., ... & Wu, Y. (2023). TEA: A General-Purpose Temporal Graph Random Walk Engine.
+
+[20] Huang, N., Wang, S., Wang, R., Cai, G., Liu, Y., & Dai, Q. (2023). Gated spatial-temporal graph neural network based short-term load forecasting for wide-area multiple buses. International Journal of Electrical Power & Energy Systems, 145, 108651.
+
+[21] Li, Y., Chen, H., Li, Y., Li, L., Philip, S. Y., & Xu, G. (2023). Reinforcement Learning based Path Exploration for Sequential Explainable Recommendation. IEEE Transactions on Knowledge and Data Engineering.
+
 2022
 ====
 [1] (BTDG) Yujing Lai, Chuan Chen, Zibin Zheng, Yangqing Zhang. ["Block term decomposition with distinct time granularities for temporal knowledge graph completion"](https://www.sciencedirect.com/science/article/abs/pii/S0957417422004511?via%3Dihub). Expert Systems with Applications 2022.
