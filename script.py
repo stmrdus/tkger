@@ -104,6 +104,8 @@ def csv2md(csvFile, mdFile, header):
         p.sort(key=sort_by_time)
         papers = papers + p
 
+    # command = "cp " + "years.md" + " " + header
+    # os.system(command)
     command = "cp " + header + " " + mdFile
     os.system(command)
     with open(mdFile, "a", encoding='utf-8') as file:
@@ -145,7 +147,7 @@ def csv2md(csvFile, mdFile, header):
             paper = [p.strip() for p in paper]
             if paper[0] != category:
                 if category == "Survey Papers":
-                    file.writelines("## [Problems](#content)")
+                    file.writelines("## [Approaches](#content)")
                     file.write('\n')
                     file.write('\n')
                 category = paper[0]
@@ -171,4 +173,4 @@ def csv2md(csvFile, mdFile, header):
 
 if __name__ == '__main__':
     # md2csv("../README.md", "../data/papers.csv")
-    csv2md("papers.csv", "README.md", "header.md")
+    csv2md("papers.csv", "README.md", "years.md")

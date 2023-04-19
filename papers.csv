@@ -1,2 +1,4 @@
 category,title,publisher,year,type,link,authors,code
 Survey Papers,Temporal Knowledge Graph Completion: A Survey,ArXiv,2022,paper,https://arxiv.org/abs/2201.08236,"Borui Cai, Yong Xiang, Longxiang Gao, He Zhang, Yunfeng Li, Jianxin Li.",
+Timestamp-included Tensor Decomposition, Tensor decomposition-based temporal knowledge graph embedding, ICTAI, 2020, paper, https://ieeexplore.ieee.org/abstract/document/9288194/,"Lin, Lifan and She, Kun",
+Timestamp-included Tensor Decomposition, Tensor decompositions for temporal knowledge base completion, ArXiv, 2020, paper, https://arxiv.org/abs/2004.04926, "Timothee Lacroix, Guillaume Obozinski, and Nicolas Usunier", 
