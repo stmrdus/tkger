@@ -12,12 +12,6 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 | YAGO15k  | 15403  | 32  | 169  | 138048  |  interval | https://paperswithcode.com/sota/link-prediction-on-yago15k-1  |
 | WIKIDATA  | 11153  | 96  | 328  | 150079  |  interval | https://www.wikidata.org/wiki/Wikidata:Main_Page  |
 
-## [Content](#content)
-
-<table>
-<tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr>
-<tr><td colspan="2"><a href="#approaches">2. Approaches</a></td></tr> 
-
 
 ### 2023
 
@@ -201,3 +195,9 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 ### 2014
 
 [1] (CTPs) Derry Tanti Wijaya, Ndapandula Nakashole, Tom M. Mitchell. ["CTPs: Contextual Temporal Profiles for Time Scoping Facts using State Change Detection"](https://www.aclweb.org/anthology/D14-1207/). EMNLP 2014.
+
+## [Content](#content)
+
+<table>
+<tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr>
+<tr><td colspan="2"><a href="#approaches">2. Approaches</a></td></tr> 
