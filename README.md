@@ -15,57 +15,57 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### 2023
 
-[26] Zhang, S., Liang, X., Li, Z., Feng, J., Zheng, X., & Wu, B. (2023, April). BiQCap: A Biquaternion and Capsule Network-Based Embedding Model for Temporal Knowledge Graph Completion. In Database Systems for Advanced Applications: 28th International Conference, DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part II (pp. 673-688). Cham: Springer Nature Switzerland.
+[26] Zhang, S., Liang, X., Li, Z., Feng, J., Zheng, X., & Wu, B. (2023, April). [BiQCap: A Biquaternion and Capsule Network-Based Embedding Model for Temporal Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_45). In Database Systems for Advanced Applications: 28th International Conference, DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part II (pp. 673-688). Cham: Springer Nature Switzerland.
 
-[25] Mo, C., Wang, Y., Jia, Y., & Luo, C. (2023, April). Time-aware Quaternion Convolutional Network for Temporal Knowledge Graph Reasoning. In Neural Information Processing: 29th International Conference, ICONIP 2022, Virtual Event, November 22–26, 2022, Proceedings, Part IV (pp. 300-312). Singapore: Springer Nature Singapore.
+[25] Mo, C., Wang, Y., Jia, Y., & Luo, C. (2023, April). [Time-aware Quaternion Convolutional Network for Temporal Knowledge Graph Reasoning](https://link.springer.com/chapter/10.1007/978-981-99-1639-9_25). In Neural Information Processing: 29th International Conference, ICONIP 2022, Virtual Event, November 22–26, 2022, Proceedings, Part IV (pp. 300-312). Singapore: Springer Nature Singapore.
 
-[24] Zheng, S., Yin, H., Chen, T., Nguyen, Q. V. H., Chen, W., & Zhao, L. (2023). DREAM: Adaptive Reinforcement Learning based on Attention Mechanism for Temporal Knowledge Graph Reasoning. arXiv preprint arXiv:2304.03984.
+[24] Zheng, S., Yin, H., Chen, T., Nguyen, Q. V. H., Chen, W., & Zhao, L. (2023). [DREAM: Adaptive Reinforcement Learning based on Attention Mechanism for Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2304.03984). arXiv preprint arXiv:2304.03984.
 
-[23] Yue, L., Ren, Y., Zeng, Y., Zhang, J., Zeng, K., & Wan, J. (2023, April). Block Decomposition with Multi-granularity Embedding for Temporal Knowledge Graph Completion. In Database Systems for Advanced Applications: 28th International Conference, DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part II (pp. 706-715). Cham: Springer Nature Switzerland.
+[23] Yue, L., Ren, Y., Zeng, Y., Zhang, J., Zeng, K., & Wan, J. (2023, April). [Block Decomposition with Multi-granularity Embedding for Temporal Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_47). In Database Systems for Advanced Applications: 28th International Conference, DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part II (pp. 706-715). Cham: Springer Nature Switzerland.
 
-[22] Gong, X., Qin, J., Chai, H., Ding, Y., Jia, Y., & Liao, Q. (2023, April). Temporal-Relational Matching Network for Few-Shot Temporal Knowledge Graph Completion. In Database Systems for Advanced Applications: 28th International Conference, DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part II (pp. 768-783). Cham: Springer Nature Switzerland.
+[22] Gong, X., Qin, J., Chai, H., Ding, Y., Jia, Y., & Liao, Q. (2023, April). [Temporal-Relational Matching Network for Few-Shot Temporal Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_52). In Database Systems for Advanced Applications: 28th International Conference, DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part II (pp. 768-783). Cham: Springer Nature Switzerland.
 
-[21] Liu, W., Wang, P., Zhang, Z., & Liu, Q. (2023). Multi-Scale Convolutional Neural Network for Temporal Knowledge Graph Completion. Cognitive Computation, 1-7.
+[21] Liu, W., Wang, P., Zhang, Z., & Liu, Q. (2023). [Multi-Scale Convolutional Neural Network for Temporal Knowledge Graph Completion](https://link.springer.com/article/10.1007/s12559-023-10134-7). Cognitive Computation, 1-7.
 
-[20] Zhang, S., Liang, X., Tang, H., Zheng, X., Zhang, A. X., & Ma, Y. DuCape: Dual Quaternion and Capsule Network Based Temporal Knowledge Graph Embedding. ACM Transactions on Knowledge Discovery from Data.
+[20] Zhang, S., Liang, X., Tang, H., Zheng, X., Zhang, A. X., & Ma, Y. [DuCape: Dual Quaternion and Capsule Network Based Temporal Knowledge Graph Embedding](https://dl.acm.org/doi/abs/10.1145/3589644). ACM Transactions on Knowledge Discovery from Data.
 
-[19] Nie, H., Zhao, X., Yao, X., Jiang, Q., Bi, X., Ma, Y., & Sun, Y. (2023). Temporal-structural importance weighted graph convolutional network for temporal knowledge graph completion. Future Generation Computer Systems.
+[19] Nie, H., Zhao, X., Yao, X., Jiang, Q., Bi, X., Ma, Y., & Sun, Y. (2023). [Temporal-structural importance weighted graph convolutional network for temporal knowledge graph completion](https://www.sciencedirect.com/science/article/pii/S0167739X23000195). Future Generation Computer Systems.
 
-[18] Wang, X., Lyu, S., Wang, X., Wu, X., & Chen, H. (2023). Temporal knowledge graph embedding via sparse transfer matrix. Information Sciences, 623, 56-69.
+[18] Wang, X., Lyu, S., Wang, X., Wu, X., & Chen, H. (2023). [Temporal knowledge graph embedding via sparse transfer matrix](https://www.sciencedirect.com/science/article/pii/S0020025522015122). Information Sciences, 623, 56-69.
 
-[17] Bai, L., Yu, W., Chai, D., Zhao, W., & Chen, M. (2023). Temporal knowledge graphs reasoning with iterative guidance by temporal logical rules. Information Sciences, 621, 22-35.
+[17] Bai, L., Yu, W., Chai, D., Zhao, W., & Chen, M. (2023). [Temporal knowledge graphs reasoning with iterative guidance by temporal logical rules](https://www.sciencedirect.com/science/article/pii/S0020025522013871). Information Sciences, 621, 22-35.
 
-[16] Nolting, S., Han, Z., & Tresp, V. (2023). Modeling the evolution of temporal knowledge graphs with uncertainty. arXiv preprint arXiv:2301.04977.
+[16] Nolting, S., Han, Z., & Tresp, V. (2023). [Modeling the evolution of temporal knowledge graphs with uncertainty](https://arxiv.org/abs/2301.04977). arXiv preprint arXiv:2301.04977.
 
-[15] Gottschalk, S., Kacupaj, E., Abdollahi, S., Alves, D., Amaral, G., Koutsiana, E., ... & Thakkar, G. (2023). Oekg: The open event knowledge graph. arXiv preprint arXiv:2302.14688.
+[15] Gottschalk, S., Kacupaj, E., Abdollahi, S., Alves, D., Amaral, G., Koutsiana, E., ... & Thakkar, G. (2023). [Oekg: The open event knowledge graph](https://arxiv.org/abs/2302.14688). arXiv preprint arXiv:2302.14688.
 
-[14] Hou, X., Ma, R., Yan, L., & Ma, Z. (2023). DAuCNet: deep autoregressive framework for temporal link prediction combining copy mechanism network. Knowledge and Information Systems, 1-25.
+[14] Hou, X., Ma, R., Yan, L., & Ma, Z. (2023). [DAuCNet: deep autoregressive framework for temporal link prediction combining copy mechanism network](https://link.springer.com/article/10.1007/s10115-022-01823-0). Knowledge and Information Systems, 1-25.
 
-[13] Shao, P., Liu, T., Che, F., Zhang, D., & Tao, J. (2023). Adaptive pseudo-Siamese policy network for temporal knowledge prediction. Neural Networks.
+[13] Shao, P., Liu, T., Che, F., Zhang, D., & Tao, J. (2023). [Adaptive pseudo-Siamese policy network for temporal knowledge prediction](https://www.sciencedirect.com/science/article/pii/S0893608023000047). Neural Networks.
 
-[12] Gao, Q., Wang, W., Huang, L., Yang, X., Li, T., & Fujita, H. (2023). Dual-grained human mobility learning for location-aware trip recommendation with spatial–temporal graph knowledge fusion. Information Fusion, 92, 46-63.
+[12] Gao, Q., Wang, W., Huang, L., Yang, X., Li, T., & Fujita, H. (2023). [Dual-grained human mobility learning for location-aware trip recommendation with spatial–temporal graph knowledge fusion](https://www.sciencedirect.com/science/article/pii/S1566253522002287). Information Fusion, 92, 46-63.
 
-[11] Zhong, Y., & Huang, C. (2023). A dynamic graph representation learning based on temporal graph transformer. Alexandria Engineering Journal, 63, 359-369.
+[11] Zhong, Y., & Huang, C. (2023). [A dynamic graph representation learning based on temporal graph transformer](https://www.sciencedirect.com/science/article/pii/S1110016822005336). Alexandria Engineering Journal, 63, 359-369.
 
-[10] Zhao, N., Long, Z., Wang, J., & Zhao, Z. D. (2023). AGRE: A knowledge graph recommendation algorithm based on multiple paths embeddings RNN encoder. Knowledge-Based Systems, 259, 110078.
+[10] Zhao, N., Long, Z., Wang, J., & Zhao, Z. D. (2023). [AGRE: A knowledge graph recommendation algorithm based on multiple paths embeddings RNN encoder](https://www.sciencedirect.com/science/article/pii/S0950705122011741). Knowledge-Based Systems, 259, 110078.
 
-[9] Li, Z., Yu, J., Zhang, G., & Xu, L. (2023). Dynamic spatio-temporal graph network with adaptive propagation mechanism for multivariate time series forecasting. Expert Systems with Applications, 216, 119374.
+[9] Li, Z., Yu, J., Zhang, G., & Xu, L. (2023). [Dynamic spatio-temporal graph network with adaptive propagation mechanism for multivariate time series forecasting](https://www.sciencedirect.com/science/article/pii/S0957417422023922). Expert Systems with Applications, 216, 119374.
 
-[8] Wang, H., Cai, S., Liu, P., Zhang, J., Shen, Z., & Liu, K. (2023). DP-STGAT: Traffic statistics publishing with differential privacy and a spatial-temporal graph attention network. Information Sciences, 623, 258-274.
+[8] Wang, H., Cai, S., Liu, P., Zhang, J., Shen, Z., & Liu, K. (2023). [DP-STGAT: Traffic statistics publishing with differential privacy and a spatial-temporal graph attention network](https://www.sciencedirect.com/science/article/pii/S0020025522013421). Information Sciences, 623, 258-274.
 
-[7] Wen, H., Lin, Y., Xia, Y., Wan, H., Zimmermann, R., & Liang, Y. (2023). DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models. arXiv preprint arXiv:2301.13629.
+[7] Wen, H., Lin, Y., Xia, Y., Wan, H., Zimmermann, R., & Liang, Y. (2023). [DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models](https://arxiv.org/abs/2301.13629). arXiv preprint arXiv:2301.13629.
 
-[6] Mo, X., Tang, R., & Liu, H. (2023). A relation-aware heterogeneous graph convolutional network for relationship prediction. Information Sciences, 623, 311-323.
+[6] Mo, X., Tang, R., & Liu, H. (2023). [A relation-aware heterogeneous graph convolutional network for relationship prediction](https://www.sciencedirect.com/science/article/pii/S0020025522015535). Information Sciences, 623, 311-323.
 
-[5] Lou, Y., Wang, C., Gu, T., Feng, H., Chen, J., & Yu, J. X. (2023). Time-topology analysis on temporal graphs. The VLDB Journal, 1-29.
+[5] Lou, Y., Wang, C., Gu, T., Feng, H., Chen, J., & Yu, J. X. (2023). [Time-topology analysis on temporal graphs](https://link.springer.com/article/10.1007/s00778-022-00772-y). The VLDB Journal, 1-29.
 
-[4] Wang, J., Shi, Y., Yu, H., Zhang, K., Wang, X., Yan, Z., & Li, H. (2023). Temporal Density-aware Sequential Recommendation Networks with Contrastive Learning. Expert Systems with Applications, 211, 118563.
+[4] Wang, J., Shi, Y., Yu, H., Zhang, K., Wang, X., Yan, Z., & Li, H. (2023). [Temporal Density-aware Sequential Recommendation Networks with Contrastive Learning](https://www.sciencedirect.com/science/article/pii/S095741742201627X). Expert Systems with Applications, 211, 118563.
 
-[3] Huan, C., Song, S. L., Pandey, S., Liu, H., Liu, Y., Lepers, B., ... & Wu, Y. (2023). TEA: A General-Purpose Temporal Graph Random Walk Engine.
+[3] Huan, C., Song, S. L., Pandey, S., Liu, H., Liu, Y., Lepers, B., ... & Wu, Y. (2023). [TEA: A General-Purpose Temporal Graph Random Walk Engine](https://madsys.cs.tsinghua.edu.cn/publications/eurosys23-huan.pdf).
 
-[2] Huang, N., Wang, S., Wang, R., Cai, G., Liu, Y., & Dai, Q. (2023). Gated spatial-temporal graph neural network based short-term load forecasting for wide-area multiple buses. International Journal of Electrical Power & Energy Systems, 145, 108651.
+[2] Huang, N., Wang, S., Wang, R., Cai, G., Liu, Y., & Dai, Q. (2023). [Gated spatial-temporal graph neural network based short-term load forecasting for wide-area multiple buses](https://www.sciencedirect.com/science/article/pii/S0142061522006470). International Journal of Electrical Power & Energy Systems, 145, 108651.
 
-[1] Li, Y., Chen, H., Li, Y., Li, L., Philip, S. Y., & Xu, G. (2023). Reinforcement Learning based Path Exploration for Sequential Explainable Recommendation. IEEE Transactions on Knowledge and Data Engineering.
+[1] Li, Y., Chen, H., Li, Y., Li, L., Philip, S. Y., & Xu, G. (2023). [Reinforcement Learning based Path Exploration for Sequential Explainable Recommendation](https://arxiv.org/abs/2111.12262). IEEE Transactions on Knowledge and Data Engineering.
 
 ### 2022
 
