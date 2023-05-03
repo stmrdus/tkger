@@ -27,6 +27,10 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### 2023
 
+[37] Yan, Z., & Tang, X. (2023). [Narrative Graph: Telling Evolving Stories Based on Event-centric Temporal Knowledge Graph](https://link.springer.com/article/10.1007/s11518-023-5561-0). Journal of Systems Science and Systems Engineering, 32(2), 206-221.
+
+[36] Bai, L., Ma, X., Meng, X., Ren, X., & Ke, Y. (2023). [RoAN: A relation-oriented attention network for temporal knowledge graph completion](https://www.sciencedirect.com/science/article/pii/S095219762300492X). Engineering Applications of Artificial Intelligence, 123, 106308.
+
 [35] Chunyang Jiang, Tianchen Zhu, Haoyi Zhou, Chang Liu, Ting Deng, Chunming Hu, and Jianxin Li. 2023. [Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning](https://aclanthology.org/2023.eacl-main.232/). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 3173–3184, Dubrovnik, Croatia. Association for Computational Linguistics.
 
 [34] Chau Nguyen, Tim French, Wei Liu, and Michael Stewart. 2023. [CylE: Cylinder Embeddings for Multi-hop Reasoning over Knowledge Graphs](https://aclanthology.org/2023.eacl-main.127/). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 1728–1743, Dubrovnik, Croatia. Association for Computational Linguistics.
