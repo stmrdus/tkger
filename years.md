@@ -15,9 +15,23 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### 2023
 
-[28] Zhao, X., Li, A., Jiang, R., Chen, K., & Peng, Z. (2023). Householder Transformation-Based Temporal Knowledge Graph Reasoning. Electronics, 12(9), 2001.
+[35] Chunyang Jiang, Tianchen Zhu, Haoyi Zhou, Chang Liu, Ting Deng, Chunming Hu, and Jianxin Li. 2023. [Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning](https://aclanthology.org/2023.eacl-main.232/). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 3173–3184, Dubrovnik, Croatia. Association for Computational Linguistics.
 
-[27] Dong, H., Ning, Z., Wang, P., Qiao, Z., Wang, P., Zhou, Y., & Fu, Y. (2023). Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning. arXiv preprint arXiv:2304.12604.
+[34] Chau Nguyen, Tim French, Wei Liu, and Michael Stewart. 2023. [CylE: Cylinder Embeddings for Multi-hop Reasoning over Knowledge Graphs](https://aclanthology.org/2023.eacl-main.127/). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 1728–1743, Dubrovnik, Croatia. Association for Computational Linguistics.
+
+[33] Xin Ren, Luyi Bai, Qianwen Xiao, and Xiangxi Meng. 2023. [Hierarchical Self-Attention Embedding for Temporal Knowledge Graph Completion](https://dl.acm.org/doi/abs/10.1145/3543507.3583397). In Proceedings of the ACM Web Conference 2023 (WWW '23). Association for Computing Machinery, New York, NY, USA, 2539–2547. https://doi.org/10.1145/3543507.3583397
+
+[32] Mengqi Zhang, Yuwei Xia, Qiang Liu, Shu Wu, and Liang Wang. 2023. [Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning](https://dl.acm.org/doi/abs/10.1145/3543507.3583242). In Proceedings of the ACM Web Conference 2023 (WWW '23). Association for Computing Machinery, New York, NY, USA, 2412–2422. https://doi.org/10.1145/3543507.3583242
+
+[31] Wang, Z., Ding, D., Ren, M., & Conti, M. (2023). [TANGO: A Temporal Spatial Dynamic Graph Model for Event Prediction](https://www.sciencedirect.com/science/article/pii/S0925231223003727). Neurocomputing, 126249.
+
+[30] Guozhen Zhang, Tian Ye, Depeng Jin, and Yong Li. 2023. [An Attentional Multi-scale Co-evolving Model for Dynamic Link Prediction](https://dl.acm.org/doi/abs/10.1145/3543507.3583396). In Proceedings of the ACM Web Conference 2023 (WWW '23). Association for Computing Machinery, New York, NY, USA, 429–437. https://doi.org/10.1145/3543507.3583396
+
+[29] Yu Liu, Wen Hua, Kexuan Xin, Saeid Hosseini, and Xiaofang Zhou. 2023. [TEA: Time-aware Entity Alignment in Knowledge Graphs](https://dl.acm.org/doi/abs/10.1145/3543507.3583317). In Proceedings of the ACM Web Conference 2023 (WWW '23). Association for Computing Machinery, New York, NY, USA, 2591–2599. https://doi.org/10.1145/3543507.3583317
+
+[28] Zhao, X., Li, A., Jiang, R., Chen, K., & Peng, Z. (2023). [Householder Transformation-Based Temporal Knowledge Graph Reasoning](https://www.mdpi.com/2079-9292/12/9/2001). Electronics, 12(9), 2001.
+
+[27] Dong, H., Ning, Z., Wang, P., Qiao, Z., Wang, P., Zhou, Y., & Fu, Y. (2023). [Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2304.12604). arXiv preprint arXiv:2304.12604.
 
 [26] Zhang, S., Liang, X., Li, Z., Feng, J., Zheng, X., & Wu, B. (2023, April). [BiQCap: A Biquaternion and Capsule Network-Based Embedding Model for Temporal Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_45). In Database Systems for Advanced Applications: 28th International Conference, DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part II (pp. 673-688). Cham: Springer Nature Switzerland.
 
