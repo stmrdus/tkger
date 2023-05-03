@@ -1,3 +1,8 @@
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Github repo stars](https://img.shields.io/github/stars/stmrdus/tkger)
+![GitHub last commit](https://img.shields.io/github/last-commit/stmrdus/tkger)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=stmrdus.tkger)
+
 # TKGER
 Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
