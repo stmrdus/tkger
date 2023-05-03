@@ -15,6 +15,10 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### 2023
 
+[28] Zhao, X., Li, A., Jiang, R., Chen, K., & Peng, Z. (2023). Householder Transformation-Based Temporal Knowledge Graph Reasoning. Electronics, 12(9), 2001.
+
+[27] Dong, H., Ning, Z., Wang, P., Qiao, Z., Wang, P., Zhou, Y., & Fu, Y. (2023). Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning. arXiv preprint arXiv:2304.12604.
+
 [26] Zhang, S., Liang, X., Li, Z., Feng, J., Zheng, X., & Wu, B. (2023, April). [BiQCap: A Biquaternion and Capsule Network-Based Embedding Model for Temporal Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_45). In Database Systems for Advanced Applications: 28th International Conference, DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part II (pp. 673-688). Cham: Springer Nature Switzerland.
 
 [25] Mo, C., Wang, Y., Jia, Y., & Luo, C. (2023, April). [Time-aware Quaternion Convolutional Network for Temporal Knowledge Graph Reasoning](https://link.springer.com/chapter/10.1007/978-981-99-1639-9_25). In Neural Information Processing: 29th International Conference, ICONIP 2022, Virtual Event, November 22–26, 2022, Proceedings, Part IV (pp. 300-312). Singapore: Springer Nature Singapore.
@@ -66,6 +70,8 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 [2] Huang, N., Wang, S., Wang, R., Cai, G., Liu, Y., & Dai, Q. (2023). [Gated spatial-temporal graph neural network based short-term load forecasting for wide-area multiple buses](https://www.sciencedirect.com/science/article/pii/S0142061522006470). International Journal of Electrical Power & Energy Systems, 145, 108651.
 
 [1] Li, Y., Chen, H., Li, Y., Li, L., Philip, S. Y., & Xu, G. (2023). [Reinforcement Learning based Path Exploration for Sequential Explainable Recommendation](https://arxiv.org/abs/2111.12262). IEEE Transactions on Knowledge and Data Engineering.
+
+Chen, H., Li, Y., Sun, X., Xu, G., & Yin, H. (2021, March). [Temporal meta-path guided explainable recommendation](https://arxiv.org/abs/2101.01433). In Proceedings of the 14th ACM international conference on web search and data mining (pp. 1056-1064).
 
 ### 2022
 
