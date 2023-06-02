@@ -27,6 +27,12 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### 2023
 
+[41] Hou, X., Ma, R., Yan, L., & Ma, Z. (2023). [T-GAE: A Timespan-Aware Graph Attention-based Embedding Model for Temporal Knowledge Graph Completion](https://www.sciencedirect.com/science/article/pii/S0020025523008101). Information Sciences, 119225.
+
+[40] Rage, U. K., Maharana, A., & Polepalli, K. R. (2023, May). [A Novel Explainable Link Forecasting Framework for Temporal Knowledge Graphs Using Time-Relaxed Cyclic and Acyclic Rules](https://link.springer.com/chapter/10.1007/978-3-031-33374-3_21). In Advances in Knowledge Discovery and Data Mining: 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD 2023, Osaka, Japan, May 25–28, 2023, Proceedings, Part I (pp. 264-275). Cham: Springer Nature Switzerland.
+
+[39] Wang, J., Wang, B., Gao, J., Li, X., Hu, Y., & Yin, B. (2023). [QDN: A Quadruplet Distributor Network for Temporal Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/10132432/). IEEE Transactions on Neural Networks and Learning Systems.
+
 [38] Xu, W., Liu, B., Peng, M., Jia, X., & Peng, M. (2023). [Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion](https://arxiv.org/abs/2305.07912). arXiv preprint arXiv:2305.07912.
 
 [37] Yan, Z., & Tang, X. (2023). [Narrative Graph: Telling Evolving Stories Based on Event-centric Temporal Knowledge Graph](https://link.springer.com/article/10.1007/s11518-023-5561-0). Journal of Systems Science and Systems Engineering, 32(2), 206-221.
