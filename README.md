@@ -27,6 +27,8 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### 2023
 
+[39] Mirtaheri, M., Rostami, M., & Galstyan, A. (2023). [History Repeats: Overcoming Catastrophic Forgetting For Event-Centric Temporal Knowledge Graph Completion](https://arxiv.org/pdf/2305.18675.pdf). arXiv preprint arXiv:2305.18675.
+
 [38] Xu, W., Liu, B., Peng, M., Jia, X., & Peng, M. (2023). [Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion](https://arxiv.org/abs/2305.07912). arXiv preprint arXiv:2305.07912.
 
 [37] Yan, Z., & Tang, X. (2023). [Narrative Graph: Telling Evolving Stories Based on Event-centric Temporal Knowledge Graph](https://link.springer.com/article/10.1007/s11518-023-5561-0). Journal of Systems Science and Systems Engineering, 32(2), 206-221.
