@@ -27,6 +27,8 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### 2023
 
+[42] Mirtaheri, M., Rostami, M., & Galstyan, A. (2023). [History Repeats: Overcoming Catastrophic Forgetting For Event-Centric Temporal Knowledge Graph Completion](https://arxiv.org/pdf/2305.18675.pdf). arXiv preprint arXiv:2305.18675.
+
 [41] Hou, X., Ma, R., Yan, L., & Ma, Z. (2023). [T-GAE: A Timespan-Aware Graph Attention-based Embedding Model for Temporal Knowledge Graph Completion](https://www.sciencedirect.com/science/article/pii/S0020025523008101). Information Sciences, 119225.
 
 [40] Rage, U. K., Maharana, A., & Polepalli, K. R. (2023, May). [A Novel Explainable Link Forecasting Framework for Temporal Knowledge Graphs Using Time-Relaxed Cyclic and Acyclic Rules](https://link.springer.com/chapter/10.1007/978-3-031-33374-3_21). In Advances in Knowledge Discovery and Data Mining: 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD 2023, Osaka, Japan, May 25–28, 2023, Proceedings, Part I (pp. 264-275). Cham: Springer Nature Switzerland.
