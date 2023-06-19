@@ -27,6 +27,8 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### 2023
 
+[43] Shao, P., He, J., Li, G., Zhang, D., & Tao, J. (2023). [Hierarchical Graph Attention Network for Temporal Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/pii/S0925231223005131). Neurocomputing, 126390.
+
 [42] Mirtaheri, M., Rostami, M., & Galstyan, A. (2023). [History Repeats: Overcoming Catastrophic Forgetting For Event-Centric Temporal Knowledge Graph Completion](https://arxiv.org/pdf/2305.18675.pdf). arXiv preprint arXiv:2305.18675.
 
 [41] Hou, X., Ma, R., Yan, L., & Ma, Z. (2023). [T-GAE: A Timespan-Aware Graph Attention-based Embedding Model for Temporal Knowledge Graph Completion](https://www.sciencedirect.com/science/article/pii/S0020025523008101). Information Sciences, 119225.
