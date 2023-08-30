@@ -13,6 +13,62 @@
 # TKGER
 Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
+## Useful research resources
+
+1. Graph-based Deep Learning Literature, [Github](https://github.com/naganandy/graph-based-deep-learning-literature)
+
+    *links to conference publications in graph-based deep learning*
+
+2. Reinforcement learning on graphs: A survey, [Github](https://github.com/neunms/Reinforcement-learning-on-graphs-A-survey)
+
+    *This collection of papers can be used to summarize research about graph reinforcement learning for the convenience of researchers.*
+
+3. Awesome Machine Learning for Combinatorial Optimization Resources, [Github](https://github.com/Thinklab-SJTU/awesome-ml4co)
+
+    *Awesome machine learning for combinatorial optimization papers.*
+
+4. Awesome-TKGC, [Github](https://github.com/jiapuwang/Awesome-TKGC)
+
+    *A collection of papers and resources about temporal knowledge graph completion (TKGC).*
+
+5. AKGR: Awesome Knowledge Graph Reasoning, [Github](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)
+
+    *AKGR: Awesome Knowledge Graph Reasoning is a collection of knowledge graph reasoning works, including papers, codes and datasets.*
+
+6. Awesome Knowledge Graph, [Github](https://github.com/totogo/awesome-knowledge-graph)
+
+    *A curated list of Knowledge Graph related learning materials, databases, tools and other resources.*
+
+7. Awesome-DynamicGraphLearning, [Github](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
+
+    *Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs).*
+
+## [Survey Papers](#content)
+
+### 2023
+
+1. **A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects**, ArXiv, 2023. [paper](https://arxiv.org/abs/2308.02457)
+
+    *Jiapu Wang, Boyue Wang, Meikang Qiu, Shirui Pan, Bo Xiong, Heng Liu, Linhao Luo, Tengfei Liu, Yongli Hu, Baocai Yin, Wen Gao*
+
+### 2022
+
+1. **Temporal Knowledge Graph Completion: A Survey** ArXiv, 2022. [paper](https://arxiv.org/abs/2201.08236)
+
+    *Borui Cai, Yong Xiang, Longxiang Gao, He Zhang, Yunfeng Li, Jianxin Li.*
+
+## [Approaches](#content)
+
+### [Timestamp-included Tensor Decomposition](#content)
+
+1. **Tensor decomposition-based temporal knowledge graph embedding** ICTAI, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9288194/)
+
+    *Lin, Lifan and She, Kun*
+
+2. **Tensor decompositions for temporal knowledge base completion** ArXiv, 2020. [paper](https://arxiv.org/abs/2004.04926), [code](Guillaume Obozinski)
+
+    *"Timothee Lacroix*
+
 ## Datasets
 
 | Name  | #Entities  | #Relations  | #Timestamps  | #Collections  |  Timestamp | Link download  |
@@ -243,36 +299,4 @@ Chen, H., Li, Y., Sun, X., Xu, G., & Yin, H. (2021, March). [Temporal meta-path 
 ### 2014
 
 [1] (CTPs) Derry Tanti Wijaya, Ndapandula Nakashole, Tom M. Mitchell. ["CTPs: Contextual Temporal Profiles for Time Scoping Facts using State Change Detection"](https://www.aclweb.org/anthology/D14-1207/). EMNLP 2014.
-
-## [Content](#content)
-
-<table>
-<tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr>
-<tr><td colspan="2"><a href="#approaches">2. Approaches</a></td></tr> 
-<tr>
-	<td>&emsp;<a href=#timestamp-included-tensor-decomposition>2.1 Timestamp-included Tensor Decomposition (TiTD)</a></td>
-<td>&ensp;</td>
-</tr>
-</table>
-
-
-
-
-### [Survey Papers](#content)
-
-1. **Temporal Knowledge Graph Completion: A Survey** ArXiv, 2022. [paper](https://arxiv.org/abs/2201.08236)
-
-    *Borui Cai, Yong Xiang, Longxiang Gao, He Zhang, Yunfeng Li, Jianxin Li.*
-
-## [Approaches](#content)
-
-### [Timestamp-included Tensor Decomposition](#content)
-
-1. **Tensor decomposition-based temporal knowledge graph embedding** ICTAI, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9288194/)
-
-    *Lin, Lifan and She, Kun*
-
-2. **Tensor decompositions for temporal knowledge base completion** ArXiv, 2020. [paper](https://arxiv.org/abs/2004.04926), [code](Guillaume Obozinski)
-
-    *"Timothee Lacroix*
 

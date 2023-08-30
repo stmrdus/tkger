@@ -244,8 +244,3 @@ Chen, H., Li, Y., Sun, X., Xu, G., & Yin, H. (2021, March). [Temporal meta-path 
 
 [1] (CTPs) Derry Tanti Wijaya, Ndapandula Nakashole, Tom M. Mitchell. ["CTPs: Contextual Temporal Profiles for Time Scoping Facts using State Change Detection"](https://www.aclweb.org/anthology/D14-1207/). EMNLP 2014.
 
-## [Content](#content)
-
-<table>
-<tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr>
-<tr><td colspan="2"><a href="#approaches">2. Approaches</a></td></tr> 
