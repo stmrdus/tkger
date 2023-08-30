@@ -1,7 +1,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Github repo stars](https://img.shields.io/github/stars/stmrdus/tkger)
 ![GitHub last commit](https://img.shields.io/github/last-commit/stmrdus/tkger)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=stmrdus.tkger)
 
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/stmrdus/tkger"><a href="https://github.com/stmrdus/tkger/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/stmrdus/tkger"></a>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/stmrdus/tkger">
@@ -118,6 +117,16 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### 2023
 
+[48] Rage, U. K., Maharana, A., & Polepalli, K. R. (2023, May). [A Novel Explainable Link Forecasting Framework for Temporal Knowledge Graphs Using Time-Relaxed Cyclic and Acyclic Rules](https://link.springer.com/chapter/10.1007/978-3-031-33374-3_21). In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 264-275). Cham: Springer Nature Switzerland. [Github](https://github.com/ab1nash/TRKG-Miner)
+
+[47] Liu, X., Wu, J., Li, T., Chen, L., & Gao, Y. (2023). [Unsupervised entity alignment for temporal knowledge graphs](https://arxiv.org/pdf/2302.00796). arXiv preprint arXiv:2302.00796. [Github](https://github.com/ZJU-DAILY/DualMatch)
+
+[46] Xu, Y., Ou, J., Xu, H., & Fu, L. (2023, June). [Temporal knowledge graph reasoning with historical contrastive learning](https://ojs.aaai.org/index.php/AAAI/article/view/25601/25373). In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 37, No. 4, pp. 4765-4773). [Github](https://github.com/xyjigsaw/CENET)
+
+[45] Niu, G., & Li, B. (2023, June). [Logic and Commonsense-Guided Temporal Knowledge Graph Completion](https://ojs.aaai.org/index.php/AAAI/article/download/25579/25351). In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 37, No. 4, pp. 4569-4577). [Github](https://github.com/ngl567/LCGE)
+
+[44] Li, J., Su, X., & Gao, G. (2023, July). [TeAST: Temporal Knowledge Graph Embedding via Archimedean Spiral Timeline](https://aclanthology.org/2023.acl-long.862.pdf). In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 15460-15474). [Github](https://github.com/dellixx/TeAST)
+
 [43] Shao, P., He, J., Li, G., Zhang, D., & Tao, J. (2023). [Hierarchical Graph Attention Network for Temporal Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/pii/S0925231223005131). Neurocomputing, 126390.
 
 [42] Mirtaheri, M., Rostami, M., & Galstyan, A. (2023). [History Repeats: Overcoming Catastrophic Forgetting For Event-Centric Temporal Knowledge Graph Completion](https://arxiv.org/pdf/2305.18675.pdf). arXiv preprint arXiv:2305.18675.
@@ -126,9 +135,9 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [40] Rage, U. K., Maharana, A., & Polepalli, K. R. (2023, May). [A Novel Explainable Link Forecasting Framework for Temporal Knowledge Graphs Using Time-Relaxed Cyclic and Acyclic Rules](https://link.springer.com/chapter/10.1007/978-3-031-33374-3_21). In Advances in Knowledge Discovery and Data Mining: 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD 2023, Osaka, Japan, May 25–28, 2023, Proceedings, Part I (pp. 264-275). Cham: Springer Nature Switzerland.
 
-[39] Wang, J., Wang, B., Gao, J., Li, X., Hu, Y., & Yin, B. (2023). [QDN: A Quadruplet Distributor Network for Temporal Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/10132432/). IEEE Transactions on Neural Networks and Learning Systems.
+[39] Wang, J., Wang, B., Gao, J., Li, X., Hu, Y., & Yin, B. (2023). [QDN: A Quadruplet Distributor Network for Temporal Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/10132432/). IEEE Transactions on Neural Networks and Learning Systems. [Github](https://github.com/jiapuwang/QDN-A-Quadruplet-Distributor-Network-for-Temporal-Knowledge-Graph-Completion)
 
-[38] Xu, W., Liu, B., Peng, M., Jia, X., & Peng, M. (2023). [Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion](https://arxiv.org/abs/2305.07912). arXiv preprint arXiv:2305.07912.
+[38] Xu, W., Liu, B., Peng, M., Jia, X., & Peng, M. (2023). [Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion](https://arxiv.org/abs/2305.07912). arXiv preprint arXiv:2305.07912., [Github](https://github.com/JaySaligia/PPT)
 
 [37] Yan, Z., & Tang, X. (2023). [Narrative Graph: Telling Evolving Stories Based on Event-centric Temporal Knowledge Graph](https://link.springer.com/article/10.1007/s11518-023-5561-0). Journal of Systems Science and Systems Engineering, 32(2), 206-221.
 
@@ -140,7 +149,7 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [33] Xin Ren, Luyi Bai, Qianwen Xiao, and Xiangxi Meng. 2023. [Hierarchical Self-Attention Embedding for Temporal Knowledge Graph Completion](https://dl.acm.org/doi/abs/10.1145/3543507.3583397). In Proceedings of the ACM Web Conference 2023 (WWW '23). Association for Computing Machinery, New York, NY, USA, 2539–2547. https://doi.org/10.1145/3543507.3583397
 
-[32] Mengqi Zhang, Yuwei Xia, Qiang Liu, Shu Wu, and Liang Wang. 2023. [Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning](https://dl.acm.org/doi/abs/10.1145/3543507.3583242). In Proceedings of the ACM Web Conference 2023 (WWW '23). Association for Computing Machinery, New York, NY, USA, 2412–2422. https://doi.org/10.1145/3543507.3583242
+[32] Mengqi Zhang, Yuwei Xia, Qiang Liu, Shu Wu, and Liang Wang. 2023. [Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning](https://dl.acm.org/doi/abs/10.1145/3543507.3583242). In Proceedings of the ACM Web Conference 2023 (WWW '23). Association for Computing Machinery, New York, NY, USA, 2412–2422. https://doi.org/10.1145/3543507.3583242, [Github](https://github.com/CRIPAC-DIG/HGLS)
 
 [31] Wang, Z., Ding, D., Ren, M., & Conti, M. (2023). [TANGO: A Temporal Spatial Dynamic Graph Model for Event Prediction](https://www.sciencedirect.com/science/article/pii/S0925231223003727). Neurocomputing, 126249.
 
@@ -208,45 +217,53 @@ Chen, H., Li, Y., Sun, X., Xu, G., & Yin, H. (2021, March). [Temporal meta-path 
 
 ### 2022
 
-[1] (BTDG) Yujing Lai, Chuan Chen, Zibin Zheng, Yangqing Zhang. ["Block term decomposition with distinct time granularities for temporal knowledge graph completion"](https://www.sciencedirect.com/science/article/abs/pii/S0957417422004511?via%3Dihub). Expert Systems with Applications 2022.
+[24] Sun, H., Geng, S., Zhong, J., Hu, H., & He, K. (2022, December). [Graph Hawkes Transformer for Extrapolated Reasoning on Temporal Knowledge Graphs](https://aclanthology.org/2022.emnlp-main.507.pdf). In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (pp. 7481-7493). [Github](https://github.com/JHL-HUST/GHT)
 
-[2] (EvoExplore) Jiasheng Zhang, Shuang Liang, Yongpan Sheng, Jie Shao. ["Temporal knowledge graph representation learning with local and global evolutions"](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006141?via%3Dihub). Knowledge-Based Systems 2022.
+[23] Wang, Z., Du, H., Yao, Q., & Li, X. (2022). [Search to Pass Messages for Temporal Knowledge Graph Completion](https://arxiv.org/pdf/2210.16740). arXiv preprint arXiv:2210.16740. [Github](https://github.com/striderdu/SPA)
 
-[3] (TuckERT) Pengpeng Shao, Dawei Zhang, Guohua Yang, Jianhua Tao, Feihu Che, Tong Liu. ["Tucker decomposition-based temporal knowledge graph completion"](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010303?via%3Dihub). Knowledge Based Systems 2022. 
+[22] Ding, Z., Wu, J., He, B., Ma, Y., Han, Z., & Tresp, V. (2022). [Few-shot inductive learning on temporal knowledge graphs using concept-aware information](https://arxiv.org/pdf/2211.08169). arXiv preprint arXiv:2211.08169. [Github](https://github.com/Jasper-Wu/FILT)
 
-[4] (BoxTE) Johannes Messner, Ralph Abboud, Ismail Ilkan Ceylan. ["Temporal Knowledge Graph Completion Using Box Embeddings"](https://ojs.aaai.org/index.php/AAAI/article/view/20746). AAAI 2022.
+[21] Lin, X., Xu, C., Su, F., Zhou, G., Hu, T., Li, N., ... & Luo, H. (2022). [TFLEX: Temporal Feature-Logic Embedding Framework for Complex Reasoning over Temporal Knowledge Graph](https://arxiv.org/pdf/2205.14307). arXiv preprint arXiv:2205.14307., [Github](https://github.com/LinXueyuanStdio/TFLEX)
 
-[5] (TempoQR) Costas Mavromatis, Prasanna Lakkur Subramanyam, Vassilis N. Ioannidis, Adesoji Adeshina, Phillip R. Howard, Tetiana Grinberg, Nagib Hakim, George Karypis. ["TempoQR: Temporal Question Reasoning over Knowledge Graphs"](https://ojs.aaai.org/index.php/AAAI/article/view/20526). AAAI 2022. https://github.com/cmavro/TempoQR
+[20] (BTDG) Yujing Lai, Chuan Chen, Zibin Zheng, Yangqing Zhang. ["Block term decomposition with distinct time granularities for temporal knowledge graph completion"](https://www.sciencedirect.com/science/article/abs/pii/S0957417422004511?via%3Dihub). Expert Systems with Applications 2022.
 
-[6] (TLogic) Yushan Liu, Yunpu Ma, Marcel Hildebrandt, Mitchell Joblin, Volker Tresp. ["TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs"](https://ojs.aaai.org/index.php/AAAI/article/view/20330). AAAI 2022. [https://github.com/liu-yushan/TLogic](https://github.com/liu-yushan/TLogic)
+[19] (EvoExplore) Jiasheng Zhang, Shuang Liang, Yongpan Sheng, Jie Shao. ["Temporal knowledge graph representation learning with local and global evolutions"](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006141?via%3Dihub). Knowledge-Based Systems 2022.
 
-[7] (MetaTKGR) Ruijie Wang, zheng li, Dachun Sun, Shengzhong Liu, Jinning Li, Bing Yin, Tarek Abdelzaher. ["Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graphs"](https://openreview.net/forum?id=1LmgISIDZJ). NeurIPS 2022.
+[18] (TuckERT) Pengpeng Shao, Dawei Zhang, Guohua Yang, Jianhua Tao, Feihu Che, Tong Liu. ["Tucker decomposition-based temporal knowledge graph completion"](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010303?via%3Dihub). Knowledge Based Systems 2022. 
 
-[8] (CEN) Zixuan Li, Saiping Guan, Xiaolong Jin, Weihua Peng, Yajuan Lyu, Yong Zhu, Long Bai, Wei Li, Jiafeng Guo, Xueqi Cheng. ["Complex Evolutional Pattern Learning for Temporal Knowledge Graph Reasoning"](https://aclanthology.org/2022.acl-short.32/). ACL 2022. [https://github.com/lee-zix/cen](https://github.com/lee-zix/cen)
+[17] (BoxTE) Johannes Messner, Ralph Abboud, Ismail Ilkan Ceylan. ["Temporal Knowledge Graph Completion Using Box Embeddings"](https://ojs.aaai.org/index.php/AAAI/article/view/20746). AAAI 2022.
 
-[9] (RotateQVS) Kai Chen, Ye Wang, Yitong Li, Aiping Li. ["RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion"](https://aclanthology.org/2022.acl-long.402/). ACL 2022. 
+[16] (TempoQR) Costas Mavromatis, Prasanna Lakkur Subramanyam, Vassilis N. Ioannidis, Adesoji Adeshina, Phillip R. Howard, Tetiana Grinberg, Nagib Hakim, George Karypis. ["TempoQR: Temporal Question Reasoning over Knowledge Graphs"](https://ojs.aaai.org/index.php/AAAI/article/view/20526). AAAI 2022. https://github.com/cmavro/TempoQR
 
-[10] (rGalT) Yifu Gao, Linhui Feng, Zhigang Kan, Yi Han, Linbo Qiao, Dongsheng Li. ["Modeling Precursors for Temporal Knowledge Graph Reasoning via Auto-encoder Structure"](https://www.ijcai.org/proceedings/2022/284). IJCAI 2022.
+[15] (TLogic) Yushan Liu, Yunpu Ma, Marcel Hildebrandt, Mitchell Joblin, Volker Tresp. ["TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs"](https://ojs.aaai.org/index.php/AAAI/article/view/20330). AAAI 2022. [https://github.com/liu-yushan/TLogic](https://github.com/liu-yushan/TLogic)
 
-[11] (TiRGN) Yujia Li, Shiliang Sun, Jing Zhao. ["TiRGN: Time-Guided Recurrent Graph Network with Local-Global Historical Patterns for Temporal Knowledge Graph Reasoning"](https://www.ijcai.org/proceedings/2022/299). IJCAI 2022. [https://github.com/Liyyy2122/TiRGN](https://github.com/Liyyy2122/TiRGN)
+[14] (MetaTKGR) Ruijie Wang, zheng li, Dachun Sun, Shengzhong Liu, Jinning Li, Bing Yin, Tarek Abdelzaher. ["Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graphs"](https://openreview.net/forum?id=1LmgISIDZJ). NeurIPS 2022.
 
-[12] (ALRE-IR) Xin Mei∗, Libin Yang∗, Zuowei Jiang, Xiaoyan Cai. ["An Adaptive Logical Rule Embedding Model for Inductive Reasoning over Temporal Knowledge Graphs"](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.493/). EMNLP 2022. 
+[13] (CEN) Zixuan Li, Saiping Guan, Xiaolong Jin, Weihua Peng, Yajuan Lyu, Yong Zhu, Long Bai, Wei Li, Jiafeng Guo, Xueqi Cheng. ["Complex Evolutional Pattern Learning for Temporal Knowledge Graph Reasoning"](https://aclanthology.org/2022.acl-short.32/). ACL 2022. [https://github.com/lee-zix/cen](https://github.com/lee-zix/cen)
 
-[13] (TKGC-AGP) Linhai Zhang, Deyu Zhou. ["Temporal Knowledge Graph Completion with Approximated Gaussian Process Embedding"](https://aclanthology.org/2022.coling-1.416/). COLING 2022.
+[12] (RotateQVS) Kai Chen, Ye Wang, Yitong Li, Aiping Li. ["RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion"](https://aclanthology.org/2022.acl-long.402/). ACL 2022. 
 
-[14] (DA-Net) Kangzheng Liu, Feng Zhao, Hongxu Chen, Yicong Li, Guandong Xu, Hai Jin. ["DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning"](https://dl.acm.org/doi/10.1145/3511808.3557280). CIKM 2022.
+[11] (rGalT) Yifu Gao, Linhui Feng, Zhigang Kan, Yi Han, Linbo Qiao, Dongsheng Li. ["Modeling Precursors for Temporal Knowledge Graph Reasoning via Auto-encoder Structure"](https://www.ijcai.org/proceedings/2022/284). IJCAI 2022.
 
-[15] (TLT-KGE) Fuwei Zhang, Zhao Zhang, Xiang Ao, Fuzhen Zhuang, Yongjun Xu, Qing He. ["Along the Time: Timeline-traced Embedding for Temporal Knowledge Graph Completion"](https://dl.acm.org/doi/10.1145/3511808.3557233). CIKM 2022.
+[10] (TiRGN) Yujia Li, Shiliang Sun, Jing Zhao. ["TiRGN: Time-Guided Recurrent Graph Network with Local-Global Historical Patterns for Temporal Knowledge Graph Reasoning"](https://www.ijcai.org/proceedings/2022/299). IJCAI 2022. [https://github.com/Liyyy2122/TiRGN](https://github.com/Liyyy2122/TiRGN)
 
-[16] EvoKG) Namyong Park, Fuchen Liu, Purvanshi Mehta, Dana Cristofor, Christos Faloutsos, Yuxiao Dong. ["EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs"](https://dl.acm.org/doi/10.1145/3488560.3498451). WSDM 2022. [https://github.com/NamyongPark/EvoKG](https://github.com/NamyongPark/EvoKG)
+[9] (ALRE-IR) Xin Mei∗, Libin Yang∗, Zuowei Jiang, Xiaoyan Cai. ["An Adaptive Logical Rule Embedding Model for Inductive Reasoning over Temporal Knowledge Graphs"](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.493/). EMNLP 2022. 
 
-[17] (ARIM-TE) Tingyi Zhang, Zhixu Li, Jiaan Wang, Jianfeng Qu, Lin Yuan, An Liu, Lei Zhao, Zhigang Chen. ["Aligning Internal Regularity and External Influence of Multi-granularity for Temporal Knowledge Graph Embedding"](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_10). DASFAA 2022. 
+[8] (TKGC-AGP) Linhai Zhang, Deyu Zhou. ["Temporal Knowledge Graph Completion with Approximated Gaussian Process Embedding"](https://aclanthology.org/2022.coling-1.416/). COLING 2022.
 
-[18] (TRHyTE) Lin Yuan, Zhixu Li, Jianfeng Qu, Tingyi Zhang, An Liu, Lei Zhao, Zhigang Chen. ["TRHyTE: Temporal Knowledge Graph Embedding Based on Temporal-Relational Hyperplanes"](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_10). DASFAA 2022. 
+[7] (DA-Net) Kangzheng Liu, Feng Zhao, Hongxu Chen, Yicong Li, Guandong Xu, Hai Jin. ["DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning"](https://dl.acm.org/doi/10.1145/3511808.3557280). CIKM 2022.
 
-[19] (SANe) Yancong Li, Xiaoming Zhang, Bo Zhang, Haiying Ren. ["Each Snapshot to Each Space: Space Adaptation for Temporal Knowledge Graph Completion"](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_15). ISWC 2022. 
+[6] (TLT-KGE) Fuwei Zhang, Zhao Zhang, Xiang Ao, Fuzhen Zhuang, Yongjun Xu, Qing He. ["Along the Time: Timeline-traced Embedding for Temporal Knowledge Graph Completion"](https://dl.acm.org/doi/10.1145/3511808.3557233). CIKM 2022. [Github](https://github.com/zhangfw123/TLT-KGE)
 
-[20] (ST-KGE) Mojtaba Nayyeri, Sahar Vahdati, Md Tansen Khan, Mirza Mohtashim Alam, Lisa Wenige, Andreas Behrend, Jens Lehmann. ["Dihedron Algebraic Embeddings for Spatio-Temporal Knowledge Graph Completion"](https://link.springer.com/chapter/10.1007/978-3-031-06981-9_15). ESWC 2022. 
+[5] EvoKG) Namyong Park, Fuchen Liu, Purvanshi Mehta, Dana Cristofor, Christos Faloutsos, Yuxiao Dong. ["EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs"](https://dl.acm.org/doi/10.1145/3488560.3498451). WSDM 2022. [https://github.com/NamyongPark/EvoKG](https://github.com/NamyongPark/EvoKG)
+
+[4] (ARIM-TE) Tingyi Zhang, Zhixu Li, Jiaan Wang, Jianfeng Qu, Lin Yuan, An Liu, Lei Zhao, Zhigang Chen. ["Aligning Internal Regularity and External Influence of Multi-granularity for Temporal Knowledge Graph Embedding"](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_10). DASFAA 2022. 
+
+[3] (TRHyTE) Lin Yuan, Zhixu Li, Jianfeng Qu, Tingyi Zhang, An Liu, Lei Zhao, Zhigang Chen. ["TRHyTE: Temporal Knowledge Graph Embedding Based on Temporal-Relational Hyperplanes"](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_10). DASFAA 2022. 
+
+[2] (SANe) Yancong Li, Xiaoming Zhang, Bo Zhang, Haiying Ren. ["Each Snapshot to Each Space: Space Adaptation for Temporal Knowledge Graph Completion"](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_15). ISWC 2022. 
+
+[1] (ST-KGE) Mojtaba Nayyeri, Sahar Vahdati, Md Tansen Khan, Mirza Mohtashim Alam, Lisa Wenige, Andreas Behrend, Jens Lehmann. ["Dihedron Algebraic Embeddings for Spatio-Temporal Knowledge Graph Completion"](https://link.springer.com/chapter/10.1007/978-3-031-06981-9_15). ESWC 2022. 
 
 ### 2021
 
