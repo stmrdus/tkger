@@ -84,6 +84,11 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
     *Borui Cai, Yong Xiang, Longxiang Gao, He Zhang, Yunfeng Li, Jianxin Li.*
 
+2. **Reasoning over different types of knowledge graphs: Static, temporal and multi-modal**, ArXiv, 2022. [paper](https://arxiv.org/pdf/2212.05767)
+
+3. **A Survey on Temporal Knowledge Graphs-Extrapolation and Interpolation Tasks**,  Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery, [paper](https://link.springer.com/chapter/10.1007/978-3-031-20738-9_110)
+
+    *Sulin Chen & Jingbin Wang*
 
 ### 2021
 
@@ -116,6 +121,40 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 
 ### 2023
+
+[65] Ding, Z., He, B., Wu, J., Ma, Y., Han, Z., & Tresp, V. (2023, June). [Learning Meta-Representations of One-shot Relations for Temporal Knowledge Graph Link Prediction](https://ieeexplore.ieee.org/abstract/document/10191619/). In 2023 International Joint Conference on Neural Networks (IJCNN) (pp. 1-10). IEEE.
+
+[64] Du, Z., Qu, L., Liang, Z., Huang, K., Cui, L., & Gao, Z. (2023). [IMF: Interpretable Multi-Hop Forecasting on Temporal Knowledge Graphs](https://www.mdpi.com/1099-4300/25/4/666). Entropy, 25(4), 666.
+
+[63] Zhu, L., Xing, Y., Bai, L., & Chen, X. (2023). [Few-shot link prediction with meta-learning for temporal knowledge graphs](https://academic.oup.com/jcde/article-abstract/10/2/711/7069330). Journal of Computational Design and Engineering, 10(2), 711-721.
+
+[62] Liang, Y., Zhao, S., Cheng, B., & Yang, H. (2023, August). [Twin Graph Attention Network with Evolution Pattern Learner for Few-Shot Temporal Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-40283-8_20). In International Conference on Knowledge Science, Engineering and Management (pp. 234-246). Cham: Springer Nature Switzerland.
+
+[61] Tang, X., & Chen, L. (2023). [GTRL: An Entity Group-Aware Temporal Knowledge Graph Representation Learning Method](https://arxiv.org/pdf/2302.11091). arXiv preprint arXiv:2302.11091.
+
+[60] Lin, Q., Liu, J., Mao, R., Xu, F., & Cambria, E. (2023, July). [TECHS: Temporal Logical Graph Networks for Explainable Extrapolation Reasoning](https://aclanthology.org/2023.acl-long.71.pdf). In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 1281-1293).
+
+[59] Xie, Z., Zhu, R., Liu, J., Zhou, G., & Huang, J. X. (2023). [TARGAT: A Time-Aware Relational Graph Attention Model for Temporal Knowledge Graph Embedding](https://ieeexplore.ieee.org/abstract/document/10141863/). IEEE/ACM Transactions on Audio, Speech, and Language Processing.
+
+[58] Guo, J., Chen, M., Zhang, Y., Huang, J., & Liu, Z. (2023, June). [Hierarchical Hypergraph Recurrent Attention Network for Temporal Knowledge Graph Reasoning](https://ieeexplore.ieee.org/abstract/document/10095378/). In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
+
+[57] Liang, K., Meng, L., Liu, M., Liu, Y., Tu, W., Wang, S., ... & Liu, X. (2023, July). [Learn from relational correlations and periodic events for temporal knowledge graph reasoning](https://dl.acm.org/doi/abs/10.1145/3539618.3591711). In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1559-1568).
+
+[56] Yu, M., Guo, J., Yu, J., Xu, T., Zhao, M., Liu, H., ... & Yu, R. (2023). [TBDRI: block decomposition based on relational interaction for temporal knowledge graph completion](https://link.springer.com/article/10.1007/s10489-022-03601-5). Applied Intelligence, 53(5), 5072-5084.
+
+[55] Chen, Z., Xu, C., Su, F., Huang, Z., & Dou, Y. (2023). Meta-Learning Based Knowledge Extrapolation for Temporal Knowledge Graph. arXiv preprint arXiv:2302.05640.
+
+[54] Zhang, H., & Bai, L. (2023). Few-shot link prediction for temporal knowledge graphs based on time-aware translation and attention mechanism. Neural Networks, 161, 371-381.
+
+[53] Zhang, J., Shao, J., & Cui, B. (2023, July). StreamE: Learning to Update Representations for Temporal Knowledge Graphs in Streaming Scenarios. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 622-631).
+
+[52] Yu, R., Liu, T., Yu, J., Zhang, W., Zhao, Y., Yang, M., ... & Guo, J. (2023, June). [Combination of Translation and Rotation in Dual Quaternion Space for Temporal Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/10191552/). In 2023 International Joint Conference on Neural Networks (IJCNN) (pp. 01-08). IEEE.
+
+[51] Wang, J., Lin, X., Huang, H., Ke, X., Wu, R., You, C., & Guo, K. (2023). [GLANet: temporal knowledge graph completion based on global and local information-aware network](https://link.springer.com/article/10.1007/s10489-023-04481-z). Applied Intelligence, 1-17.
+
+[50] Li, M., Sun, Z., Zhang, W., & Liu, W. (2023). [Leveraging semantic property for temporal knowledge graph completion](https://link.springer.com/article/10.1007/s10489-022-03981-8). Applied Intelligence, 53(8), 9247-9260.
+
+[49] Liu, K., Zhao, F., Xu, G., Wang, X., & Jin, H. (2023, November). [RETIA: relation-entity twin-interact aggregation for temporal knowledge graph extrapolation](https://opus.lib.uts.edu.au/bitstream/10453/166395/3/RETIA%20relation-entity%20twin-interact%20aggregation%20for%20temporal%20knowledge%20graph%20extrapolation.pdf). In IEEE International Conference on Data Engineering. IEEE.
 
 [48] Rage, U. K., Maharana, A., & Polepalli, K. R. (2023, May). [A Novel Explainable Link Forecasting Framework for Temporal Knowledge Graphs Using Time-Relaxed Cyclic and Acyclic Rules](https://link.springer.com/chapter/10.1007/978-3-031-33374-3_21). In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 264-275). Cham: Springer Nature Switzerland. [Github](https://github.com/ab1nash/TRKG-Miner)
 
@@ -217,6 +256,16 @@ Chen, H., Li, Y., Sun, X., Xu, G., & Yin, H. (2021, March). [Temporal meta-path 
 
 ### 2022
 
+[29] Liu, K., Zhao, F., Xu, G., Wang, X., & Jin, H. (2022, November). [Temporal Knowledge Graph Reasoning via Time-Distributed Representation Learning](https://ieeexplore.ieee.org/abstract/document/10027745/). In 2022 IEEE International Conference on Data Mining (ICDM) (pp. 279-288). IEEE.
+
+[28] Y. -C. Lee, J. Lee, D. Lee and S. -W. Kim, "THOR: Self-Supervised Temporal Knowledge Graph Embedding via Three-Tower Graph Convolutional Networks," 2022 IEEE International Conference on Data Mining (ICDM), Orlando, FL, USA, 2022, pp. 1035-1040, doi: 10.1109/ICDM54844.2022.00127.
+
+[27] Wei, H., Huang, H., Zhang, T., Shi, X., & Jin, H. (2022, September). [Enhance Temporal Knowledge Graph Completion via Time-Aware Attention Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-031-26390-3_8). In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 122-137). Cham: Springer International Publishing.
+
+[26] Peng, C. C., Shi, X., Yu, R., Ma, C., Wu, L., & Zhang, D. (2022, December). [Multi-timescale History Modeling for Temporal Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/10076710/). In 2022 18th International Conference on Mobility, Sensing and Networking (MSN) (pp. 477-484). IEEE.
+
+[25] Wang, S., Cai, X., Zhang, Y., & Yuan, X. (2022, October). [Crnet: Modeling concurrent events over temporal knowledge graph](https://iswc2022.semanticweb.org/wp-content/uploads/2022/11/978-3-031-19433-7_30.pdf). In International Semantic Web Conference (pp. 516-533). Cham: Springer International Publishing.
+
 [24] Sun, H., Geng, S., Zhong, J., Hu, H., & He, K. (2022, December). [Graph Hawkes Transformer for Extrapolated Reasoning on Temporal Knowledge Graphs](https://aclanthology.org/2022.emnlp-main.507.pdf). In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (pp. 7481-7493). [Github](https://github.com/JHL-HUST/GHT)
 
 [23] Wang, Z., Du, H., Yao, Q., & Li, X. (2022). [Search to Pass Messages for Temporal Knowledge Graph Completion](https://arxiv.org/pdf/2210.16740). arXiv preprint arXiv:2210.16740. [Github](https://github.com/striderdu/SPA)
@@ -267,76 +316,90 @@ Chen, H., Li, Y., Sun, X., Xu, G., & Yin, H. (2021, March). [Temporal meta-path 
 
 ### 2021
 
-[1] (TPath) Luyi Bai, Wenting Yu, Mingzhuo Chen, Xiangnan Ma. ["Multi-hop reasoning over paths in temporal knowledge graphs using reinforcement learning"](https://www.sciencedirect.com/science/article/abs/pii/S1568494621000673?via%3Dihub). Applied Soft Computing 2021. 
+[19] Ding, Z., Ma, Y., He, B., & Tresp, V. (2021). [A simple but powerful graph encoder for temporal knowledge graph completion](https://arxiv.org/pdf/2112.07791). arXiv preprint arXiv:2112.07791.
 
-[2] (xERTE) Zhen Han, Peng Chen, Yunpu Ma, Volker Tresp. ["Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs"](https://iclr.cc/virtual/2021/poster/3378). ICLR 2021. [https://github.com/TemporalKGTeam/xERTE](https://github.com/TemporalKGTeam/xERTE)
+[18] (TPath) Luyi Bai, Wenting Yu, Mingzhuo Chen, Xiangnan Ma. ["Multi-hop reasoning over paths in temporal knowledge graphs using reinforcement learning"](https://www.sciencedirect.com/science/article/abs/pii/S1568494621000673?via%3Dihub). Applied Soft Computing 2021. 
 
-[3] (ChronoR) Ali Sadeghian, Mohammadreza Armandpour, Anthony Colas, Daisy Zhe Wang. ["ChronoR: Rotation Based Temporal Knowledge Graph Embedding"](https://ojs.aaai.org/index.php/AAAI/article/view/16802). AAAI 2021.
+[17] (xERTE) Zhen Han, Peng Chen, Yunpu Ma, Volker Tresp. ["Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs"](https://iclr.cc/virtual/2021/poster/3378). ICLR 2021. [https://github.com/TemporalKGTeam/xERTE](https://github.com/TemporalKGTeam/xERTE)
 
-[4] (CyGNet) Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, Yan Zhang. ["Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks"](https://ojs.aaai.org/index.php/AAAI/article/view/16604). AAAI 2021. [https://github.com/CunchaoZ/CyGNet](https://github.com/CunchaoZ/CyGNet)
+[16] (ChronoR) Ali Sadeghian, Mohammadreza Armandpour, Anthony Colas, Daisy Zhe Wang. ["ChronoR: Rotation Based Temporal Knowledge Graph Embedding"](https://ojs.aaai.org/index.php/AAAI/article/view/16802). AAAI 2021.
 
-[5] (NLSM) Tony Gracious, Shubham Gupta, Arun Kanthali, Rui M. Castro, Ambedkar Dukkipati. ["Neural Latent Space Model for Dynamic Networks and Temporal Knowledge Graphs"](https://ojs.aaai.org/index.php/AAAI/article/view/16526). AAAI 2021. 
+[15] (CyGNet) Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, Yan Zhang. ["Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks"](https://ojs.aaai.org/index.php/AAAI/article/view/16604). AAAI 2021. [https://github.com/CunchaoZ/CyGNet](https://github.com/CunchaoZ/CyGNet)
 
-[6] (CluSTeR) Zixuan Li, Xiaolong Jin, Saiping Guan, Wei Li, Jiafeng Guo, Yuanzhuo Wang, Xueqi Cheng. ["Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs"](https://aclanthology.org/2021.acl-long.365/). ACL/IJCNLP 2021. 
+[15] (NLSM) Tony Gracious, Shubham Gupta, Arun Kanthali, Rui M. Castro, Ambedkar Dukkipati. ["Neural Latent Space Model for Dynamic Networks and Temporal Knowledge Graphs"](https://ojs.aaai.org/index.php/AAAI/article/view/16526). AAAI 2021. 
 
-[7] (HERCULES) Sebastien Montella, Lina Maria Rojas-Barahona, Johannes Heinecke. ["Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures"](https://aclanthology.org/2021.findings-acl.292/). ACL/IJCNLP (Findings) 2021. 
+[14] (CluSTeR) Zixuan Li, Xiaolong Jin, Saiping Guan, Wei Li, Jiafeng Guo, Yuanzhuo Wang, Xueqi Cheng. ["Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs"](https://aclanthology.org/2021.acl-long.365/). ACL/IJCNLP 2021. 
 
-[8] (HIPNet) Yongquan He, Peng Zhang, Luchen Liu, Qi Liang, Wenyuan Zhang, Chuang Zhang, ["HIP Network: Historical Information Passing Network for Extrapolation Reasoning on Temporal Knowledge Graph"](https://www.ijcai.org/proceedings/2021/264). IJCAI 2021. [https://github.com/Yongquan-He/HIP-network](https://github.com/Yongquan-He/HIP-network)
+[13] (HERCULES) Sebastien Montella, Lina Maria Rojas-Barahona, Johannes Heinecke. ["Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures"](https://aclanthology.org/2021.findings-acl.292/). ACL/IJCNLP (Findings) 2021. 
 
-[9] (TANGO) Zhen Han, Zifeng Ding, Yunpu Ma, Yujia Gu, Volker Tresp. ["Learning Neural Ordinary Equations for Forecasting Future Links on Temporal Knowledge Graphs"](https://aclanthology.org/2021.emnlp-main.658/). EMNLP 2021.
+[12] (HIPNet) Yongquan He, Peng Zhang, Luchen Liu, Qi Liang, Wenyuan Zhang, Chuang Zhang, ["HIP Network: Historical Information Passing Network for Extrapolation Reasoning on Temporal Knowledge Graph"](https://www.ijcai.org/proceedings/2021/264). IJCAI 2021. [https://github.com/Yongquan-He/HIP-network](https://github.com/Yongquan-He/HIP-network)
+
+[11] (TANGO) Zhen Han, Zifeng Ding, Yunpu Ma, Yujia Gu, Volker Tresp. ["Learning Neural Ordinary Equations for Forecasting Future Links on Temporal Knowledge Graphs"](https://aclanthology.org/2021.emnlp-main.658/). EMNLP 2021.
 
 [10] (TEA-GNN) Chengjin Xu, Fenglong Su, Jens Lehmann. ["Time-aware Graph Neural Network for Entity Alignment between Temporal Knowledge Graphs"](https://aclanthology.org/2021.emnlp-main.709/). EMNLP 2021. [https://github.com/soledad921/TEA-GNN](https://github.com/soledad921/TEA-GNN)
 
-[11] (TEE) Zhen Han, Gengyuan Zhang, Yunpu Ma, Volker Tresp. ["Time-dependent Entity Embedding is not All You Need: A Re-evaluation of Temporal Knowledge Graph Completion Models under a Unified Framework"](https://aclanthology.org/2021.emnlp-main.639/). EMNLP 2021. 
+[9] (TEE) Zhen Han, Gengyuan Zhang, Yunpu Ma, Volker Tresp. ["Time-dependent Entity Embedding is not All You Need: A Re-evaluation of Temporal Knowledge Graph Completion Models under a Unified Framework"](https://aclanthology.org/2021.emnlp-main.639/). EMNLP 2021. 
 
-[12] (TITer) Haohai Sun, Jialun Zhong, Yunpu Ma, Zhen Han, Kun He. ["TimeTraveler: Reinforcement Learning for Temporal Knowledge Graph Forecasting"](https://aclanthology.org/2021.emnlp-main.655/). EMNLP 2021. [https://github.com/JHL-HUST/TITer](https://github.com/JHL-HUST/TITer)
+[8] (TITer) Haohai Sun, Jialun Zhong, Yunpu Ma, Zhen Han, Kun He. ["TimeTraveler: Reinforcement Learning for Temporal Knowledge Graph Forecasting"](https://aclanthology.org/2021.emnlp-main.655/). EMNLP 2021. [https://github.com/JHL-HUST/TITer](https://github.com/JHL-HUST/TITer)
 
-[13] (RTFE) Youri Xu, Haihong E, Meina Song, Wenyu Song, Xiaodong Lv, Haotian Wang, Jinrui Yang. ["RTFE: A Recursive Temporal Fact Embedding Framework for Temporal Knowledge Graph Completion"](https://www.aclweb.org/anthology/2021.naacl-main.451/). NAACL-HLT 2021.
+[7] (RTFE) Youri Xu, Haihong E, Meina Song, Wenyu Song, Xiaodong Lv, Haotian Wang, Jinrui Yang. ["RTFE: A Recursive Temporal Fact Embedding Framework for Temporal Knowledge Graph Completion"](https://www.aclweb.org/anthology/2021.naacl-main.451/). NAACL-HLT 2021.
 
-[14] (TeLM) Chengjin Xu, Yung-Yu Chen, Mojtaba Nayyeri, Jens Lehmann. ["Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings"](https://www.aclweb.org/anthology/2021.naacl-main.202/). NAACL-HLT 2021. [https://github.com/soledad921/TeLM](https://github.com/soledad921/TeLM)
+[6] (TeLM) Chengjin Xu, Yung-Yu Chen, Mojtaba Nayyeri, Jens Lehmann. ["Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings"](https://www.aclweb.org/anthology/2021.naacl-main.202/). NAACL-HLT 2021. [https://github.com/soledad921/TeLM](https://github.com/soledad921/TeLM)
 
-[15] (T-GAP) Jaehun Jung, Jinhong Jung, U. Kang. ["Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion"](https://dl.acm.org/doi/10.1145/3447548.3467292). KDD 2021. [https://github.com/anonymoususer99/T-GAP](https://github.com/anonymoususer99/T-GAP)
+[5] (T-GAP) Jaehun Jung, Jinhong Jung, U. Kang. ["Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion"](https://dl.acm.org/doi/10.1145/3447548.3467292). KDD 2021. [https://github.com/anonymoususer99/T-GAP](https://github.com/anonymoususer99/T-GAP)
 
-[16] (RE-GCN) Zixuan Li, Xiaolong Jin, Wei Li, Saiping Guan, Jiafeng Guo, Huawei Shen, Yuanzhuo Wang, Xueqi Cheng. ["Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning"](https://dl.acm.org/doi/10.1145/3404835.3462963). SIGIR 2021. [https://github.com/Lee-zix/RE-GCN](https://github.com/Lee-zix/RE-GCN)
+[4] (RE-GCN) Zixuan Li, Xiaolong Jin, Wei Li, Saiping Guan, Jiafeng Guo, Huawei Shen, Yuanzhuo Wang, Xueqi Cheng. ["Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning"](https://dl.acm.org/doi/10.1145/3404835.3462963). SIGIR 2021. [https://github.com/Lee-zix/RE-GCN](https://github.com/Lee-zix/RE-GCN)
 
-[17] (TIE) Jiapeng Wu, Yishi Xu, Yingxue Zhang, Chen Ma, Mark Coates, Jackie Chi Kit Cheung. ["TIE: A Framework for Embedding-based Incremental Temporal Knowledge Graph Completion"](https://dl.acm.org/doi/10.1145/3404835.3462961). SIGIR 2021. [https://github.com/JiapengWu/Time-Aware-Incremental-Embedding](https://github.com/JiapengWu/Time-Aware-Incremental-Embedding)
+[3] (TIE) Jiapeng Wu, Yishi Xu, Yingxue Zhang, Chen Ma, Mark Coates, Jackie Chi Kit Cheung. ["TIE: A Framework for Embedding-based Incremental Temporal Knowledge Graph Completion"](https://dl.acm.org/doi/10.1145/3404835.3462961). SIGIR 2021. [https://github.com/JiapengWu/Time-Aware-Incremental-Embedding](https://github.com/JiapengWu/Time-Aware-Incremental-Embedding)
 
-[18] (DBKGE) Siyuan Liao, Shangsong Liang, Zaiqiao Meng, Qiang Zhang. ["Learning Dynamic Embeddings for Temporal Knowledge Graphs"](https://dl.acm.org/doi/10.1145/3437963.3441741). WSDM 2021. 
+[3] (DBKGE) Siyuan Liao, Shangsong Liang, Zaiqiao Meng, Qiang Zhang. ["Learning Dynamic Embeddings for Temporal Knowledge Graphs"](https://dl.acm.org/doi/10.1145/3437963.3441741). WSDM 2021. 
 
-[19] (ST-ConvKB) Jiasheng Zhang, Shuang Liang, Zhiyi Deng, Jie Shao. ["Spatial-Temporal Attention Network for Temporal Knowledge Graph Completion"](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_15). DASFAA 2021.
+[2] (ST-ConvKB) Jiasheng Zhang, Shuang Liang, Zhiyi Deng, Jie Shao. ["Spatial-Temporal Attention Network for Temporal Knowledge Graph Completion"](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_15). DASFAA 2021.
 
-[20] (RETRA) Simon Werner, Achim Rettinger, Lavdim Halilaj, Jürgen Lüttin. ["RETRA: Recurrent Transformers for Learning Temporally Contextualized Knowledge Graph Embeddings"](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_25). ESWC 2021. [https://github.com/siwer/Retra](https://github.com/siwer/Retra)
+[1] (RETRA) Simon Werner, Achim Rettinger, Lavdim Halilaj, Jürgen Lüttin. ["RETRA: Recurrent Transformers for Learning Temporally Contextualized Knowledge Graph Embeddings"](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_25). ESWC 2021. [https://github.com/siwer/Retra](https://github.com/siwer/Retra)
 
 
 ### 2020
 
-[1] (TComplEx) Timothée Lacroix, Guillaume Obozinski, Nicolas Usunier. ["Tensor Decompositions for Temporal Knowledge Base Completion"](https://openreview.net/forum?id=rke2P1BFwS). ICLR 2020. [https://github.com/facebookresearch/tkbc](https://github.com/facebookresearch/tkbc)
+[15] Tang, X., Yuan, R., Li, Q., Wang, T., Yang, H., Cai, Y., & Song, H. (2020). [Timespan-aware dynamic knowledge graph embedding by incorporating temporal evolution](https://ieeexplore.ieee.org/abstract/document/8950081/). IEEE Access, 8, 6849-6860.
 
-[2] (DE-SimplE) Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. ["Diachronic Embedding for Temporal Knowledge Graph Completion"](https://aaai.org/ojs/index.php/AAAI/article/view/5815). AAAI 2020. [https://github.com/BorealisAI/DE-SimplE](https://github.com/BorealisAI/DE-SimplE)
+[14] Jung, J., Jung, J., & Kang, U. (2020). [T-gap: Learning to walk across time for temporal knowledge graph completion](https://arxiv.org/pdf/2012.10595). arXiv preprint arXiv:2012.10595.
 
-[3] (DArtNet) Sankalp Garg, Navodita Sharma, Woojeong Jin, Xiang Ren. ["Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution"](https://www.ijcai.org/Proceedings/2020/386). IJCAI 2020. [https://github.com/INK-USC/DArtNet](https://github.com/INK-USC/DArtNet)
+[13] Wu, J., Cao, M., Cheung, J. C. K., & Hamilton, W. L. (2020). [Temp: Temporal message passing for temporal knowledge graph completion](https://arxiv.org/pdf/2010.03526). arXiv preprint arXiv:2010.03526. [Github](https://github.com/JiapengWu/TeMP)
 
-[4] (DyERNIE) Zhen Han, Peng Chen, Yunpu Ma, Volker Tresp. ["DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion"](https://www.aclweb.org/anthology/2020.emnlp-main.593/). EMNLP 2020. 
+[12] Jin, W., Qu, M., Jin, X., & Ren, X. (2019). [Recurrent event network: Autoregressive structure inference over temporal knowledge graphs](https://arxiv.org/pdf/1904.05530). arXiv preprint arXiv:1904.05530. [Github](https://github.com/INK-USC/RE-Net)
 
-[5] (RE-NET) Woojeong Jin, Meng Qu, Xisen Jin, Xiang Ren. ["Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs"](https://www.aclweb.org/anthology/2020.emnlp-main.541/). EMNLP 2020. [https://github.com/INK-USC/RE-Net](https://github.com/INK-USC/RE-Net)
+[11] (TComplEx) Timothée Lacroix, Guillaume Obozinski, Nicolas Usunier. ["Tensor Decompositions for Temporal Knowledge Base Completion"](https://openreview.net/forum?id=rke2P1BFwS). ICLR 2020. [https://github.com/facebookresearch/tkbc](https://github.com/facebookresearch/tkbc)
+
+[10] (DE-SimplE) Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. ["Diachronic Embedding for Temporal Knowledge Graph Completion"](https://aaai.org/ojs/index.php/AAAI/article/view/5815). AAAI 2020. [https://github.com/BorealisAI/DE-SimplE](https://github.com/BorealisAI/DE-SimplE)
+
+[9] (DArtNet) Sankalp Garg, Navodita Sharma, Woojeong Jin, Xiang Ren. ["Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution"](https://www.ijcai.org/Proceedings/2020/386). IJCAI 2020. [https://github.com/INK-USC/DArtNet](https://github.com/INK-USC/DArtNet)
+
+[8] (DyERNIE) Zhen Han, Peng Chen, Yunpu Ma, Volker Tresp. ["DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion"](https://www.aclweb.org/anthology/2020.emnlp-main.593/). EMNLP 2020. 
+
+[7] (RE-NET) Woojeong Jin, Meng Qu, Xisen Jin, Xiang Ren. ["Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs"](https://www.aclweb.org/anthology/2020.emnlp-main.541/). EMNLP 2020. [https://github.com/INK-USC/RE-Net](https://github.com/INK-USC/RE-Net)
 
 [6] (TeMP) Jiapeng Wu, Meng Cao, Jackie Chi Kit Cheung, William L. Hamilton. ["TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion"](https://www.aclweb.org/anthology/2020.emnlp-main.462/). EMNLP 2020. [https://github.com/JiapengWu/TeMP](https://github.com/JiapengWu/TeMP)
 
-[7] (TIMEPLEX) Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. ["Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols"](https://www.aclweb.org/anthology/2020.emnlp-main.305/). EMNLP 2020. [https://github.com/dair-iitd/tkbi](https://github.com/dair-iitd/tkbi)
+[5] (TIMEPLEX) Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. ["Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols"](https://www.aclweb.org/anthology/2020.emnlp-main.305/). EMNLP 2020. [https://github.com/dair-iitd/tkbi](https://github.com/dair-iitd/tkbi)
 
-[8] (TeRo) Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. ["TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation"](https://www.aclweb.org/anthology/2020.coling-main.139/). COLING 2020. [https://github.com/soledad921/ATISE](https://github.com/soledad921/ATISE)
+[4] (TeRo) Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. ["TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation"](https://www.aclweb.org/anthology/2020.coling-main.139/). COLING 2020. [https://github.com/soledad921/ATISE](https://github.com/soledad921/ATISE)
 
-[9] (ToKE) Julien Leblay, Melisachew Wudage Chekol, Xin Liu. ["Towards Temporal Knowledge Graph Embeddings with Arbitrary Time Precision"](https://dl.acm.org/doi/10.1145/3340531.3412028). CIKM 2020. [https://gitlab.com/jleblay/tokei](https://gitlab.com/jleblay/tokei)
+[3] (ToKE) Julien Leblay, Melisachew Wudage Chekol, Xin Liu. ["Towards Temporal Knowledge Graph Embeddings with Arbitrary Time Precision"](https://dl.acm.org/doi/10.1145/3340531.3412028). CIKM 2020. [https://gitlab.com/jleblay/tokei](https://gitlab.com/jleblay/tokei)
 
-[10] (ATiSE) Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. ["Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding"](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_37). ISWC 2020. [https://github.com/soledad921/ATISE](https://github.com/soledad921/ATISE)
+[2] (ATiSE) Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. ["Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding"](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_37). ISWC 2020. [https://github.com/soledad921/ATISE](https://github.com/soledad921/ATISE)
 
-[11] (TDGNN) Liang Qu, Huaisheng Zhu, Qiqi Duan, Yuhui Shi. ["Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network"](https://dl.acm.org/doi/10.1145/3366423.3380073). WWW 2020. [https://github.com/Leo-Q-316/TDGNN](https://github.com/Leo-Q-316/TDGNN)
+[1] (TDGNN) Liang Qu, Huaisheng Zhu, Qiqi Duan, Yuhui Shi. ["Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network"](https://dl.acm.org/doi/10.1145/3366423.3380073). WWW 2020. [https://github.com/Leo-Q-316/TDGNN](https://github.com/Leo-Q-316/TDGNN)
+
+### 2019
+
+[1] Jin, W., Jiang, H., Qu, M., Chen, T., Zhang, C., Szekely, P., & Ren, X. (2019). [Recurrent event network: Global structure inference over temporal knowledge graph](https://openreview.net/forum?id=SyeyF0VtDr).
 
 ### 2018
 
-[1] (HyTE) Shib Sankar Dasgupta, Swayambhu Nath Ray, Partha Talukdar. ["HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding"](https://www.aclweb.org/anthology/D18-1225/). EMNLP 2018. [https://github.com/malllabiisc/HyTE](https://github.com/malllabiisc/HyTE)
+[2] (HyTE) Shib Sankar Dasgupta, Swayambhu Nath Ray, Partha Talukdar. ["HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding"](https://www.aclweb.org/anthology/D18-1225/). EMNLP 2018. [https://github.com/malllabiisc/HyTE](https://github.com/malllabiisc/HyTE)
 
-[2] (TA-DistMult) Alberto Garcia-Duran, Sebastijan Dumančić, Mathias Niepert. ["Learning Sequence Encoders for Temporal Knowledge Graph Completion"](https://www.aclweb.org/anthology/D18-1516/). EMNLP 2018.
+[1] (TA-DistMult) Alberto Garcia-Duran, Sebastijan Dumančić, Mathias Niepert. ["Learning Sequence Encoders for Temporal Knowledge Graph Completion"](https://www.aclweb.org/anthology/D18-1516/). EMNLP 2018.
 
 
 ### 2017
