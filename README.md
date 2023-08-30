@@ -43,6 +43,22 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
     *Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs).*
 
+8. KGE, [Github](https://github.com/xinguoxia/KGE)
+
+    *Some papers on Knowledge Graph Embedding(KGE)*
+
+9. KGLQ, [Github](https://github.com/xinguoxia/KGLQ)
+
+    *Some papers about Logical Query on Knowledge Graphs (KGLQ)*
+
+10. ADGC: Awesome Deep Graph Clustering, [Github](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
+
+    *Awesome Deep Graph Clustering is a collection of SOTA, novel deep graph clustering methods (papers, codes, and datasets).*
+
+11. Graph Adversarial Learning Literature, [Github](https://github.com/safe-graph/graph-adversarial-learning-literature)
+
+    *A curated list of adversarial attacks and defenses papers on graph-structured data.*
+
 ## [Survey Papers](#content)
 
 ### 2023
@@ -51,11 +67,30 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
     *Jiapu Wang, Boyue Wang, Meikang Qiu, Shirui Pan, Bo Xiong, Heng Liu, Linhao Luo, Tengfei Liu, Yongli Hu, Baocai Yin, Wen Gao*
 
+2. **Knowledge Graphs: Opportunities and Challenges**, Artificial Intelligence Review, 2023, [paper](https://link.springer.com/article/10.1007/s10462-023-10465-9#citeas)
+
+    *Ciyuan Peng, Feng Xia, Mehdi Naseriparsa & Francesco Osborne*
+
+3. **Generalizing to Unseen Elements: A Survey on Knowledge Extrapolation for Knowledge Graphs**, ArXiv, 2023. [paper](https://arxiv.org/abs/2302.01859)
+
+    *Mingyang Chen, Wen Zhang, Yuxia Geng, Zezhong Xu, Jeff Z. Pan, Huajun Chen*
+
+4. **A Comprehensive Survey on Automatic Knowledge Graph Construction**, ArXiv, 2023. [paper](https://arxiv.org/abs/2302.05019)
+
+    *Lingfeng Zhong, Jia Wu, Qian Li, Hao Peng, Xindong Wu*
+
 ### 2022
 
 1. **Temporal Knowledge Graph Completion: A Survey** ArXiv, 2022. [paper](https://arxiv.org/abs/2201.08236)
 
     *Borui Cai, Yong Xiang, Longxiang Gao, He Zhang, Yunfeng Li, Jianxin Li.*
+
+
+### 2021
+
+1. **Survey on Temporal Knowledge Graph**, 2021 IEEE Sixth International Conference on Data Science in Cyberspace (DSC). [paper](https://ieeexplore.ieee.org/abstract/document/9750459)
+
+    *Chong Mo; Ye Wang; Yan Jia; Qing Liao*
 
 ## [Approaches](#content)
 
