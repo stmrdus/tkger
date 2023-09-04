@@ -122,6 +122,10 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### 2023
 
+[66] Xu, Y., Ou, J., Xu, H., Fu, L., Zhou, L., Wang, X., & Zhou, C. (2023). [Exploring the Limits of Historical Information for Temporal Knowledge Graph Extrapolation](https://arxiv.org/abs/2308.15002). arXiv preprint arXiv:2308.15002.
+
+> Extended version: [46] Xu, Y., Ou, J., Xu, H., & Fu, L. (2023, June). [Temporal knowledge graph reasoning with historical contrastive learning](https://ojs.aaai.org/index.php/AAAI/article/view/25601/25373). In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 37, No. 4, pp. 4765-4773). [Github](https://github.com/xyjigsaw/CENET)
+
 [65] Ding, Z., He, B., Wu, J., Ma, Y., Han, Z., & Tresp, V. (2023, June). [Learning Meta-Representations of One-shot Relations for Temporal Knowledge Graph Link Prediction](https://ieeexplore.ieee.org/abstract/document/10191619/). In 2023 International Joint Conference on Neural Networks (IJCNN) (pp. 1-10). IEEE.
 
 [64] Du, Z., Qu, L., Liang, Z., Huang, K., Cui, L., & Gao, Z. (2023). [IMF: Interpretable Multi-Hop Forecasting on Temporal Knowledge Graphs](https://www.mdpi.com/1099-4300/25/4/666). Entropy, 25(4), 666.
