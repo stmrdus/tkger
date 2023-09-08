@@ -84,6 +84,9 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
     *Borui Cai, Yong Xiang, Longxiang Gao, He Zhang, Yunfeng Li, Jianxin Li.*
 
+> **Update**: Borui Cai, Yong Xiang, Longxiang Gao, He Zhang, Yunfeng Li, Jianxin Li, **Temporal Knowledge Graph Completion: A Survey**, 2023 Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, Survey Track. Pages 6545-6553. [paper](https://doi.org/10.24963/ijcai.2023/734)
+
+
 2. **Reasoning over different types of knowledge graphs: Static, temporal and multi-modal**, ArXiv, 2022. [paper](https://arxiv.org/pdf/2212.05767)
 
 3. **A Survey on Temporal Knowledge Graphs-Extrapolation and Interpolation Tasks**,  Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery, [paper](https://link.springer.com/chapter/10.1007/978-3-031-20738-9_110)
