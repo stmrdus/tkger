@@ -99,18 +99,6 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
     *Chong Mo; Ye Wang; Yan Jia; Qing Liao*
 
-## [Approaches](#content)
-
-### [Timestamp-included Tensor Decomposition](#content)
-
-1. **Tensor decomposition-based temporal knowledge graph embedding** ICTAI, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9288194/)
-
-    *Lin, Lifan and She, Kun*
-
-2. **Tensor decompositions for temporal knowledge base completion** ArXiv, 2020. [paper](https://arxiv.org/abs/2004.04926), [code](Guillaume Obozinski)
-
-    *"Timothee Lacroix*
-
 ## Datasets
 
 | Name  | #Entities  | #Relations  | #Timestamps  | #Collections  |  Timestamp | Link download  |
@@ -124,6 +112,14 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 
 ### 2023
+
+[70] Xiong, S., Yang, Y., Fekri, F., & Kerce, J. C. (2022, September). [TILP: Differentiable Learning of Temporal Logical Rules on Knowledge Graphs](https://openreview.net/forum?id=_X12NmQKvX). In The Eleventh International Conference on Learning Representations.
+
+[69] Dong, H., Wang, P., Xiao, M., Ning, Z., Wang, P., & Zhou, Y. (2023). [Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2309.03251). arXiv preprint arXiv:2309.03251.
+
+[68] Zhai, H., Cao, X., Sun, P., Shen, D., Nie, T., & Kou, Y. (2023, September). [Rule-Enhanced Evolutional Dual Graph Convolutional Network for Temporal Knowledge Graph Link Prediction](https://link.springer.com/chapter/10.1007/978-981-99-6222-8_6). In International Conference on Web Information Systems and Applications (pp. 64-75). Singapore: Springer Nature Singapore.
+
+[67] Sälzer, M., & Beddar-Wiesing, S. (2023). Time-Aware Robustness of Temporal Graph Neural Networks for Link Prediction. In 30th International Symposium on Temporal Representation and Reasoning (TIME 2023). Schloss Dagstuhl-Leibniz-Zentrum für Informatik.
 
 [66] Xu, Y., Ou, J., Xu, H., Fu, L., Zhou, L., Wang, X., & Zhou, C. (2023). [Exploring the Limits of Historical Information for Temporal Knowledge Graph Extrapolation](https://arxiv.org/abs/2308.15002). arXiv preprint arXiv:2308.15002.
 
