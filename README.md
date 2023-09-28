@@ -113,6 +113,10 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### 2023
 
+[76] Xie, B., Wang, S., Ding, L., Chen, J., & Xiang, Y. (2023). [TBTC: A Temporal Knowledge Graph Reasoning Model with Bidirectional Temporal Correlation](https://www.researchsquare.com/article/rs-3299558/latest).
+
+[75] Gastinger, J., Sztyler, T., Sharma, L., Schuelke, A., & Stuckenschmidt, H. (2023, September). [Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_32). In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 533-549). Cham: Springer Nature Switzerland. [Github](https://github.com/nec-research/TKG-Forecasting-Evaluation)
+
 [74] Hou, J., Guo, X., Liu, J., Li, J., Pan, L., & Wang, W. (2023, September). [Structure-Enhanced Graph Neural ODE Network for Temporal Link Prediction](https://link.springer.com/chapter/10.1007/978-3-031-44216-2_46). In International Conference on Artificial Neural Networks (pp. 563-575). Cham: Springer Nature Switzerland.
 
 [73] Liu, Y., Mo, Y., Chen, Z., & Liu, H. (2023, September). [LogE-Net: Logic Evolution Network for Temporal Knowledge Graph Forecasting](https://link.springer.com/chapter/10.1007/978-3-031-44216-2_39). In International Conference on Artificial Neural Networks (pp. 472-485). Cham: Springer Nature Switzerland.
