@@ -113,6 +113,14 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### 2023
 
+[74] Hou, J., Guo, X., Liu, J., Li, J., Pan, L., & Wang, W. (2023, September). [Structure-Enhanced Graph Neural ODE Network for Temporal Link Prediction](https://link.springer.com/chapter/10.1007/978-3-031-44216-2_46). In International Conference on Artificial Neural Networks (pp. 563-575). Cham: Springer Nature Switzerland.
+
+[73] Liu, Y., Mo, Y., Chen, Z., & Liu, H. (2023, September). [LogE-Net: Logic Evolution Network for Temporal Knowledge Graph Forecasting](https://link.springer.com/chapter/10.1007/978-3-031-44216-2_39). In International Conference on Artificial Neural Networks (pp. 472-485). Cham: Springer Nature Switzerland.
+
+[72] Li, N., E, H., Shi, L., Lin, X., Song, M., & Li, Y. (2023, September). [LorenTzE: Temporal Knowledge Graph Embedding Based on Lorentz Transformation](https://link.springer.com/chapter/10.1007/978-3-031-44223-0_38). In International Conference on Artificial Neural Networks (pp. 472-484). Cham: Springer Nature Switzerland.
+
+[71] Li, L., Liu, W., Xiong, Z., & Wang, Y. (2023, September). [Sequence-Based Modeling for Temporal Knowledge Graph Link Prediction](https://link.springer.com/chapter/10.1007/978-3-031-44216-2_45). In International Conference on Artificial Neural Networks (pp. 550-562). Cham: Springer Nature Switzerland.
+
 [70] Xiong, S., Yang, Y., Fekri, F., & Kerce, J. C. (2022, September). [TILP: Differentiable Learning of Temporal Logical Rules on Knowledge Graphs](https://openreview.net/forum?id=_X12NmQKvX). In The Eleventh International Conference on Learning Representations.
 
 [69] Dong, H., Wang, P., Xiao, M., Ning, Z., Wang, P., & Zhou, Y. (2023). [Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2309.03251). arXiv preprint arXiv:2309.03251.
@@ -145,11 +153,11 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [56] Yu, M., Guo, J., Yu, J., Xu, T., Zhao, M., Liu, H., ... & Yu, R. (2023). [TBDRI: block decomposition based on relational interaction for temporal knowledge graph completion](https://link.springer.com/article/10.1007/s10489-022-03601-5). Applied Intelligence, 53(5), 5072-5084.
 
-[55] Chen, Z., Xu, C., Su, F., Huang, Z., & Dou, Y. (2023). Meta-Learning Based Knowledge Extrapolation for Temporal Knowledge Graph. arXiv preprint arXiv:2302.05640.
+[55] Chen, Z., Xu, C., Su, F., Huang, Z., & Dou, Y. (2023). [Meta-Learning Based Knowledge Extrapolation for Temporal Knowledge Graph](https://arxiv.org/abs/2302.05640). arXiv preprint arXiv:2302.05640.
 
-[54] Zhang, H., & Bai, L. (2023). Few-shot link prediction for temporal knowledge graphs based on time-aware translation and attention mechanism. Neural Networks, 161, 371-381.
+[54] Zhang, H., & Bai, L. (2023). [Few-shot link prediction for temporal knowledge graphs based on time-aware translation and attention mechanism](https://www.sciencedirect.com/science/article/pii/S0893608023000552). Neural Networks, 161, 371-381.
 
-[53] Zhang, J., Shao, J., & Cui, B. (2023, July). StreamE: Learning to Update Representations for Temporal Knowledge Graphs in Streaming Scenarios. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 622-631).
+[53] Zhang, J., Shao, J., & Cui, B. (2023, July). [StreamE: Learning to Update Representations for Temporal Knowledge Graphs in Streaming Scenarios](https://dl.acm.org/doi/abs/10.1145/3539618.3591772). In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 622-631).
 
 [52] Yu, R., Liu, T., Yu, J., Zhang, W., Zhao, Y., Yang, M., ... & Guo, J. (2023, June). [Combination of Translation and Rotation in Dual Quaternion Space for Temporal Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/10191552/). In 2023 International Joint Conference on Neural Networks (IJCNN) (pp. 01-08). IEEE.
 
@@ -261,7 +269,7 @@ Chen, H., Li, Y., Sun, X., Xu, G., & Yin, H. (2021, March). [Temporal meta-path 
 
 [29] Liu, K., Zhao, F., Xu, G., Wang, X., & Jin, H. (2022, November). [Temporal Knowledge Graph Reasoning via Time-Distributed Representation Learning](https://ieeexplore.ieee.org/abstract/document/10027745/). In 2022 IEEE International Conference on Data Mining (ICDM) (pp. 279-288). IEEE.
 
-[28] Y. -C. Lee, J. Lee, D. Lee and S. -W. Kim, "THOR: Self-Supervised Temporal Knowledge Graph Embedding via Three-Tower Graph Convolutional Networks," 2022 IEEE International Conference on Data Mining (ICDM), Orlando, FL, USA, 2022, pp. 1035-1040, doi: 10.1109/ICDM54844.2022.00127.
+[28] Y. -C. Lee, J. Lee, D. Lee and S. -W. Kim, ["THOR: Self-Supervised Temporal Knowledge Graph Embedding via Three-Tower Graph Convolutional Networks,"](https://ieeexplore.ieee.org/document/10027723) 2022 IEEE International Conference on Data Mining (ICDM), Orlando, FL, USA, 2022, pp. 1035-1040, doi: 10.1109/ICDM54844.2022.00127.
 
 [27] Wei, H., Huang, H., Zhang, T., Shi, X., & Jin, H. (2022, September). [Enhance Temporal Knowledge Graph Completion via Time-Aware Attention Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-031-26390-3_8). In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 122-137). Cham: Springer International Publishing.
 
