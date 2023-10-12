@@ -113,6 +113,12 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### 2023
 
+[79] Wang, Z., You, X., & Lv, X. (2023). [A relation enhanced model for temporal knowledge graph alignment](https://link.springer.com/article/10.1007/s11227-023-05670-w). The Journal of Supercomputing, 1-23.
+
+[78] Wang, Y., Li, L., Jian, M., Zhang, Y., & Ouyang, X. (2023, October). [A Novel Semantic-Enhanced Time-Aware Model for Temporal Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-44696-2_12). In CCF International Conference on Natural Language Processing and Chinese Computing (pp. 148-160). Cham: Springer Nature Switzerland.
+
+[77] Liu, R., Yin, G., Liu, Z., & Tian, Y. (2023). [Reinforcement learning with time intervals for temporal knowledge graph reasoning](https://www.sciencedirect.com/science/article/pii/S030643792300128X). Information Systems, 102292.
+
 [76] Xie, B., Wang, S., Ding, L., Chen, J., & Xiang, Y. (2023). [TBTC: A Temporal Knowledge Graph Reasoning Model with Bidirectional Temporal Correlation](https://www.researchsquare.com/article/rs-3299558/latest).
 
 [75] Gastinger, J., Sztyler, T., Sharma, L., Schuelke, A., & Stuckenschmidt, H. (2023, September). [Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_32). In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 533-549). Cham: Springer Nature Switzerland. [Github](https://github.com/nec-research/TKG-Forecasting-Evaluation)
