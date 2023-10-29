@@ -164,6 +164,10 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### Journal 🔥 🔥 🔥
 
+**Semantic Web Journal**
+
+[1] Song, B., Amouzouvi, K., Xu, C., Wang, M., Lehmann, J., & Vahdati, S. Temporal Relevance for Representing Learning over Temporal Knowledge Graphs.
+
 **Expert Systems with Applications**
 
 [1] Bai, L., Chen, M., Zhu, L., & Meng, X. (2023). [Multi-hop temporal knowledge graph reasoning with temporal path rules guidance](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003056). Expert Systems with Applications, 223, 119804.
@@ -427,9 +431,13 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [2] Y. -C. Lee, J. Lee, D. Lee and S. -W. Kim, ["THOR: Self-Supervised Temporal Knowledge Graph Embedding via Three-Tower Graph Convolutional Networks,"](https://ieeexplore.ieee.org/document/10027723) 2022 IEEE International Conference on Data Mining (ICDM), Orlando, FL, USA, 2022, pp. 1035-1040, doi: 10.1109/ICDM54844.2022.00127.
 
-[3] (DA-Net) Kangzheng Liu, Feng Zhao, Hongxu Chen, Yicong Li, Guandong Xu, Hai Jin. ["DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning"](https://dl.acm.org/doi/10.1145/3511808.3557280). CIKM 2022.
+**CIKM**
 
-[4] (TLT-KGE) Fuwei Zhang, Zhao Zhang, Xiang Ao, Fuzhen Zhuang, Yongjun Xu, Qing He. ["Along the Time: Timeline-traced Embedding for Temporal Knowledge Graph Completion"](https://dl.acm.org/doi/10.1145/3511808.3557233). CIKM 2022. [Github](https://github.com/zhangfw123/TLT-KGE)
+[1] (DA-Net) Kangzheng Liu, Feng Zhao, Hongxu Chen, Yicong Li, Guandong Xu, Hai Jin. ["DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning"](https://dl.acm.org/doi/10.1145/3511808.3557280). CIKM 2022.
+
+[2] (TLT-KGE) Fuwei Zhang, Zhao Zhang, Xiang Ao, Fuzhen Zhuang, Yongjun Xu, Qing He. ["Along the Time: Timeline-traced Embedding for Temporal Knowledge Graph Completion"](https://dl.acm.org/doi/10.1145/3511808.3557233). CIKM 2022. [Github](https://github.com/zhangfw123/TLT-KGE)
+
+[3] Li, D., Tan, S., Wang, Y., Funakoshi, K., & Okumura, M. (2023, October). [Temporal and Topological Augmentation-based Cross-view Contrastive Learning Model for Temporal Link Prediction](https://dl.acm.org/doi/pdf/10.1145/3583780.3615231). In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (pp. 4059-4063).
 
 **AAAI**
 
@@ -502,6 +510,9 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [24] Sun, H., Geng, S., Zhong, J., Hu, H., & He, K. (2022, December). [Graph Hawkes Transformer for Extrapolated Reasoning on Temporal Knowledge Graphs](https://aclanthology.org/2022.emnlp-main.507.pdf). In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (pp. 7481-7493). [Github](https://github.com/JHL-HUST/GHT)
 
+### ArXiv
+
+[1] Wang, K., Han, S. C., & Poon, J. (2023). [Re-Temp: Relation-Aware Temporal Representation Learning for Temporal Knowledge Graph Completion](https://arxiv.org/abs/2310.15722). arXiv preprint arXiv:2310.15722.
 
 ## 2021
 
