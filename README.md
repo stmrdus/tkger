@@ -166,7 +166,7 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 **Semantic Web Journal**
 
-[1] Song, B., Amouzouvi, K., Xu, C., Wang, M., Lehmann, J., & Vahdati, S. Temporal Relevance for Representing Learning over Temporal Knowledge Graphs.
+[1] Song, B., Amouzouvi, K., Xu, C., Wang, M., Lehmann, J., & Vahdati, S. [Temporal Relevance for Representing Learning over Temporal Knowledge Graphs](https://www.semantic-web-journal.net/system/files/swj3557.pdf).
 
 **Expert Systems with Applications**
 
@@ -391,11 +391,25 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [1] Wang, Y., Li, L., Jian, M., Zhang, Y., & Ouyang, X. (2023, October). [A Novel Semantic-Enhanced Time-Aware Model for Temporal Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-44696-2_12). In CCF International Conference on Natural Language Processing and Chinese Computing (pp. 148-160). Cham: Springer Nature Switzerland.
 
+**CIKM**
+
+[1] Li, D., Tan, S., Wang, Y., Funakoshi, K., & Okumura, M. (2023, October). [Temporal and Topological Augmentation-based Cross-view Contrastive Learning Model for Temporal Link Prediction](https://dl.acm.org/doi/abs/10.1145/3583780.3615231). In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (pp. 4059-4063).
+
+[2] Yan, H., Ge, Y., Wang, H., Zhang, D., & Yang, Y. (2023, October). [Logistics Audience Expansion via Temporal Knowledge Graph](https://dl.acm.org/doi/abs/10.1145/3583780.3614695). In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (pp. 4879-4886).
+
+**MM**
+
+[1] Zhang, S., Liang, X., Tang, H., & Guan, Z. (2023, October). [Hybrid Interaction Temporal Knowledge Graph Embedding Based on Householder Transformations](https://dl.acm.org/doi/abs/10.1145/3581783.3613446). In Proceedings of the 31st ACM International Conference on Multimedia (pp. 8954-8962).
+
 ### Workshops
 
 **Proceedings of the 2nd International Workshop on Cross-lingual Event-centric Open Analytics**
 
 [1] Gottschalk, S., Kacupaj, E., Abdollahi, S., Alves, D., Amaral, G., Koutsiana, E., ... & Thakkar, G. (2023). [Oekg: The open event knowledge graph](https://arxiv.org/abs/2302.14688). arXiv preprint arXiv:2302.14688.
+
+**Temporal Graph Learning Workshop @ NeurIPS 2023**
+
+[1] Pan, J., Nayyeri, M., Li, Y., & Staab, S. (2023, November). [Do Temporal Knowledge Graph Embedding Models Learn or Memorize](https://openreview.net/forum?id=UMokRwWfLW). In Temporal Graph Learning Workshop@ NeurIPS 2023.
 
 ### ArXiv
 
@@ -408,6 +422,8 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 [4] Tang, X., & Chen, L. (2023). [GTRL: An Entity Group-Aware Temporal Knowledge Graph Representation Learning Method](https://arxiv.org/pdf/2302.11091). arXiv preprint arXiv:2302.11091.
 
 [5] Dong, H., Wang, P., Xiao, M., Ning, Z., Wang, P., & Zhou, Y. (2023). [Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2309.03251). arXiv preprint arXiv:2309.03251.
+
+[6] Wang, K., Han, S. C., & Poon, J. (2023). [Re-Temp: Relation-Aware Temporal Representation Learning for Temporal Knowledge Graph Completion](https://arxiv.org/abs/2310.15722). arXiv preprint arXiv:2310.15722.
 
 ## 2022
 
