@@ -112,7 +112,25 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ## 2024
 
+### Journal
+
+**Information Science**
+
+[1] Lee, Y. C., Lee, J., Lee, D., & Kim, S. W. (2024). [Learning to compensate for lack of information: Extracting latent knowledge for effective temporal knowledge graph completion](https://www.sciencedirect.com/science/article/abs/pii/S0020025523014421?casa_token=clrOVF8uX6sAAAAA:CbR7aGo0qkRov9ss746qvbbzKHTyqhD9jLULqbGBFigjj8pOiRq7Vd2e9_xbnLO_sZlDjU-DmLo). Information Sciences, 654, 119857.
+
+> Extended version from: Y. -C. Lee, J. Lee, D. Lee and S. -W. Kim, ["THOR: Self-Supervised Temporal Knowledge Graph Embedding via Three-Tower Graph Convolutional Networks,"](https://ieeexplore.ieee.org/document/10027723) 2022 IEEE International Conference on Data Mining (ICDM), Orlando, FL, USA, 2022, pp. 1035-1040, doi: 10.1109/ICDM54844.2022.00127.
+
+[2] Zhang, F., Chen, H., Shi, Y., Cheng, J., & Lin, J. (2024). Joint framework for tensor decomposition-based temporal knowledge graph completion. Information Sciences, 654, 119853.
+
 ### Conferences ❄️ ❄️ ❄️
+
+**ICDE2024**
+
+[1] Chen, W., Wan, H., Wu, Y., Zhao, S., Cheng, J., Li, Y., & Lin, Y. (2023). Local-Global History-aware Contrastive Learning for Temporal Knowledge Graph Reasoning. arXiv preprint arXiv:2312.01601.
+
+### ArXiv
+
+[1] Ma, Y., Ye, C., Wu, Z., Wang, X., Cao, Y., Pang, L., & Chua, T. S. (2023). Structured, Complex and Time-complete Temporal Event Forecasting. arXiv preprint arXiv:2312.01052.
 
 **❄️ ❄️ ❄️ Knowledge graphs @ ICLR 2024 Submission ❄️ ❄️ ❄️**
 
