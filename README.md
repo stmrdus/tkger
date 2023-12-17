@@ -122,15 +122,15 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [2] Zhang, F., Chen, H., Shi, Y., Cheng, J., & Lin, J. (2024). Joint framework for tensor decomposition-based temporal knowledge graph completion. Information Sciences, 654, 119853.
 
+**Information Processing & Management**
+
+[1] Meng, X., Bai, L., Hu, J., & Zhu, L. (2024). [Multi-hop path reasoning over sparse temporal knowledge graphs based on path completion and reward shaping](https://www.sciencedirect.com/science/article/pii/S0306457323003424). Information Processing & Management, 61(2), 103605.
+
 ### Conferences ❄️ ❄️ ❄️
 
 **ICDE2024**
 
 [1] Chen, W., Wan, H., Wu, Y., Zhao, S., Cheng, J., Li, Y., & Lin, Y. (2023). Local-Global History-aware Contrastive Learning for Temporal Knowledge Graph Reasoning. arXiv preprint arXiv:2312.01601.
-
-### ArXiv
-
-[1] Ma, Y., Ye, C., Wu, Z., Wang, X., Cao, Y., Pang, L., & Chua, T. S. (2023). Structured, Complex and Time-complete Temporal Event Forecasting. arXiv preprint arXiv:2312.01052.
 
 **❄️ ❄️ ❄️ Knowledge graphs @ ICLR 2024 Submission ❄️ ❄️ ❄️**
 
@@ -177,6 +177,12 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 [21] Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs, https://openreview.net/forum?id=QHROe7Mfcb
 
 [22] Fully Hyperbolic Representation Learning on Knowledge Hypergraph, https://openreview.net/forum?id=q6WtaLj8O1
+
+### ArXiv
+
+[1] Ma, Y., Ye, C., Wu, Z., Wang, X., Cao, Y., Pang, L., & Chua, T. S. (2023). Structured, Complex and Time-complete Temporal Event Forecasting. arXiv preprint arXiv:2312.01052.
+
+[2] Zhang, J., Hui, B., Mu, C., & Tian, L. (2023). Learning Multi-graph Structure for Temporal Knowledge Graph Reasoning. arXiv preprint arXiv:2312.03004.
 
 ## 2023
 
@@ -418,6 +424,18 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 **MM**
 
 [1] Zhang, S., Liang, X., Tang, H., & Guan, Z. (2023, October). [Hybrid Interaction Temporal Knowledge Graph Embedding Based on Householder Transformations](https://dl.acm.org/doi/abs/10.1145/3581783.3613446). In Proceedings of the 31st ACM International Conference on Multimedia (pp. 8954-8962).
+
+**EMNLP** (Unformatted as APA ciation)
+
+[1] Kunze Wang, Caren Han, and Josiah Poon. 2023. [Re-Temp: Relation-Aware Temporal Representation Learning for Temporal Knowledge Graph Completion](https://aclanthology.org/2023.findings-emnlp.20/). In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 258–269, Singapore. Association for Computational Linguistics.
+
+[2] Zhongni Hou, Xiaolong Jin, Zixuan Li, Long Bai, Saiping Guan, Yutao Zeng, Jiafeng Guo, and Xueqi Cheng. 2023. [Temporal Knowledge Graph Reasoning Based on N-tuple Modeling](https://aclanthology.org/2023.findings-emnlp.77/). In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 1090–1100, Singapore. Association for Computational Linguistics.
+
+[3] Zhengtao Liu, Lei Tan, Mengfan Li, Yao Wan, Hai Jin, and Xuanhua Shi. 2023. [SiMFy: A Simple Yet Effective Approach for Temporal Knowledge Graph Reasoning](https://aclanthology.org/2023.findings-emnlp.249/). In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 3825–3836, Singapore. Association for Computational Linguistics.
+
+[4] Zhongwu Chen, Chengjin Xu, Fenglong Su, Zhen Huang, and Yong Dou. 2023. [Temporal Extrapolation and Knowledge Transfer for Lifelong Temporal Knowledge Graph Reasoning](https://aclanthology.org/2023.findings-emnlp.448/). In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 6736–6746, Singapore. Association for Computational Linguistics.
+
+[5] Ningyuan Li, Haihong E, Shi Li, Mingzhi Sun, Tianyu Yao, Meina Song, Yong Wang, and Haoran Luo. 2023. [TR-Rules: Rule-based Model for Link Forecasting on Temporal Knowledge Graph Considering Temporal Redundancy](https://aclanthology.org/2023.findings-emnlp.529/). In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 7885–7894, Singapore. Association for Computational Linguistics.
 
 ### Workshops
 
