@@ -86,12 +86,15 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 > **Update**: Borui Cai, Yong Xiang, Longxiang Gao, He Zhang, Yunfeng Li, Jianxin Li, **Temporal Knowledge Graph Completion: A Survey**, 2023 Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, Survey Track. Pages 6545-6553. [paper](https://doi.org/10.24963/ijcai.2023/734)
 
-
 2. **Reasoning over different types of knowledge graphs: Static, temporal and multi-modal**, ArXiv, 2022. [paper](https://arxiv.org/pdf/2212.05767)
 
 3. **A Survey on Temporal Knowledge Graphs-Extrapolation and Interpolation Tasks**,  Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery, [paper](https://link.springer.com/chapter/10.1007/978-3-031-20738-9_110)
 
     *Sulin Chen & Jingbin Wang*
+
+4. **Generalizing to Unseen Elements: A Survey on Knowledge Extrapolation for Knowledge Graphs**. 2023 Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, Survey Track. [paper](https://arxiv.org/abs/2302.01859)
+
+    *Mingyang Chen, Wen Zhang, Yuxia Geng, Zezhong Xu, Jeff Z. Pan, Huajun Chen*
 
 ### 2021
 
@@ -135,6 +138,8 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 **Expert Systems with Applications**
 
 [1] Zhang, D., Feng, W., Wu, Z., Li, G., & Ning, B. (2024). [CDRGN-SDE: Cross-Dimensional Recurrent Graph Network with neural Stochastic Differential Equation for temporal knowledge graph embedding](https://www.sciencedirect.com/science/article/pii/S095741742400160X). Expert Systems with Applications, 123295.
+
+[2] Yang, J., Ying, X., Shi, Y., & Xing, B. (2024). [Tensor decompositions for temporal knowledge graph completion with time perspective](https://www.sciencedirect.com/science/article/pii/S0957417423017694). Expert Systems with Applications, 237, 121267.
 
 **Frontiers of Computer Science**
 
