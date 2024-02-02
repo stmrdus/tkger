@@ -120,11 +120,25 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 > Extended version from: Y. -C. Lee, J. Lee, D. Lee and S. -W. Kim, ["THOR: Self-Supervised Temporal Knowledge Graph Embedding via Three-Tower Graph Convolutional Networks,"](https://ieeexplore.ieee.org/document/10027723) 2022 IEEE International Conference on Data Mining (ICDM), Orlando, FL, USA, 2022, pp. 1035-1040, doi: 10.1109/ICDM54844.2022.00127.
 
-[2] Zhang, F., Chen, H., Shi, Y., Cheng, J., & Lin, J. (2024). Joint framework for tensor decomposition-based temporal knowledge graph completion. Information Sciences, 654, 119853.
+[2] Zhang, F., Chen, H., Shi, Y., Cheng, J., & Lin, J. (2024). [Joint framework for tensor decomposition-based temporal knowledge graph completion](https://www.sciencedirect.com/science/article/pii/S002002552301438X). Information Sciences, 654, 119853.
+
+[3] Liu, Z., Li, Z., Li, W., & Duan, L. (2024). [Deep Graph Tensor Learning for Temporal Link Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0020025523016717). Information Sciences, 120085.
+
+**Information Fusion**
+
+[1] Wang, H., Yang, J., Yang, L. T., Gao, Y., Ding, J., Zhou, X., & Liu, H. (2024). [MvTuckER: Multi-view knowledge graphs represention learning based on tensor tucker model](https://www.sciencedirect.com/science/article/abs/pii/S1566253524000277). Information Fusion, 102249. 
 
 **Information Processing & Management**
 
 [1] Meng, X., Bai, L., Hu, J., & Zhu, L. (2024). [Multi-hop path reasoning over sparse temporal knowledge graphs based on path completion and reward shaping](https://www.sciencedirect.com/science/article/pii/S0306457323003424). Information Processing & Management, 61(2), 103605.
+
+**Expert Systems with Applications**
+
+[1] Zhang, D., Feng, W., Wu, Z., Li, G., & Ning, B. (2024). [CDRGN-SDE: Cross-Dimensional Recurrent Graph Network with neural Stochastic Differential Equation for temporal knowledge graph embedding](https://www.sciencedirect.com/science/article/pii/S095741742400160X). Expert Systems with Applications, 123295.
+
+**Frontiers of Computer Science**
+
+[1] Liu, J., Yu, Z., Guo, B., Deng, C., Fu, L., Wang, X., & Zhou, C. (2024). [EvolveKG: a general framework to learn evolving knowledge graphs](https://link.springer.com/article/10.1007/s11704-022-2467-9). Frontiers of Computer Science, 18(3), 183309.
 
 ### Conferences ❄️ ❄️ ❄️
 
@@ -134,55 +148,73 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 **❄️ ❄️ ❄️ Knowledge graphs @ ICLR 2024 Submission ❄️ ❄️ ❄️**
 
-[1] Towards Foundation Models for Knowledge Graph Reasoning, https://openreview.net/forum?id=jVEoydFOl9
+[1] Galkin, M., Yuan, X., Mostafa, H., Tang, J., & Zhu, Z. (2023). [Towards foundation models for knowledge graph reasoning](https://arxiv.org/pdf/2310.04562). arXiv preprint arXiv:2310.04562.
+> [ICLR submission](https://openreview.net/forum?id=jVEoydFOl9)
+> Github
 
-[2] Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph, https://openreview.net/forum?id=nnVO1PvbTv
+[2] Sun, J., Xu, C., Tang, L., Wang, S., Lin, C., Gong, Y., ... & Guo, J. (2023). Think-on-graph: Deep and responsible reasoning of large language model with knowledge graph. arXiv preprint arXiv:2307.07697
+> [ICLR submission](https://openreview.net/forum?id=nnVO1PvbTv)
+> Github
 
-[3] ${\rm EFO}_k$-CQA: Towards Knowledge Graph Complex Query Answering beyond Set Operation, https://openreview.net/forum?id=xwZhyKynCB
+[3] Wang, Z., Wang, Z., Srinivasan, B., Ioannidis, V. N., Rangwala, H., & Anubhai, R. (2023). [BioBridge: Bridging Biomedical Foundation Models via Knowledge Graph](https://arxiv.org/html/2310.03320v4). arXiv preprint arXiv:2310.03320.
+> [ICLR submission](https://openreview.net/forum?id=jJCeMiwHdH)
+> Github
 
-[4] BioBridge: Bridging Biomedical Foundation Models via Knowledge Graph, https://openreview.net/forum?id=jJCeMiwHdH
+[4] Rethinking Complex Queries on Knowledge Graphs with Neural Link Predictors,
+> [ICLR submission](https://openreview.net/forum?id=1BmveEMNbG)
+> Github
 
-[5] Continual Learning Knowledge Graph Embeddings for Dynamic Knowledge Graphs, https://openreview.net/forum?id=SiUhAbb3LH
+[5] Jiang, P., Xiao, C., Cross, A., & Sun, J. (2023). [GraphCare: Enhancing Healthcare Predictions with Open-World Personalized Knowledge Graphs](https://arxiv.org/pdf/2305.12788). arXiv preprint arXiv:2305.12788.
+> [ICLR submission](https://openreview.net/forum?id=tVTN7Zs0ml)
+> Github
 
-[6] Robust Self-supervised Learning in Heterogeneous Graph Based on Feature-Topology Balancing, https://openreview.net/forum?id=1JiIKjcwrr
-
-[7] Inductive Link Prediction in Knowledge Graphs using Path-based Neural Networks, https://openreview.net/forum?id=5xV0yTP50n
-
-[8] Knowledge Graph Reasoning with Reinforcement Learning Agent guided by Multi-relational Graph Neural Networks, https://openreview.net/forum?id=d1zLRzhalF
-
-[9] DUAL DENOISING LOGICAL REASONING FOR INDUCTIVE KNOWLEDGE GRAPH COMPLETION, https://openreview.net/forum?id=PqjQmLNuJt
-
-[10] TKG-LM: Temporal Knowledge Graph Extrapolation Enhanced by Language Models, https://openreview.net/forum?id=T0hhkuv8I0
-
-[11] Unified Interpretation of Smoothing Methods for Negative Sampling Loss Functions in Knowledge Graph Embedding, https://openreview.net/forum?id=Oz6ABL8o8C
-
-[12] Knowledge Graph Completion by Intermediate Variables Regularization, https://openreview.net/forum?id=bSlAUCyY4T
-
-[13] DSparsE: Dynamic Sparse Embedding for Knowledge Graph Completion, https://openreview.net/forum?id=z4qWt62BdN
-
-[14] Enhancing Temporal Knowledge Graph Completion with Global Similarity and Weighted Sampling, https://openreview.net/forum?id=wN9HBrNPSX
-
-[15] EMU: EFFICIENT NEGATIVE SAMPLE GENERATION METHOD FOR KNOWLEDGE GRAPH LINK PREDICTION, https://openreview.net/forum?id=rcsV1C2eyk
-
-[16] Rethinking Complex Queries on Knowledge Graphs with Neural Link Predictors, https://openreview.net/forum?id=1BmveEMNbG
-
-[17] Abductive Logical Reasoning on Knowledge Graphs, https://openreview.net/forum?id=DIuSX4HqDZ
-
-[18] Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction, https://openreview.net/forum?id=1g77zRaJq0
-
-[19] COINs: Model-based Accelerated Inference for Knowledge Graphs, https://openreview.net/forum?id=ut9aUpFZFr
-
-[20] LARGE LANGUAGE MODELS FOR BIOMEDICAL KNOWLEDGE GRAPH CONSTRUCTION, https://openreview.net/forum?id=K1bv86Uvbp
-
-[21] Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs, https://openreview.net/forum?id=QHROe7Mfcb
-
-[22] Fully Hyperbolic Representation Learning on Knowledge Hypergraph, https://openreview.net/forum?id=q6WtaLj8O1
+[6] Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs, 
+> [ICLR submission](https://openreview.net/forum?id=QHROe7Mfcb)
+> Github
 
 ### ArXiv
 
-[1] Ma, Y., Ye, C., Wu, Z., Wang, X., Cao, Y., Pang, L., & Chua, T. S. (2023). Structured, Complex and Time-complete Temporal Event Forecasting. arXiv preprint arXiv:2312.01052.
+[1] Ma, Y., Ye, C., Wu, Z., Wang, X., Cao, Y., Pang, L., & Chua, T. S. (2023). [Structured, Complex and Time-complete Temporal Event Forecasting](https://arxiv.org/abs/2312.01052). arXiv preprint arXiv:2312.01052. [Github](https://github.com/yecchen/GDELT-ComplexEvent)
 
-[2] Zhang, J., Hui, B., Mu, C., & Tian, L. (2023). Learning Multi-graph Structure for Temporal Knowledge Graph Reasoning. arXiv preprint arXiv:2312.03004.
+[2] Zhang, J., Hui, B., Mu, C., & Tian, L. (2023). [Learning Multi-graph Structure for Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2312.03004). arXiv preprint arXiv:2312.03004.
+
+[3] Luo, R., Gu, T., Li, H., Li, J., Lin, Z., Li, J., & Yang, Y. (2024). [Chain of History: Learning and Forecasting with LLMs for Temporal Knowledge Graph Completion](https://arxiv.org/abs/2401.06072). arXiv preprint arXiv:2401.06072.
+
+## Openreview
+
+[1] [${\rm EFO}_k$-CQA: Towards Knowledge Graph Complex Query Answering beyond Set Operation](https://openreview.net/forum?id=xwZhyKynCB)
+
+[2] [Continual Learning Knowledge Graph Embeddings for Dynamic Knowledge Graphs](https://openreview.net/forum?id=SiUhAbb3LH) 
+
+[3] [Robust Self-supervised Learning in Heterogeneous Graph Based on Feature-Topology Balancing](https://openreview.net/forum?id=1JiIKjcwrr) 
+
+[4] [Inductive Link Prediction in Knowledge Graphs using Path-based Neural Networks](https://openreview.net/forum?id=5xV0yTP50n) 
+
+[5] [Knowledge Graph Reasoning with Reinforcement Learning Agent guided by Multi-relational Graph Neural Networks](https://openreview.net/forum?id=d1zLRzhalF) 
+
+[6] [DUAL DENOISING LOGICAL REASONING FOR INDUCTIVE KNOWLEDGE GRAPH COMPLETION](https://openreview.net/forum?id=PqjQmLNuJt)
+
+[7] [TKG-LM: Temporal Knowledge Graph Extrapolation Enhanced by Language Models]( https://openreview.net/forum?id=T0hhkuv8I0)
+
+[8] [Unified Interpretation of Smoothing Methods for Negative Sampling Loss Functions in Knowledge Graph Embedding](https://openreview.net/forum?id=Oz6ABL8o8C)
+
+[9] [Knowledge Graph Completion by Intermediate Variables Regularization](https://openreview.net/forum?id=bSlAUCyY4T)
+
+[10] [DSparsE: Dynamic Sparse Embedding for Knowledge Graph Completion](https://openreview.net/forum?id=z4qWt62BdN)
+
+[11] [Enhancing Temporal Knowledge Graph Completion with Global Similarity and Weighted Sampling](https://openreview.net/forum?id=wN9HBrNPSX) 
+
+[12] [EMU: EFFICIENT NEGATIVE SAMPLE GENERATION METHOD FOR KNOWLEDGE GRAPH LINK PREDICTION](https://openreview.net/forum?id=rcsV1C2eyk)
+
+[13] [Abductive Logical Reasoning on Knowledge Graphs](https://openreview.net/forum?id=DIuSX4HqDZ)
+
+[14] [Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction](https://openreview.net/forum?id=1g77zRaJq0)
+
+[15] [COINs: Model-based Accelerated Inference for Knowledge Graphs](https://openreview.net/forum?id=ut9aUpFZFr)
+
+[16] [LARGE LANGUAGE MODELS FOR BIOMEDICAL KNOWLEDGE GRAPH CONSTRUCTION](https://openreview.net/forum?id=K1bv86Uvbp)
+
+[17] [Fully Hyperbolic Representation Learning on Knowledge Hypergraph](https://openreview.net/forum?id=q6WtaLj8O1)
 
 ## 2023
 
