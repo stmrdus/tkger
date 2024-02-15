@@ -374,7 +374,7 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 **IJCAI**
 
-[1] Dong, H., Ning, Z., Wang, P., Qiao, Z., Wang, P., Zhou, Y., & Fu, Y. (2023). [Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2304.12604). arXiv preprint arXiv:2304.12604.
+[1] Dong, H., Ning, Z., Wang, P., Qiao, Z., Wang, P., Zhou, Y., & Fu, Y. (2023). [Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2304.12604). arXiv preprint arXiv:2304.12604. [Github](https://github.com/hhdo/DaeMon)
 
 **WWW**
 
@@ -472,7 +472,7 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [4] Zhongwu Chen, Chengjin Xu, Fenglong Su, Zhen Huang, and Yong Dou. 2023. [Temporal Extrapolation and Knowledge Transfer for Lifelong Temporal Knowledge Graph Reasoning](https://aclanthology.org/2023.findings-emnlp.448/). In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 6736–6746, Singapore. Association for Computational Linguistics.
 
-[5] Ningyuan Li, Haihong E, Shi Li, Mingzhi Sun, Tianyu Yao, Meina Song, Yong Wang, and Haoran Luo. 2023. [TR-Rules: Rule-based Model for Link Forecasting on Temporal Knowledge Graph Considering Temporal Redundancy](https://aclanthology.org/2023.findings-emnlp.529/). In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 7885–7894, Singapore. Association for Computational Linguistics.
+[5] Ningyuan Li, Haihong E, Shi Li, Mingzhi Sun, Tianyu Yao, Meina Song, Yong Wang, and Haoran Luo. 2023. [TR-Rules: Rule-based Model for Link Forecasting on Temporal Knowledge Graph Considering Temporal Redundancy](https://aclanthology.org/2023.findings-emnlp.529/). In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 7885–7894, Singapore. Association for Computational Linguistics. [Github](https://github.com/JasonLee-22/TR-Rules)
 
 ### Workshops
 
