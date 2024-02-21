@@ -115,7 +115,15 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ## 2024
 
-**Information Science (Journal)**
+**Applied Intelligence**
+
+[1] Wang, J., Wu, R., Wu, Y., Zhang, F., Zhang, S., & Guo, K. (2024). [MPNet: temporal knowledge graph completion based on a multi-policy network](https://link.springer.com/article/10.1007/s10489-024-05320-5). Applied Intelligence, 1-17. [Github](https://github.com/Mike-RF/MPNet)
+
+**ACM TKDD**
+
+[1] Li, X., Zhou, H., Yao, W., Li, W., Liu, B., & Lin, Y. (2024). [Intricate Spatiotemporal Dependency Learning for Temporal Knowledge Graph Reasoning](https://dl.acm.org/doi/abs/10.1145/3648366). ACM Transactions on Knowledge Discovery from Data.
+
+**Information Science**
 
 [1] (THOR) Lee, Y. C., Lee, J., Lee, D., & Kim, S. W. (2024). [Learning to compensate for lack of information: Extracting latent knowledge for effective temporal knowledge graph completion](https://www.sciencedirect.com/science/article/abs/pii/S0020025523014421?casa_token=clrOVF8uX6sAAAAA:CbR7aGo0qkRov9ss746qvbbzKHTyqhD9jLULqbGBFigjj8pOiRq7Vd2e9_xbnLO_sZlDjU-DmLo). Information Sciences, 654, 119857.
 
@@ -125,35 +133,35 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [3] (DGTL) Liu, Z., Li, Z., Li, W., & Duan, L. (2024). [Deep Graph Tensor Learning for Temporal Link Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0020025523016717). Information Sciences, 120085.
 
-**Information Fusion (Journal)**
+**Information Fusion**
 
 [1] (MvTuckER) Wang, H., Yang, J., Yang, L. T., Gao, Y., Ding, J., Zhou, X., & Liu, H. (2024). [MvTuckER: Multi-view knowledge graphs represention learning based on tensor tucker model](https://www.sciencedirect.com/science/article/abs/pii/S1566253524000277). Information Fusion, 102249. 
 
-**Information Processing & Management (Journal)**
+**Information Processing & Management**
 
 [1] (STKGR-PR) Meng, X., Bai, L., Hu, J., & Zhu, L. (2024). [Multi-hop path reasoning over sparse temporal knowledge graphs based on path completion and reward shaping](https://www.sciencedirect.com/science/article/pii/S0306457323003424). Information Processing & Management, 61(2), 103605.
 
-**Expert Systems with Applications (Journal)**
+**Expert Systems with Applications**
 
 [1] (CDRGN-SDE) Zhang, D., Feng, W., Wu, Z., Li, G., & Ning, B. (2024). [CDRGN-SDE: Cross-Dimensional Recurrent Graph Network with neural Stochastic Differential Equation for temporal knowledge graph embedding](https://www.sciencedirect.com/science/article/pii/S095741742400160X). Expert Systems with Applications, 123295.
 
 [2] (TPComplEx) Yang, J., Ying, X., Shi, Y., & Xing, B. (2024). [Tensor decompositions for temporal knowledge graph completion with time perspective](https://www.sciencedirect.com/science/article/pii/S0957417423017694). Expert Systems with Applications, 237, 121267.
 
-**Frontiers of Computer Science (Journal)**
+**Frontiers of Computer Science**
 
 [1] (EvolveKG) Liu, J., Yu, Z., Guo, B., Deng, C., Fu, L., Wang, X., & Zhou, C. (2024). [EvolveKG: a general framework to learn evolving knowledge graphs](https://link.springer.com/article/10.1007/s11704-022-2467-9). Frontiers of Computer Science, 18(3), 183309.
 
-**Neural networks (Journal)**
+**Neural networks**
 
 [1] Shao, P., Tao, J., & Zhang, D. (2024). [Bayesian hypernetwork collaborates with time-difference evolutional network for temporal knowledge prediction](https://www.sciencedirect.com/science/article/pii/S0893608024000704). Neural Networks, 106146.
 
 [2] Bai, L., Li, N., Li, G., Zhang, Z., & Zhu, L. (2024). [Embedding-based Entity Alignment of Cross-Lingual Temporal Knowledge Graphs](https://www.sciencedirect.com/science/article/pii/S0893608024000595). Neural Networks, 106143.
 
-**Engineering Applications of Artificial Intelligence (Journal)**
+**Engineering Applications of Artificial Intelligence**
 
 [1] Zhu, L., Zhao, W., & Bai, L. (2024). [Quadruple mention text-enhanced temporal knowledge graph reasoning](https://www.sciencedirect.com/science/article/pii/S0952197624002161). Engineering Applications of Artificial Intelligence, 133, 108058.
 
-**Journal of Intelligent Information Systems (Journal)**
+**Journal of Intelligent Information Systems**
 
 [1] Du, C., Li, X., & Li, Z. (2024). [Semantic-enhanced reasoning question answering over temporal knowledge graphs](https://link.springer.com/article/10.1007/s10844-024-00840-5). Journal of Intelligent Information Systems, 1-23.
 
@@ -164,23 +172,23 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ## 2023
 
-**Semantic Web Journal (Journal)**
+**Semantic Web Journal**
 
 [1] (TRKGE) Song, B., Amouzouvi, K., Xu, C., Wang, M., Lehmann, J., & Vahdati, S. [Temporal Relevance for Representing Learning over Temporal Knowledge Graphs](https://www.semantic-web-journal.net/system/files/swj3557.pdf).
 
-**Expert Systems with Applications (Journal)**
+**Expert Systems with Applications**
 
 [1] (TPRG) Bai, L., Chen, M., Zhu, L., & Meng, X. (2023). [Multi-hop temporal knowledge graph reasoning with temporal path rules guidance](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003056). Expert Systems with Applications, 223, 119804.
 
-**The Journal of Supercomputing (Journal)**
+**The Journal of Supercomputing**
 
 [1] (TKGA) Wang, Z., You, X., & Lv, X. (2023). [A relation enhanced model for temporal knowledge graph alignment](https://link.springer.com/article/10.1007/s11227-023-05670-w). The Journal of Supercomputing, 1-23.
 
-**Information Systems (Journal)**
+**Information Systems**
 
 [1] (RITI) Liu, R., Yin, G., Liu, Z., & Tian, Y. (2023). [Reinforcement learning with time intervals for temporal knowledge graph reasoning](https://www.sciencedirect.com/science/article/pii/S030643792300128X). Information Systems, 102292.
 
-**Information Sciences (Journal)**
+**Information Sciences**
 
 [1] (T-GAE) Hou, X., Ma, R., Yan, L., & Ma, Z. (2023). [T-GAE: A Timespan-Aware Graph Attention-based Embedding Model for Temporal Knowledge Graph Completion](https://www.sciencedirect.com/science/article/pii/S0020025523008101). Information Sciences, 119225.
 
@@ -188,11 +196,11 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [3] (TLmod) Bai, L., Yu, W., Chai, D., Zhao, W., & Chen, M. (2023). [Temporal knowledge graphs reasoning with iterative guidance by temporal logical rules](https://www.sciencedirect.com/science/article/pii/S0020025522013871). Information Sciences, 621, 22-35.
 
-**IEEE/ACM Transactions on Audio, Speech, and Language Processing (Journal)**
+**IEEE/ACM Transactions on Audio, Speech, and Language Processing**
 
 [1] Xie, Z., Zhu, R., Liu, J., Zhou, G., & Huang, J. X. (2023). [TARGAT: A Time-Aware Relational Graph Attention Model for Temporal Knowledge Graph Embedding](https://ieeexplore.ieee.org/abstract/document/10141863/). IEEE/ACM Transactions on Audio, Speech, and Language Processing.
 
-**Applied Intelligence (Journal)**
+**Applied Intelligence**
 
 [1] (TBDRI) Yu, M., Guo, J., Yu, J., Xu, T., Zhao, M., Liu, H., ... & Yu, R. (2023). [TBDRI: block decomposition based on relational interaction for temporal knowledge graph completion](https://link.springer.com/article/10.1007/s10489-022-03601-5). Applied Intelligence, 53(5), 5072-5084.
 
@@ -204,55 +212,55 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [5] He, P., Zhou, G., Zhang, M., Wei, J., & Chen, J. (2023). [Improving temporal knowledge graph embedding using tensor factorization](https://link.springer.com/article/10.1007/s10489-021-03149-w). Applied Intelligence, 53(8), 8746-8760.
 
-**Neural Networks (Journal)**
+**Neural Networks**
 
 [1] (TFSC) Zhang, H., & Bai, L. (2023). [Few-shot link prediction for temporal knowledge graphs based on time-aware translation and attention mechanism](https://www.sciencedirect.com/science/article/pii/S0893608023000552). Neural Networks, 161, 371-381.
 
 [2] Shao, P., Liu, T., Che, F., Zhang, D., & Tao, J. (2023). [Adaptive pseudo-Siamese policy network for temporal knowledge prediction](https://www.sciencedirect.com/science/article/pii/S0893608023000047). Neural Networks.
 
-**Neurocomputing (Journal)**
+**Neurocomputing**
 
 [1] Shao, P., He, J., Li, G., Zhang, D., & Tao, J. (2023). [Hierarchical Graph Attention Network for Temporal Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/pii/S0925231223005131). Neurocomputing, 126390.
 
 [2] (TANGO) Wang, Z., Ding, D., Ren, M., & Conti, M. (2023). [TANGO: A Temporal Spatial Dynamic Graph Model for Event Prediction](https://www.sciencedirect.com/science/article/pii/S0925231223003727). Neurocomputing, 126249.
 
-**IEEE Transactions on Neural Networks and Learning Systems (Journal)**
+**IEEE Transactions on Neural Networks and Learning Systems**
 
 [1] Wang, J., Wang, B., Gao, J., Li, X., Hu, Y., & Yin, B. (2023). [QDN: A Quadruplet Distributor Network for Temporal Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/10132432/). IEEE Transactions on Neural Networks and Learning Systems. [Github](https://github.com/jiapuwang/QDN-A-Quadruplet-Distributor-Network-for-Temporal-Knowledge-Graph-Completion)
 
-**Journal of Systems Science and Systems Engineering (Journal)**
+**Journal of Systems Science and Systems Engineering**
 
 [1] Yan, Z., & Tang, X. (2023). [Narrative Graph: Telling Evolving Stories Based on Event-centric Temporal Knowledge Graph](https://link.springer.com/article/10.1007/s11518-023-5561-0). Journal of Systems Science and Systems Engineering, 32(2), 206-221.
 
-**Engineering Applications of Artificial Intelligence (Journal)**
+**Engineering Applications of Artificial Intelligence**
 
 [1] (RoAN) Bai, L., Ma, X., Meng, X., Ren, X., & Ke, Y. (2023). [RoAN: A relation-oriented attention network for temporal knowledge graph completion](https://www.sciencedirect.com/science/article/pii/S095219762300492X). Engineering Applications of Artificial Intelligence, 123, 106308.
 
-**Future Generation Computer Systems (Journal)**
+**Future Generation Computer Systems**
 
 [1] Nie, H., Zhao, X., Yao, X., Jiang, Q., Bi, X., Ma, Y., & Sun, Y. (2023). [Temporal-structural importance weighted graph convolutional network for temporal knowledge graph completion](https://www.sciencedirect.com/science/article/pii/S0167739X23000195). Future Generation Computer Systems.
 
-**Cognitive Computation (Journal)**
+**Cognitive Computation**
 
 [2] (MsCNN) Liu, W., Wang, P., Zhang, Z., & Liu, Q. (2023). [Multi-Scale Convolutional Neural Network for Temporal Knowledge Graph Completion](https://link.springer.com/article/10.1007/s12559-023-10134-7). Cognitive Computation, 1-7.
 
-**ACM Transactions on Knowledge Discovery from Data (Journal)**
+**ACM Transactions on Knowledge Discovery from Data**
 
 [1] (DuCape) Zhang, S., Liang, X., Tang, H., Zheng, X., Zhang, A. X., & Ma, Y. [DuCape: Dual Quaternion and Capsule Network Based Temporal Knowledge Graph Embedding](https://dl.acm.org/doi/abs/10.1145/3589644). ACM Transactions on Knowledge Discovery from Data.
 
-**IEEE Transactions on Knowledge and Data Engineering (Journal)**
+**IEEE Transactions on Knowledge and Data Engineering**
 
 [1] Li, Y., Chen, H., Li, Y., Li, L., Philip, S. Y., & Xu, G. (2023). [Reinforcement Learning based Path Exploration for Sequential Explainable Recommendation](https://arxiv.org/abs/2111.12262). IEEE Transactions on Knowledge and Data Engineering.
 
-**Knowledge-Based Systems (Journal)**
+**Knowledge-Based Systems**
 
 [1] (RLAT) Bai, L., Chai, D., & Zhu, L. (2023). [RLAT: Multi-hop temporal knowledge graph reasoning based on Reinforcement Learning and Attention Mechanism](https://www.sciencedirect.com/science/article/pii/S0950705123002642). Knowledge-Based Systems, 269, 110514.
 
-**Journal of Computational Design and Engineering (Journal)**
+**Journal of Computational Design and Engineering**
 
 [1] Zhu, L., Xing, Y., Bai, L., & Chen, X. (2023). [Few-shot link prediction with meta-learning for temporal knowledge graphs](https://academic.oup.com/jcde/article-abstract/10/2/711/7069330). Journal of Computational Design and Engineering, 10(2), 711-721.
 
-**Entropy (Journal)**
+**Entropy**
 
 [1] (IMF) Du, Z., Qu, L., Liang, Z., Huang, K., Cui, L., & Gao, Z. (2023). [IMF: Interpretable Multi-Hop Forecasting on Temporal Knowledge Graphs](https://www.mdpi.com/1099-4300/25/4/666). Entropy, 25(4), 666.
 
@@ -270,24 +278,24 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ## 2022
 
-**Knowledge-Based Systems (Journal)**
+**Knowledge-Based Systems**
 
 [1] (EvoExplore) Jiasheng Zhang, Shuang Liang, Yongpan Sheng, Jie Shao. ["Temporal knowledge graph representation learning with local and global evolutions"](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006141?via%3Dihub). Knowledge-Based Systems 2022.
 
 [2] (TuckERT) Pengpeng Shao, Dawei Zhang, Guohua Yang, Jianhua Tao, Feihu Che, Tong Liu. ["Tucker decomposition-based temporal knowledge graph completion"](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010303?via%3Dihub). Knowledge Based Systems 2022. 
 
-**Expert Systems with Applications (Journal)**
+**Expert Systems with Applications**
 
 [1] (BTDG) Yujing Lai, Chuan Chen, Zibin Zheng, Yangqing Zhang. ["Block term decomposition with distinct time granularities for temporal knowledge graph completion"](https://www.sciencedirect.com/science/article/abs/pii/S0957417422004511?via%3Dihub). Expert Systems with Applications 2022.
 
 
 ## 2021
 
-**Applied Soft Computing (Journal)**
+**Applied Soft Computing**
 
 [1] (TPath) Luyi Bai, Wenting Yu, Mingzhuo Chen, Xiangnan Ma. ["Multi-hop reasoning over paths in temporal knowledge graphs using reinforcement learning"](https://www.sciencedirect.com/science/article/abs/pii/S1568494621000673?via%3Dihub). Applied Soft Computing 2021. 
 
-**TKDD (Journal)**
+**TKDD**
 
 [1] (Tpmod) Bai, L., Ma, X., Zhang, M., & Yu, W. (2021). [Tpmod: A tendency-guided prediction model for temporal knowledge graph completion](https://dl.acm.org/doi/abs/10.1145/3443687). ACM Transactions on Knowledge Discovery from Data, 15(3), 1-17.
 
@@ -295,7 +303,7 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ## 2020
 
-**IEEE Access (Journal)**
+**IEEE Access**
 
 [1] Tang, X., Yuan, R., Li, Q., Wang, T., Yang, H., Cai, Y., & Song, H. (2020). [Timespan-aware dynamic knowledge graph embedding by incorporating temporal evolution](https://ieeexplore.ieee.org/abstract/document/8950081/). IEEE Access, 8, 6849-6860.
 
