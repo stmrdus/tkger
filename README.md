@@ -115,6 +115,10 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ## 2024
 
+**Knowledge-Based Systems**
+
+[1] Yue, L., Ren, Y., Zeng, Y., Zhang, J., Zeng, K., Wan, J., & Zhou, M. (2024). [Complex expressional characterizations learning based on block decomposition for temporal knowledge graph completion](https://www.sciencedirect.com/science/article/pii/S0950705124002260). Knowledge-Based Systems, 111591.
+
 **Applied Intelligence**
 
 [1] Wang, J., Wu, R., Wu, Y., Zhang, F., Zhang, S., & Guo, K. (2024). [MPNet: temporal knowledge graph completion based on a multi-policy network](https://link.springer.com/article/10.1007/s10489-024-05320-5). Applied Intelligence, 1-17. [Github](https://github.com/Mike-RF/MPNet)
@@ -158,6 +162,8 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 [1] Shao, P., Tao, J., & Zhang, D. (2024). [Bayesian hypernetwork collaborates with time-difference evolutional network for temporal knowledge prediction](https://www.sciencedirect.com/science/article/pii/S0893608024000704). Neural Networks, 106146.
 
 [2] Bai, L., Li, N., Li, G., Zhang, Z., & Zhu, L. (2024). [Embedding-based Entity Alignment of Cross-Lingual Temporal Knowledge Graphs](https://www.sciencedirect.com/science/article/pii/S0893608024000595). Neural Networks, 106143.
+
+[3] Mei, X., Yang, L., Jiang, Z., Cai, X., Gao, D., Han, J., & Pan, S. (2024). [An Inductive Reasoning Model based on Interpretable Logical Rules over temporal knowledge graph](https://www.sciencedirect.com/science/article/pii/S0893608024001436). Neural Networks, 106219. [Github](https://github.com/mxadorable/ILR-IR)
 
 **Engineering Applications of Artificial Intelligence**
 
