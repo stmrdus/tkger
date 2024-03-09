@@ -139,6 +139,8 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [4] (CRmod) Zhu, L., Chai, D., & Bai, L. (2024). [CRmod: Context-Aware Rule-Guided reasoning over temporal knowledge graph](https://www.sciencedirect.com/science/article/pii/S0020025524002561). Information Sciences, 120343. [Github](https://github.com/DMKE-Lab/CRmod)
 
+[5] Dai, Y., Guo, W., & Eickhoff, C. (2024). [Wasserstein adversarial learning based temporal knowledge graph embedding](https://www.sciencedirect.com/science/article/pii/S002002552301647X?via%3Dihub). Information Sciences, 659, 120061.
+
 **Information Fusion**
 
 [1] (MvTuckER) Wang, H., Yang, J., Yang, L. T., Gao, Y., Ding, J., Zhou, X., & Liu, H. (2024). [MvTuckER: Multi-view knowledge graphs represention learning based on tensor tucker model](https://www.sciencedirect.com/science/article/abs/pii/S1566253524000277). Information Fusion, 102249. 
@@ -177,6 +179,9 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [1] Dong, H., Wang, P., Xiao, M., Ning, Z., Wang, P., & Zhou, Y. (2024). [Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/pii/S0004370224000213). Artificial Intelligence, 104085.
 
+**IEEE Transactions on Fuzzy Systems**
+
+[1] Ji, H., Yan, L., & Ma, Z. (2023). [FSTRE: Fuzzy Spatiotemporal RDF Knowledge Graph Embedding Using Uncertain Dynamic Vector Projection and Rotation](https://ieeexplore.ieee.org/document/10198282). IEEE Transactions on Fuzzy Systems.
 
 ## 2023
 
