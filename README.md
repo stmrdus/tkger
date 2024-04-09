@@ -10,114 +10,133 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/stmrdus/tkger">
 
 # TKGER
+
 Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ## Useful research resources
 
 1. Graph-based Deep Learning Literature, [Github](https://github.com/naganandy/graph-based-deep-learning-literature)
 
-    *links to conference publications in graph-based deep learning*
+   _links to conference publications in graph-based deep learning_
 
 2. Reinforcement learning on graphs: A survey, [Github](https://github.com/neunms/Reinforcement-learning-on-graphs-A-survey)
 
-    *This collection of papers can be used to summarize research about graph reinforcement learning for the convenience of researchers.*
+   _This collection of papers can be used to summarize research about graph reinforcement learning for the convenience of researchers._
 
 3. Awesome Machine Learning for Combinatorial Optimization Resources, [Github](https://github.com/Thinklab-SJTU/awesome-ml4co)
 
-    *Awesome machine learning for combinatorial optimization papers.*
+   _Awesome machine learning for combinatorial optimization papers._
 
 4. Awesome-TKGC, [Github](https://github.com/jiapuwang/Awesome-TKGC)
 
-    *A collection of papers and resources about temporal knowledge graph completion (TKGC).*
+   _A collection of papers and resources about temporal knowledge graph completion (TKGC)._
 
 5. AKGR: Awesome Knowledge Graph Reasoning, [Github](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)
 
-    *AKGR: Awesome Knowledge Graph Reasoning is a collection of knowledge graph reasoning works, including papers, codes and datasets.*
+   _AKGR: Awesome Knowledge Graph Reasoning is a collection of knowledge graph reasoning works, including papers, codes and datasets._
 
 6. Awesome Knowledge Graph, [Github](https://github.com/totogo/awesome-knowledge-graph)
 
-    *A curated list of Knowledge Graph related learning materials, databases, tools and other resources.*
+   _A curated list of Knowledge Graph related learning materials, databases, tools and other resources._
 
 7. Awesome-DynamicGraphLearning, [Github](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
 
-    *Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs).*
+   _Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs)._
 
 8. KGE, [Github](https://github.com/xinguoxia/KGE)
 
-    *Some papers on Knowledge Graph Embedding(KGE)*
+   _Some papers on Knowledge Graph Embedding(KGE)_
 
 9. KGLQ, [Github](https://github.com/xinguoxia/KGLQ)
 
-    *Some papers about Logical Query on Knowledge Graphs (KGLQ)*
+   _Some papers about Logical Query on Knowledge Graphs (KGLQ)_
 
 10. ADGC: Awesome Deep Graph Clustering, [Github](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
 
-    *Awesome Deep Graph Clustering is a collection of SOTA, novel deep graph clustering methods (papers, codes, and datasets).*
+    _Awesome Deep Graph Clustering is a collection of SOTA, novel deep graph clustering methods (papers, codes, and datasets)._
 
 11. Graph Adversarial Learning Literature, [Github](https://github.com/safe-graph/graph-adversarial-learning-literature)
 
-    *A curated list of adversarial attacks and defenses papers on graph-structured data.*
+    _A curated list of adversarial attacks and defenses papers on graph-structured data._
 
 ## [Survey Papers](#content)
+
+### 2024
+
+[1] Ge, X., Wang, Y. C., Wang, B., & Kuo, C. C. J. (2024). Knowledge Graph Embedding: An Overview. APSIPA Transactions on Signal and Information Processing, 13(1).
+
+[2] Lei, X. I. A. O., & Qi, L. I. (2024). Survey of Temporal Knowledge Graph Completion Methods. Journal of Computer Engineering & Applications, 60(6).
+
+[3] Liu, X., Mao, T., Shi, Y., & Ren, Y. (2024). Overview of Knowledge Reasoning for Knowledge Graph. Neurocomputing, 127571.
+
+[4] Cao, J., Fang, J., Meng, Z., & Liang, S. (2024). Knowledge graph embedding: A survey from the perspective of representation spaces. ACM Computing Surveys, 56(6), 1-42.
+
+[5] Khoshraftar, S., & An, A. (2024). A survey on graph representation learning methods. ACM Transactions on Intelligent Systems and Technology, 15(1), 1-55.
+
+[6] Chen, Z., Zhang, Y., Fang, Y., Geng, Y., Guo, L., Chen, X., ... & Chen, H. (2024). Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey. arXiv preprint arXiv:2402.05391.
+
+[7] Wu, D., Wang, H. T., & Tansel, A. U. (2024). A survey for managing temporal data in RDF. Information Systems, 102368.
 
 ### 2023
 
 1. **A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects**, ArXiv, 2023. [paper](https://arxiv.org/abs/2308.02457)
 
-    *Jiapu Wang, Boyue Wang, Meikang Qiu, Shirui Pan, Bo Xiong, Heng Liu, Linhao Luo, Tengfei Liu, Yongli Hu, Baocai Yin, Wen Gao*
+   _Jiapu Wang, Boyue Wang, Meikang Qiu, Shirui Pan, Bo Xiong, Heng Liu, Linhao Luo, Tengfei Liu, Yongli Hu, Baocai Yin, Wen Gao_
 
 2. **Knowledge Graphs: Opportunities and Challenges**, Artificial Intelligence Review, 2023, [paper](https://link.springer.com/article/10.1007/s10462-023-10465-9#citeas)
 
-    *Ciyuan Peng, Feng Xia, Mehdi Naseriparsa & Francesco Osborne*
+   _Ciyuan Peng, Feng Xia, Mehdi Naseriparsa & Francesco Osborne_
 
 3. **Generalizing to Unseen Elements: A Survey on Knowledge Extrapolation for Knowledge Graphs**, ArXiv, 2023. [paper](https://arxiv.org/abs/2302.01859)
 
-    *Mingyang Chen, Wen Zhang, Yuxia Geng, Zezhong Xu, Jeff Z. Pan, Huajun Chen*
+   _Mingyang Chen, Wen Zhang, Yuxia Geng, Zezhong Xu, Jeff Z. Pan, Huajun Chen_
 
 4. **A Comprehensive Survey on Automatic Knowledge Graph Construction**, ArXiv, 2023. [paper](https://arxiv.org/abs/2302.05019)
 
-    *Lingfeng Zhong, Jia Wu, Qian Li, Hao Peng, Xindong Wu*
+   _Lingfeng Zhong, Jia Wu, Qian Li, Hao Peng, Xindong Wu_
 
 ### 2022
 
 1. **Temporal Knowledge Graph Completion: A Survey** ArXiv, 2022. [paper](https://arxiv.org/abs/2201.08236)
 
-    *Borui Cai, Yong Xiang, Longxiang Gao, He Zhang, Yunfeng Li, Jianxin Li.*
+   _Borui Cai, Yong Xiang, Longxiang Gao, He Zhang, Yunfeng Li, Jianxin Li._
 
 > **Update**: Borui Cai, Yong Xiang, Longxiang Gao, He Zhang, Yunfeng Li, Jianxin Li, **Temporal Knowledge Graph Completion: A Survey**, 2023 Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, Survey Track. Pages 6545-6553. [paper](https://doi.org/10.24963/ijcai.2023/734)
 
 2. **Reasoning over different types of knowledge graphs: Static, temporal and multi-modal**, ArXiv, 2022. [paper](https://arxiv.org/pdf/2212.05767)
 
-3. **A Survey on Temporal Knowledge Graphs-Extrapolation and Interpolation Tasks**,  Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery, [paper](https://link.springer.com/chapter/10.1007/978-3-031-20738-9_110)
+3. **A Survey on Temporal Knowledge Graphs-Extrapolation and Interpolation Tasks**, Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery, [paper](https://link.springer.com/chapter/10.1007/978-3-031-20738-9_110)
 
-    *Sulin Chen & Jingbin Wang*
+   _Sulin Chen & Jingbin Wang_
 
 4. **Generalizing to Unseen Elements: A Survey on Knowledge Extrapolation for Knowledge Graphs**. 2023 Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, Survey Track. [paper](https://arxiv.org/abs/2302.01859)
 
-    *Mingyang Chen, Wen Zhang, Yuxia Geng, Zezhong Xu, Jeff Z. Pan, Huajun Chen*
+   _Mingyang Chen, Wen Zhang, Yuxia Geng, Zezhong Xu, Jeff Z. Pan, Huajun Chen_
 
 ### 2021
 
 1. **Survey on Temporal Knowledge Graph**, 2021 IEEE Sixth International Conference on Data Science in Cyberspace (DSC). [paper](https://ieeexplore.ieee.org/abstract/document/9750459)
 
-    *Chong Mo; Ye Wang; Yan Jia; Qing Liao*
+   _Chong Mo; Ye Wang; Yan Jia; Qing Liao_
 
 ## Datasets
 
-| Name  | #Entities  | #Relations  | #Timestamps  | #Collections  |  Timestamp | Link download  |
-|---|---|---|---|---|---|---|
-| ICEWS14   | 7128  | 230  | 365  | 90730  | point  | [https://paperswithcode.com/sota/link-prediction-on-icews14-1](https://paperswithcode.com/sota/link-prediction-on-icews14-1)  |
-| ICEWS05-15  | 10488  | 251 | 4017  | 479329  | point  |  [https://paperswithcode.com/sota/link-prediction-on-icews05-15-1](https://paperswithcode.com/sota/link-prediction-on-icews05-15-1) |
-| ICEWS18   | 23033  | 256  | 304  |  468558 |  point |  [https://docs.dgl.ai/en/0.8.x/generated/dgl.data.ICEWS18Dataset.html](https://docs.dgl.ai/en/0.8.x/generated/dgl.data.ICEWS18Dataset.html) |
-| GDELT  |  500 |  20 | 366  | 3419607  | point  | [https://www.gdeltproject.org/](https://www.gdeltproject.org/)  |
-| YAGO15k  | 15403  | 32  | 169  | 138048  |  interval | [https://paperswithcode.com/sota/link-prediction-on-yago15k-1](https://paperswithcode.com/sota/link-prediction-on-yago15k-1)  |
-| WIKIDATA  | 11153  | 96  | 328  | 150079  |  interval | [https://www.wikidata.org/wiki/Wikidata:Main_Page](https://www.wikidata.org/wiki/Wikidata:Main_Page)  |
+| Name       | #Entities | #Relations | #Timestamps | #Collections | Timestamp | Link download                                                                                                                              |
+| ---------- | --------- | ---------- | ----------- | ------------ | --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| ICEWS14    | 7128      | 230        | 365         | 90730        | point     | [https://paperswithcode.com/sota/link-prediction-on-icews14-1](https://paperswithcode.com/sota/link-prediction-on-icews14-1)               |
+| ICEWS05-15 | 10488     | 251        | 4017        | 479329       | point     | [https://paperswithcode.com/sota/link-prediction-on-icews05-15-1](https://paperswithcode.com/sota/link-prediction-on-icews05-15-1)         |
+| ICEWS18    | 23033     | 256        | 304         | 468558       | point     | [https://docs.dgl.ai/en/0.8.x/generated/dgl.data.ICEWS18Dataset.html](https://docs.dgl.ai/en/0.8.x/generated/dgl.data.ICEWS18Dataset.html) |
+| GDELT      | 500       | 20         | 366         | 3419607      | point     | [https://www.gdeltproject.org/](https://www.gdeltproject.org/)                                                                             |
+| YAGO15k    | 15403     | 32         | 169         | 138048       | interval  | [https://paperswithcode.com/sota/link-prediction-on-yago15k-1](https://paperswithcode.com/sota/link-prediction-on-yago15k-1)               |
+| WIKIDATA   | 11153     | 96         | 328         | 150079       | interval  | [https://www.wikidata.org/wiki/Wikidata:Main_Page](https://www.wikidata.org/wiki/Wikidata:Main_Page)                                       |
 
 ## 2024
 
 **Knowledge-Based Systems**
 
 [1] Yue, L., Ren, Y., Zeng, Y., Zhang, J., Zeng, K., Wan, J., & Zhou, M. (2024). [Complex expressional characterizations learning based on block decomposition for temporal knowledge graph completion](https://www.sciencedirect.com/science/article/pii/S0950705124002260). Knowledge-Based Systems, 111591.
+
+[2] Zhu, L., Zhang, H., & Bai, L. (2024). [Hierarchical pattern-based complex query of temporal knowledge graph](https://www.sciencedirect.com/science/article/pii/S0950705123010493). Knowledge-Based Systems, 284, 111301.
 
 **Applied Intelligence**
 
@@ -141,9 +160,11 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [5] Dai, Y., Guo, W., & Eickhoff, C. (2024). [Wasserstein adversarial learning based temporal knowledge graph embedding](https://www.sciencedirect.com/science/article/pii/S002002552301647X?via%3Dihub). Information Sciences, 659, 120061.
 
+[6] Xu, X., Jia, W., Yan, L., Lu, X., Wang, C., & Ma, Z. (2024). [Spatiotemporal knowledge graph completion via diachronic and transregional word embedding](https://www.sciencedirect.com/science/article/pii/S0020025524003906). Information Sciences, 120477.
+
 **Information Fusion**
 
-[1] (MvTuckER) Wang, H., Yang, J., Yang, L. T., Gao, Y., Ding, J., Zhou, X., & Liu, H. (2024). [MvTuckER: Multi-view knowledge graphs represention learning based on tensor tucker model](https://www.sciencedirect.com/science/article/abs/pii/S1566253524000277). Information Fusion, 102249. 
+[1] (MvTuckER) Wang, H., Yang, J., Yang, L. T., Gao, Y., Ding, J., Zhou, X., & Liu, H. (2024). [MvTuckER: Multi-view knowledge graphs represention learning based on tensor tucker model](https://www.sciencedirect.com/science/article/abs/pii/S1566253524000277). Information Fusion, 102249.
 
 **Information Processing & Management**
 
@@ -182,6 +203,10 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 **IEEE Transactions on Fuzzy Systems**
 
 [1] Ji, H., Yan, L., & Ma, Z. (2023). [FSTRE: Fuzzy Spatiotemporal RDF Knowledge Graph Embedding Using Uncertain Dynamic Vector Projection and Rotation](https://ieeexplore.ieee.org/document/10198282). IEEE Transactions on Fuzzy Systems.
+
+**Electronics**
+
+[1] Xu, H., Bao, J., Li, H., He, C., & Chen, F. (2024). [A Multi-View Temporal Knowledge Graph Reasoning Framework with Interpretable Logic Rules and Feature Fusion](https://www.mdpi.com/2079-9292/13/4/742). Electronics, 13(4), 742.
 
 ## 2023
 
@@ -301,12 +326,11 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [1] (BTDG) Yujing Lai, Chuan Chen, Zibin Zheng, Yangqing Zhang. ["Block term decomposition with distinct time granularities for temporal knowledge graph completion"](https://www.sciencedirect.com/science/article/abs/pii/S0957417422004511?via%3Dihub). Expert Systems with Applications 2022. [Github](https://github.com/JaneYul/BTDG)
 
-
 ## 2021
 
 **Applied Soft Computing**
 
-[1] (TPath) Luyi Bai, Wenting Yu, Mingzhuo Chen, Xiangnan Ma. ["Multi-hop reasoning over paths in temporal knowledge graphs using reinforcement learning"](https://www.sciencedirect.com/science/article/abs/pii/S1568494621000673?via%3Dihub). Applied Soft Computing 2021. 
+[1] (TPath) Luyi Bai, Wenting Yu, Mingzhuo Chen, Xiangnan Ma. ["Multi-hop reasoning over paths in temporal knowledge graphs using reinforcement learning"](https://www.sciencedirect.com/science/article/abs/pii/S1568494621000673?via%3Dihub). Applied Soft Computing 2021.
 
 **TKDD**
 
