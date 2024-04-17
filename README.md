@@ -272,6 +272,8 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [2] (TANGO) Wang, Z., Ding, D., Ren, M., & Conti, M. (2023). [TANGO: A Temporal Spatial Dynamic Graph Model for Event Prediction](https://www.sciencedirect.com/science/article/pii/S0925231223003727). Neurocomputing, 126249.
 
+[3] He, M., Zhu, L., & Bai, L. (2024). [ConvTKG: A query-aware convolutional neural network-based embedding model for temporal knowledge graph completion](https://www.sciencedirect.com/science/article/pii/S092523122400451X). Neurocomputing, 127680.
+
 **IEEE Transactions on Neural Networks and Learning Systems**
 
 [1] (QDN) Wang, J., Wang, B., Gao, J., Li, X., Hu, Y., & Yin, B. (2023). [QDN: A Quadruplet Distributor Network for Temporal Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/10132432/). IEEE Transactions on Neural Networks and Learning Systems. [Github](https://github.com/jiapuwang/QDN-A-Quadruplet-Distributor-Network-for-Temporal-Knowledge-Graph-Completion)
