@@ -63,19 +63,29 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ### 2024
 
-[1] Ge, X., Wang, Y. C., Wang, B., & Kuo, C. C. J. (2024). Knowledge Graph Embedding: An Overview. APSIPA Transactions on Signal and Information Processing, 13(1).
+1. **Knowledge Graph Embedding: An Overview**, APSIPA Transactions on Signal and Information Processing, 2024. [paper](https://www.nowpublishers.com/article/OpenAccessDownload/SIP-2023-0065)
+   _Ge, X., Wang, Y. C., Wang, B., & Kuo, C. C. J_
 
-[2] Lei, X. I. A. O., & Qi, L. I. (2024). Survey of Temporal Knowledge Graph Completion Methods. Journal of Computer Engineering & Applications, 60(6).
+2. **Survey of Temporal Knowledge Graph Completion Methods**, Journal of Computer Engineering & Applications, 2024. [paper](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10028331&AN=176129207&h=DToC9Tr7AnmJWLoaA0YmQwvLuqZfB5Mob0vIC4exEuOy6nI%2FQwPZGxv9jhrYizxjbbBYIwGfa8ISO34gRohnxw%3D%3D&crl=c)
+   _Lei, X. I. A. O., & Qi, L. I._
 
-[3] Liu, X., Mao, T., Shi, Y., & Ren, Y. (2024). Overview of Knowledge Reasoning for Knowledge Graph. Neurocomputing, 127571.
+3. **Overview of Knowledge Reasoning for Knowledge Graph**, Neurocomputing, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0925231224003424)
+   _Liu, X., Mao, T., Shi, Y., & Ren, Y._
 
-[4] Cao, J., Fang, J., Meng, Z., & Liang, S. (2024). Knowledge graph embedding: A survey from the perspective of representation spaces. ACM Computing Surveys, 56(6), 1-42.
+4. **Knowledge graph embedding: A survey from the perspective of representation spaces**, ACM Computing Surveys, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3643806)
+   _Cao, J., Fang, J., Meng, Z., & Liang, S._
 
-[5] Khoshraftar, S., & An, A. (2024). A survey on graph representation learning methods. ACM Transactions on Intelligent Systems and Technology, 15(1), 1-55.
+5. **A survey on graph representation learning methods**, ACM Transactions on Intelligent Systems and Technology, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3633518)
+   _Khoshraftar, S., & An, A._
 
-[6] Chen, Z., Zhang, Y., Fang, Y., Geng, Y., Guo, L., Chen, X., ... & Chen, H. (2024). Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey. arXiv preprint arXiv:2402.05391.
+6. **Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey**, ArXiv, 2024. [paper](https://arxiv.org/abs/2402.05391)
+   _Chen, Z., Zhang, Y., Fang, Y., Geng, Y., Guo, L., Chen, X., ... & Chen, H._
 
-[7] Wu, D., Wang, H. T., & Tansel, A. U. (2024). A survey for managing temporal data in RDF. Information Systems, 102368.
+7. **A survey for managing temporal data in RDF**, Information Systems, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0306437924000267)
+   _Wu, Di, Hsien-Tseng Wang, and Abdullah Uz Tansel_
+
+8. **A Survey on Temporal Knowledge Graph: Representation Learning and Applications**, ArXiv, 2024. [paper](https://arxiv.org/abs/2403.04782)
+   _Cai, Li, Xin Mao, Yuhao Zhou, Zhaoguang Long, Changxu Wu, and Man Lan._
 
 ### 2023
 
@@ -186,7 +196,7 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [2] Bai, L., Li, N., Li, G., Zhang, Z., & Zhu, L. (2024). [Embedding-based Entity Alignment of Cross-Lingual Temporal Knowledge Graphs](https://www.sciencedirect.com/science/article/pii/S0893608024000595). Neural Networks, 106143.
 
-[3] Mei, X., Yang, L., Jiang, Z., Cai, X., Gao, D., Han, J., & Pan, S. (2024). [An Inductive Reasoning Model based on Interpretable Logical Rules over temporal knowledge graph](https://www.sciencedirect.com/science/article/pii/S0893608024001436). Neural Networks, 106219. [Github](https://github.com/mxadorable/ILR-IR)
+[3] 🔥 Mei, X., Yang, L., Jiang, Z., Cai, X., Gao, D., Han, J., & Pan, S. (2024). [An Inductive Reasoning Model based on Interpretable Logical Rules over temporal knowledge graph](https://www.sciencedirect.com/science/article/pii/S0893608024001436). Neural Networks, 106219. [Github](https://github.com/mxadorable/ILR-IR)
 
 **Engineering Applications of Artificial Intelligence**
 
@@ -198,7 +208,7 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 **Artificial Intelligence**
 
-[1] Dong, H., Wang, P., Xiao, M., Ning, Z., Wang, P., & Zhou, Y. (2024). [Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/pii/S0004370224000213). Artificial Intelligence, 104085.
+[1] Dong, H., Wang, P., Xiao, M., Ning, Z., Wang, P., & Zhou, Y. (2024). [Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/pii/S0004370224000213). Artificial Intelligence, 104085. [Github](https://github.com/hhdo/TiPNN)
 
 **IEEE Transactions on Fuzzy Systems**
 
@@ -206,7 +216,7 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 **Electronics**
 
-[1] Xu, H., Bao, J., Li, H., He, C., & Chen, F. (2024). [A Multi-View Temporal Knowledge Graph Reasoning Framework with Interpretable Logic Rules and Feature Fusion](https://www.mdpi.com/2079-9292/13/4/742). Electronics, 13(4), 742.
+[1] 🔥 Xu, H., Bao, J., Li, H., He, C., & Chen, F. (2024). [A Multi-View Temporal Knowledge Graph Reasoning Framework with Interpretable Logic Rules and Feature Fusion](https://www.mdpi.com/2079-9292/13/4/742). Electronics, 13(4), 742.
 
 ## 2023
 
@@ -300,7 +310,7 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 **Entropy**
 
-[1] (IMF) Du, Z., Qu, L., Liang, Z., Huang, K., Cui, L., & Gao, Z. (2023). [IMF: Interpretable Multi-Hop Forecasting on Temporal Knowledge Graphs](https://www.mdpi.com/1099-4300/25/4/666). Entropy, 25(4), 666. [Github](https://github.com/lfxx123/TKBC)
+[1] 🔥 (IMF) Du, Z., Qu, L., Liang, Z., Huang, K., Cui, L., & Gao, Z. (2023). [IMF: Interpretable Multi-Hop Forecasting on Temporal Knowledge Graphs](https://www.mdpi.com/1099-4300/25/4/666). Entropy, 25(4), 666. [Github](https://github.com/lfxx123/TKBC)
 
 **Complex & Intelligent Systems**
 
