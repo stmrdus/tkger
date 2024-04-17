@@ -218,6 +218,10 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [1] 🔥 Xu, H., Bao, J., Li, H., He, C., & Chen, F. (2024). [A Multi-View Temporal Knowledge Graph Reasoning Framework with Interpretable Logic Rules and Feature Fusion](https://www.mdpi.com/2079-9292/13/4/742). Electronics, 13(4), 742.
 
+**Neurocomputing**
+
+[1] He, M., Zhu, L., & Bai, L. (2024). [ConvTKG: A query-aware convolutional neural network-based embedding model for temporal knowledge graph completion](https://www.sciencedirect.com/science/article/pii/S092523122400451X). Neurocomputing, 127680.
+
 ## 2023
 
 **Semantic Web Journal**
@@ -271,8 +275,6 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 [1] Shao, P., He, J., Li, G., Zhang, D., & Tao, J. (2023). [Hierarchical Graph Attention Network for Temporal Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/pii/S0925231223005131). Neurocomputing, 126390.
 
 [2] (TANGO) Wang, Z., Ding, D., Ren, M., & Conti, M. (2023). [TANGO: A Temporal Spatial Dynamic Graph Model for Event Prediction](https://www.sciencedirect.com/science/article/pii/S0925231223003727). Neurocomputing, 126249.
-
-[3] He, M., Zhu, L., & Bai, L. (2024). [ConvTKG: A query-aware convolutional neural network-based embedding model for temporal knowledge graph completion](https://www.sciencedirect.com/science/article/pii/S092523122400451X). Neurocomputing, 127680.
 
 **IEEE Transactions on Neural Networks and Learning Systems**
 
