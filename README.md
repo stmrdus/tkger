@@ -222,6 +222,10 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [1] He, M., Zhu, L., & Bai, L. (2024). [ConvTKG: A query-aware convolutional neural network-based embedding model for temporal knowledge graph completion](https://www.sciencedirect.com/science/article/pii/S092523122400451X). Neurocomputing, 127680.
 
+**IEEE TKDE**
+
+[1] Zhang, F., Zhang, Z., Zhuang, F., Zhao, Y., Wang, D., & Zheng, H. (2024). Temporal Knowledge Graph Reasoning With Dynamic Memory Enhancement. IEEE Transactions on Knowledge and Data Engineering.
+
 ## 2023
 
 **Semantic Web Journal**
