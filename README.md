@@ -148,6 +148,8 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [2] Zhu, L., Zhang, H., & Bai, L. (2024). [Hierarchical pattern-based complex query of temporal knowledge graph](https://www.sciencedirect.com/science/article/pii/S0950705123010493). Knowledge-Based Systems, 284, 111301.
 
+[3] Huang, H., Xie, L., Liu, M., Lin, J., & Shen, H. (2024). [An embedding model for temporal knowledge graphs with long and irregular intervals](https://www.sciencedirect.com/science/article/pii/S0950705124005276). Knowledge-Based Systems, 111893.
+
 **Applied Intelligence**
 
 [1] Wang, J., Wu, R., Wu, Y., Zhang, F., Zhang, S., & Guo, K. (2024). [MPNet: temporal knowledge graph completion based on a multi-policy network](https://link.springer.com/article/10.1007/s10489-024-05320-5). Applied Intelligence, 1-17. [Github](https://github.com/Mike-RF/MPNet)
@@ -224,7 +226,15 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 **IEEE TKDE**
 
-[1] Zhang, F., Zhang, Z., Zhuang, F., Zhao, Y., Wang, D., & Zheng, H. (2024). Temporal Knowledge Graph Reasoning With Dynamic Memory Enhancement. IEEE Transactions on Knowledge and Data Engineering.
+[1] Zhang, F., Zhang, Z., Zhuang, F., Zhao, Y., Wang, D., & Zheng, H. (2024). [Temporal Knowledge Graph Reasoning With Dynamic Memory Enhancement](https://ieeexplore.ieee.org/abstract/document/10504973/). IEEE Transactions on Knowledge and Data Engineering.
+
+**Tsinghua Science and Technology**
+
+[1] Han, Y., Lu, G., Zhang, S., Zhang, L., Zou, C., & Wen, G. (2024). [A Temporal Knowledge Graph Embedding Model Based on Variable Translation](https://ieeexplore.ieee.org/abstract/document/10517975/). Tsinghua Science and Technology, 29(5), 1554-1565.
+
+**Applied Soft Computing**
+
+[1] Bai, L., Chen, M., & Xiao, Q. (2024). Multi-Hop Temporal Knowledge Graph Reasoning with Multi-Agent Reinforcement Learning. Applied Soft Computing, 111727. [Github](https://github.com/DMKE-Lab/MA-TPath)
 
 ## 2023
 
