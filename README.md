@@ -59,6 +59,28 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
     _A curated list of adversarial attacks and defenses papers on graph-structured data._
 
+## Tutorial
+
+### 2024
+
+[1] New Frontiers of Knowledge Graph Reasoning: Recent Advances and Future Trends - WWW 2024, [Webpage](https://lihuiliullh.github.io/)
+
+### 2023
+
+[1] Knowledge Graph Reasoning and Its Applications - KDD 2023, [Webpage](https://sites.google.com/view/kg-reasoning/home)
+
+### 2022
+
+[1] Reasoning on Knowledge Graphs: Symbolic or Neural? - AAAI 2022, [Webpage](https://aaai2022kgreasoning.github.io/)
+
+### 2021
+
+[1] All You Need to Know to Build a Product Knowledge Graph - KDD 2021 Tutorial, [Webpage](https://naixlee.github.io/Product_Knowledge_Graph_Tutorial_KDD2021/)
+
+### 2018
+
+[1] Fact Checking: Theory and Practice - KDD 2018 Tutorial, [Webpage](https://shiralkarprashant.github.io/fact-checking-tutorial-KDD2018/)
+
 ## [Survey Papers](#content)
 
 ### 2024
