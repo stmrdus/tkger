@@ -109,6 +109,21 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 8. **A Survey on Temporal Knowledge Graph: Representation Learning and Applications**, ArXiv, 2024. [paper](https://arxiv.org/abs/2403.04782)
    _Cai, Li, Xin Mao, Yuhao Zhou, Zhaoguang Long, Changxu Wu, and Man Lan._
 
+9.  **A survey of inductive knowledge graph completion**. Neural Computing and Applications, 36(8), 3837-3858, 2024. [paper](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s00521-023-09286-2&casa_token=0CojBb7x7e4AAAAA:D6ZmmIdunksdtDal1bnlv-kniB7uSh20ghORVye4p8XW55UnY-Su2KqkpopQEX6Upea4mIkJmd2Dyvgv)
+   _Liang, X., Si, G., Li, J., Tian, P., An, Z., & Zhou, F._
+
+10.  **Survey and open problems in privacy-preserving knowledge graph: merging, query, representation, completion, and applications**. International Journal of Machine Learning and Cybernetics, 1-20., 2024. [paper](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s13042-024-02106-6&casa_token=aHFdBA3-Z4oAAAAA:SbDNlbpjx2MAJ6htmB1GDOTUYUOQuWNJ6x0Xy0vIfjstxtUNsVRLkRP5r9zvahzClb7nLTfP1q5Nt-Xp)
+   _Chen, C., Zheng, F., Cui, J., Cao, Y., Liu, G., Wu, J., & Zhou, J._
+
+11. **A comprehensive survey on deep graph representation learning**. Neural Networks, 106207, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S089360802400131X)
+   _Ju, W., Fang, Z., Gu, Y., Liu, Z., Long, Q., Qiao, Z., ... & Zhang, M._
+
+12. **Knowledge Graph Embedding: An Overview**. APSIPA Transactions on Signal and Information Processing, 13(1), 2024. [paper](https://www.nowpublishers.com/article/OpenAccessDownload/SIP-2023-0065)
+   _Ge, X., Wang, Y. C., Wang, B., & Kuo, C. C. J._
+
+13.  **Temporal Knowledge Graph Question Answering: A Survey**. arXiv preprint arXiv:2406.14191. [paper]()
+   _Su, M., Li, Z., Chen, Z., Bai, L., Jin, X., & Guo, J._
+
 ### 2023
 
 1. **A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects**, ArXiv, 2023. [paper](https://arxiv.org/abs/2308.02457)
@@ -258,6 +273,18 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [1] Bai, L., Chen, M., & Xiao, Q. (2024). Multi-Hop Temporal Knowledge Graph Reasoning with Multi-Agent Reinforcement Learning. Applied Soft Computing, 111727. [Github](https://github.com/DMKE-Lab/MA-TPath)
 
+**IEEE Transactions on Cybernetics**
+
+[1] Wang, J., Wang, B., Gao, J., Pan, S., Liu, T., Yin, B., & Gao, W. (2024). MADE: Multicurvature Adaptive Embedding for Temporal Knowledge Graph Completion. IEEE Transactions on Cybernetics.
+
+**IEEE Transaction on AI**
+
+[1] Yang, J., Huang, C., Yang, X., Yang, L. T., Gao, Y., & Liu, C. (2024). Temporal Knowledge Extrapolation Based on Fine-grained Tensor Graph Attention Network for Responsible AI. IEEE Transactions on Artificial Intelligence.
+
+**IAENG International Journal of Computer Science**
+
+[1] Huang, C., & Zhong, Y. (2024). A Novel Approach for Representing Temporal Knowledge Graphs. IAENG International Journal of Computer Science, 51(6).
+
 ## 2023
 
 **Semantic Web Journal**
@@ -343,6 +370,8 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 **Knowledge-Based Systems**
 
 [1] (RLAT) Bai, L., Chai, D., & Zhu, L. (2023). [RLAT: Multi-hop temporal knowledge graph reasoning based on Reinforcement Learning and Attention Mechanism](https://www.sciencedirect.com/science/article/pii/S0950705123002642). Knowledge-Based Systems, 269, 110514.
+
+[2] Luo, X., Zhu, A., Zhang, J., & Shao, J. (2024). HierarT: Multi-hop temporal knowledge graph forecasting with hierarchical reinforcement learning. Knowledge-Based Systems, 112164.
 
 **Journal of Computational Design and Engineering**
 
