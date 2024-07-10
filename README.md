@@ -237,6 +237,8 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [3] 🔥 Mei, X., Yang, L., Jiang, Z., Cai, X., Gao, D., Han, J., & Pan, S. (2024). [An Inductive Reasoning Model based on Interpretable Logical Rules over temporal knowledge graph](https://www.sciencedirect.com/science/article/pii/S0893608024001436). Neural Networks, 106219. [Github](https://github.com/mxadorable/ILR-IR)
 
+[4] Zhang, J., Sun, M., Huang, Q., & Tian, L. (2024). [PLEASING: Exploring the historical and potential events for temporal knowledge graph reasoning](https://www.sciencedirect.com/science/article/pii/S0893608024004404). Neural Networks, 106516. [Github](https://github.com/KcAcoZhang/PLEASING)
+
 **Engineering Applications of Artificial Intelligence**
 
 [1] Zhu, L., Zhao, W., & Bai, L. (2024). [Quadruple mention text-enhanced temporal knowledge graph reasoning](https://www.sciencedirect.com/science/article/pii/S0952197624002161). Engineering Applications of Artificial Intelligence, 133, 108058. [Github](https://github.com/DMKE-Lab/QM-mod)
