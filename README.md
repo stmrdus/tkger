@@ -287,6 +287,10 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [1] Huang, C., & Zhong, Y. (2024). A Novel Approach for Representing Temporal Knowledge Graphs. IAENG International Journal of Computer Science, 51(6).
 
+**Information Systems**
+
+[1] Jia, W., Ma, R., Niu, W., Yan, L., & Ma, Z. (2024). [SFTe: Temporal Knowledge Graphs Embedding for Future Interaction Prediction](https://www.sciencedirect.com/science/article/pii/S0306437924000814). Information Systems, 102423.
+
 ## 2023
 
 **Semantic Web Journal**
