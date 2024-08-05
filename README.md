@@ -124,6 +124,9 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 13.  **Temporal Knowledge Graph Question Answering: A Survey**. arXiv preprint arXiv:2406.14191. [paper]()
    _Su, M., Li, Z., Chen, Z., Bai, L., Jin, X., & Guo, J._
 
+14. **Temporal Knowledge Graph Reasoning: A Review**. ig Data and Social Computing. BDSC 2024. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5803-6_26)
+   _Yu, C., Luo, T., Wang, J., Cao, Z._
+
 ### 2023
 
 1. **A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects**, ArXiv, 2023. [paper](https://arxiv.org/abs/2308.02457)
@@ -187,6 +190,10 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [3] Huang, H., Xie, L., Liu, M., Lin, J., & Shen, H. (2024). [An embedding model for temporal knowledge graphs with long and irregular intervals](https://www.sciencedirect.com/science/article/pii/S0950705124005276). Knowledge-Based Systems, 111893.
 
+[4] Guo, J., Yu, J., Zhao, M., Yu, M., Yu, R., Xu, L., ... & Li, X. (2024). [TELS: Learning time-evolving information and latent semantics using dual quaternion for temporal knowledge graph completion](https://www.sciencedirect.com/science/article/pii/S095070512400902X). Knowledge-Based Systems, 112268.
+
+[5] Hu, J., Zhu, Y., Teng, F., & Li, T. (2024). [Temporal knowledge graph reasoning based on relation graphs and time-guided attention mechanism](https://www.sciencedirect.com/science/article/pii/S0950705124009146). Knowledge-Based Systems, 112280.
+
 **Applied Intelligence**
 
 [1] Wang, J., Wu, R., Wu, Y., Zhang, F., Zhang, S., & Guo, K. (2024). [MPNet: temporal knowledge graph completion based on a multi-policy network](https://link.springer.com/article/10.1007/s10489-024-05320-5). Applied Intelligence, 1-17. [Github](https://github.com/Mike-RF/MPNet)
@@ -218,6 +225,8 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 **Information Processing & Management**
 
 [1] (STKGR-PR) Meng, X., Bai, L., Hu, J., & Zhu, L. (2024). [Multi-hop path reasoning over sparse temporal knowledge graphs based on path completion and reward shaping](https://www.sciencedirect.com/science/article/pii/S0306457323003424). Information Processing & Management, 61(2), 103605. [Github](https://github.com/DMKE-Lab/STKGR-PR)
+
+[2] Ma, J., Li, K., Zhang, F., Wang, Y., Luo, X., Li, C., & Qiao, Y. (2024). [TaReT: Temporal knowledge graph reasoning based on topology-aware dynamic relation graph and temporal fusion](https://www.sciencedirect.com/science/article/pii/S0306457324002073). Information Processing & Management, 61(6), 103848.
 
 **Expert Systems with Applications**
 
