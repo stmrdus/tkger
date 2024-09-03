@@ -127,6 +127,9 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 14. **Temporal Knowledge Graph Reasoning: A Review**. ig Data and Social Computing. BDSC 2024. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5803-6_26)
    _Yu, C., Luo, T., Wang, J., Cao, Z._
 
+15. Neural-Symbolic Methods for Knowledge Graph Reasoning: A Survey. ACM Transactions on Knowledge Discovery from Data. [paper](https://dl.acm.org/doi/abs/10.1145/3686806)
+   _Cheng, K., Ahmed, N. K., Rossi, R. A., Willke, T., & Sun, Y. (2024)._
+
 ### 2023
 
 1. **A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects**, ArXiv, 2023. [paper](https://arxiv.org/abs/2308.02457)
@@ -198,6 +201,8 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [1] Wang, J., Wu, R., Wu, Y., Zhang, F., Zhang, S., & Guo, K. (2024). [MPNet: temporal knowledge graph completion based on a multi-policy network](https://link.springer.com/article/10.1007/s10489-024-05320-5). Applied Intelligence, 1-17. [Github](https://github.com/Mike-RF/MPNet)
 
+[2] Ma, Q., Zhang, X., Ding, Z., Gao, C., Shang, W., Nong, Q., ... & Jin, Z. (2024). [Temporal knowledge graph reasoning based on evolutional representation and contrastive learning](https://link.springer.com/article/10.1007/s10489-024-05767-6). Applied Intelligence, 1-19.
+
 **ACM TKDD**
 
 [1] Li, X., Zhou, H., Yao, W., Li, W., Liu, B., & Lin, Y. (2024). [Intricate Spatiotemporal Dependency Learning for Temporal Knowledge Graph Reasoning](https://dl.acm.org/doi/abs/10.1145/3648366). ACM Transactions on Knowledge Discovery from Data.
@@ -217,6 +222,10 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 [5] Dai, Y., Guo, W., & Eickhoff, C. (2024). [Wasserstein adversarial learning based temporal knowledge graph embedding](https://www.sciencedirect.com/science/article/pii/S002002552301647X?via%3Dihub). Information Sciences, 659, 120061.
 
 [6] Xu, X., Jia, W., Yan, L., Lu, X., Wang, C., & Ma, Z. (2024). [Spatiotemporal knowledge graph completion via diachronic and transregional word embedding](https://www.sciencedirect.com/science/article/pii/S0020025524003906). Information Sciences, 120477.
+
+[7] Guo, J., Zhao, M., Yu, J., Yu, R., Song, J., Wang, Q., ... & Yu, M. (2024). [EHPR: Learning Evolutionary Hierarchy Perception Representation based on Quaternion for Temporal Knowledge Graph Completion](https://www.sciencedirect.com/science/article/pii/S0020025524013239). Information Sciences, 121409.
+
+[8] Si, Y., Hu, X., Cheng, Q., Liu, X., Liu, S., & Huang, J. (2025). [Coherence mode: Characterizing local graph structural information for temporal knowledge graph](https://www.sciencedirect.com/science/article/pii/S0020025524012714). Information Sciences, 686, 121357.
 
 **Information Fusion**
 
@@ -264,9 +273,15 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 [1] Ji, H., Yan, L., & Ma, Z. (2023). [FSTRE: Fuzzy Spatiotemporal RDF Knowledge Graph Embedding Using Uncertain Dynamic Vector Projection and Rotation](https://ieeexplore.ieee.org/document/10198282). IEEE Transactions on Fuzzy Systems.
 
+[2] An, X., Bai, L., Zhou, L., & Song, J. (2024). [Few-shot Fuzzy Temporal Knowledge Graph Completion via Fuzzy Semantics and Dynamic Attention Network](https://ieeexplore.ieee.org/abstract/document/10643313/). IEEE Transactions on Fuzzy Systems.
+
+[3] Wang, C., Yan, L., & Ma, Z. (2024). [Fuzzy Event Knowledge Graph Embedding Through Event Temporal and Causal Transfer](https://ieeexplore.ieee.org/abstract/document/10646584/). IEEE Transactions on Fuzzy Systems.  
+
 **Electronics**
 
 [1] 🔥 Xu, H., Bao, J., Li, H., He, C., & Chen, F. (2024). [A Multi-View Temporal Knowledge Graph Reasoning Framework with Interpretable Logic Rules and Feature Fusion](https://www.mdpi.com/2079-9292/13/4/742). Electronics, 13(4), 742.
+
+[2] Liu, Y., Shen, Y., & Dai, Y. (2024). [Enhancing Temporal Knowledge Graph Representation with Curriculum Learning](https://www.mdpi.com/2079-9292/13/17/3397). Electronics, 13(17), 3397.
 
 **Neurocomputing**
 
