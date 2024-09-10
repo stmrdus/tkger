@@ -127,8 +127,12 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 14. **Temporal Knowledge Graph Reasoning: A Review**. ig Data and Social Computing. BDSC 2024. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5803-6_26)
    _Yu, C., Luo, T., Wang, J., Cao, Z._
 
-15. Neural-Symbolic Methods for Knowledge Graph Reasoning: A Survey. ACM Transactions on Knowledge Discovery from Data. [paper](https://dl.acm.org/doi/abs/10.1145/3686806)
+15. **Neural-Symbolic Methods for Knowledge Graph Reasoning: A Survey**. ACM Transactions on Knowledge Discovery from Data. [paper](https://dl.acm.org/doi/abs/10.1145/3686806)
    _Cheng, K., Ahmed, N. K., Rossi, R. A., Willke, T., & Sun, Y. (2024)._
+
+16. **A survey on temporal knowledge graph embedding: Models and applications**. Knowledge-Based Systems (2024): 112454. [paper](https://www.sciencedirect.com/science/article/pii/S0950705124010888)
+   _Zhang, Yuchao, Xiangjie Kong, Zhehui Shen, Jianxin Li, Qiuhua Yi, Guojiang Shen, and Bo Dong_
+
 
 ### 2023
 
