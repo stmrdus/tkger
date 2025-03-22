@@ -43,7 +43,7 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
    _Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs)._
 
-8. KGE, [Github](https://github.com/xinguoxia/KGE)
+8. KGE, [Github](https://github.com/Yueshengxia/KGE)
 
    _Some papers on Knowledge Graph Embedding(KGE)_
 
@@ -185,7 +185,81 @@ Some papers on Temporal Knowledge Graph Embedding and Reasoning
 | ICEWS18    | 23033     | 256        | 304         | 468558       | point     | [https://docs.dgl.ai/en/0.8.x/generated/dgl.data.ICEWS18Dataset.html](https://docs.dgl.ai/en/0.8.x/generated/dgl.data.ICEWS18Dataset.html) |
 | GDELT      | 500       | 20         | 366         | 3419607      | point     | [https://www.gdeltproject.org/](https://www.gdeltproject.org/)                                                                             |
 | YAGO15k    | 15403     | 32         | 169         | 138048       | interval  | [https://paperswithcode.com/sota/link-prediction-on-yago15k-1](https://paperswithcode.com/sota/link-prediction-on-yago15k-1)               |
-| WIKIDATA   | 11153     | 96         | 328         | 150079       | interval  | [https://www.wikidata.org/wiki/Wikidata:Main_Page](https://www.wikidata.org/wiki/Wikidata:Main_Page)                                       |
+| WIKIDATA   | 11153     | 96         | 328         | 150079       | interval  | [https://www.wikidata.org/wiki/Wikidata:Main_Page](https://www.wikidata.org/wiki/Wikidata:Main_Page)      
+
+## 2025
+
+**Neural Networks**
+
+[1] Bai, L., Han, S., & Zhu, L. (2025). [Multi-hop interpretable meta learning for few-shot temporal knowledge graph completion](https://www.sciencedirect.com/science/article/pii/S0893608024009109). Neural Networks, 183, 106981. 
+
+[2] Chen, T., Yang, L., Wang, Z., & Long, J. (2025). A rule-and query-guided reinforcement learning for extrapolation reasoning in temporal knowledge graphs. Neural Networks, 107186.
+
+**Science China Information Sciences**
+
+[1] Cai, W., Li, M., Shi, X., Fan, Y., Zhu, Q., & Jin, H. (2025). RE-SEGNN: recurrent semantic evidence-aware graph neural network for temporal knowledge graph forecasting. Science China Information Sciences, 68(2), 122104.
+
+**Expert Systems With Applications**
+
+[1] Ma, R., Wang, L., Wu, H., Gao, B., Wang, X., & Zhao, L. (2025). Historical Trends and Normalizing Flow for One-shot Temporal Knowledge Graph Reasoning. Expert Systems With Applications, 260, 125366.
+
+**Information Processing & Management**
+
+[1] Bai, L., Zhang, H., An, X., & Zhu, L. (2025). Few-shot multi-hop reasoning via reinforcement learning and path search strategy over temporal knowledge graphs. Information Processing & Management, 62(3), 104001.
+
+[2] Li, Q., & Wu, G. (2025). Explainable reasoning over temporal knowledge graphs by pre-trained language model. Information Processing & Management, 62(1), 103903.
+
+[3] Xu, W., Liu, B., Peng, M., Jiang, Z., Jia, X., Liu, K., ... & Peng, M. (2025). Historical facts learning from Long-Short Terms with Language Model for Temporal Knowledge Graph Reasoning. Information Processing & Management, 62(3), 104047.
+
+**Pattern Recognition**
+
+[1] Zhang, J., Hui, B., Zhu, X., Tian, L., & Hua, F. (2025). Temporal knowledge graph reasoning based on discriminative neighboring semantic learning. Pattern Recognition, 111392.
+
+**IEEE Transactions on Neural Networks and Learning Systems**
+
+[1] Qian, Y., Wang, X., Sun, F., & Pan, L. (2025). Compressing Transfer: Mutual Learning-Empowered Knowledge Distillation for Temporal Knowledge Graph Reasoning. IEEE Transactions on Neural Networks and Learning Systems.
+
+**Information Fusion**
+
+[1] Yang, R., Zhu, J., Man, J., Liu, H., Fang, L., & Zhou, Y. (2025). GS-KGC: A generative subgraph-based framework for knowledge graph completion with large language models. Information Fusion, 117, 102868.
+
+**Knowledge-Based Systems**
+
+[1] Zhu, J., Hu, J., Bai, D., Fu, Y., Zhou, J., & Chen, D. (2025). Multi-dimension rotations based on quaternion system for modeling various patterns in temporal knowledge graphs. Knowledge-Based Systems, 113114.
+
+**PeerJ Computer Science**
+
+[1] Liu, W., Hasikin, K., Khairuddin, A. S. M., Liu, M., & Zhao, X. (2025). A temporal knowledge graph reasoning model based on recurrent encoding and contrastive learning. PeerJ Computer Science, 11, e2595.
+
+**Data & Knowledge Engineering**
+
+[1] Zhu, L., Duan, X., & Bai, L. (2025). SSQTKG: A Subgraph-based Semantic Query Approach for Temporal Knowledge Graph. Data & Knowledge Engineering, 155, 102372.
+
+**Symmetry**
+
+[1] Chen, Y., Li, X., Liu, Y., & Hu, T. (2025). Integrating Transformer Architecture and Householder Transformations for Enhanced Temporal Knowledge Graph Embedding in DuaTHP. Symmetry, 17(2), 173.
+
+**Expert Systems**
+
+[1] Chen, H., Zhang, M., & Chen, Z. (2025). Temporal Knowledge Graph Reasoning Based on Dynamic Fusion Representation Learning. Expert Systems, 42(2), e13758.
+
+**Information Sciences**
+
+[1] Guo, J., Zhao, M., Yu, J., Yu, R., Song, J., Wang, Q., ... & Yu, M. (2025). EHPR: Learning evolutionary hierarchy perception representation based on quaternion for temporal knowledge graph completion. Information Sciences, 688, 121409.
+
+[2] Si, Y., Hu, X., Cheng, Q., Liu, X., Liu, S., & Huang, J. (2025). Coherence mode: Characterizing local graph structural information for temporal knowledge graph. Information Sciences, 686, 121357.
+
+**Engineering Applications of Artificial Intelligence**
+
+[1] Nguyen, N. T., Ngo, T., Hoang, N., & Le, T. (2025). FTPComplEx: A flexible time perspective approach to temporal knowledge graph completion. Engineering Applications of Artificial Intelligence, 139, 109717.
+
+**Journal of Intelligent Information Systems**
+
+[1] Chen, Z., & Wu, J. (2025). Temporal knowledge graph completion based on product space and contrastive learning of commonsense. Journal of Intelligent Information Systems, 1-20.
+
+**Computer Science and Information Systems**
+
+[1] Li, S., Wang, Q., Li, Z., & Zhang, L. (2025). TPBoxE: Temporal knowledge graph completion based on time probability box embedding. Computer Science and Information Systems, (00), 6-6.                        |
 
 ## 2024
 
