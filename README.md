@@ -14,7 +14,6 @@
 Some papers on Temporal Knowledge Graph Embedding and Reasoning
 
 ## Table of Contents
-- [TKGER](#tkger)
 - [Useful Research Resources](#useful-research-resources)
 - [Tutorial](#tutorial)
   - [2024](#tutorial-2024)
